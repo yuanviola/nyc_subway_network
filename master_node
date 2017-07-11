@@ -1,0 +1,466 @@
+,master_node_id,stop_name,stop_id
+0,1 Av_0,1 Av,L06
+1,103 St - Corona Plaza_0,103 St - Corona Plaza,706
+2,103 St_0,103 St,119
+3,103 St_1,103 St,624
+4,103 St_2,103 St,A18
+5,104 St_0,104 St,A63
+6,104 St_1,104 St,J14
+7,110 St_0,110 St,623
+8,111 St_0,111 St,705
+9,111 St_1,111 St,A64
+10,111 St_2,111 St,J13
+11,116 St - Columbia University_0,116 St - Columbia University,117
+12,116 St_0,116 St,226
+13,116 St_1,116 St,622
+14,116 St_2,116 St,A16
+15,121 St_0,121 St,J12
+16,125 St_0,125 St,116
+17,125 St_1,125 St,225
+18,125 St_2,125 St,621
+19,125 St_3,125 St,A15
+20,135 St_0,135 St,224
+21,135 St_1,135 St,A14
+22,137 St - City College_0,137 St - City College,115
+23,138 St - Grand Concourse_0,138 St - Grand Concourse,416
+24,14 St - Union Sq_0,14 St - Union Sq,"635,R20"
+25,14 St_0,14 St,132
+26,14 St_1,14 St,A31
+27,14 St_2,14 St,D19
+28,145 St_0,145 St,"A12,D13"
+29,145 St_1,145 St,114
+30,145 St_2,145 St,302
+31,149 St - Grand Concourse_0,149 St - Grand Concourse,"222,415"
+32,15 St - Prospect Park_0,15 St - Prospect Park,F25
+33,155 St_0,155 St,A11
+34,155 St_1,155 St,D12
+35,157 St_0,157 St,113
+36,161 St - Yankee Stadium_0,161 St - Yankee Stadium,"414,D11"
+37,163 St - Amsterdam Av_0,163 St - Amsterdam Av,A10
+38,167 St_0,167 St,413
+39,167 St_1,167 St,D10
+40,168 St - Washington Hts_0,168 St - Washington Hts,112
+41,168 St_0,168 St,A09
+42,169 St_0,169 St,F02
+43,170 St_0,170 St,412
+44,170 St_1,170 St,D09
+45,174 St_0,174 St,215
+46,174-175 Sts_0,174-175 Sts,D08
+47,175 St_0,175 St,A07
+48,176 St_0,176 St,410
+49,18 Av_0,18 Av,B19
+50,18 Av_1,18 Av,F30
+51,18 Av_2,18 Av,N05
+52,18 St_0,18 St,131
+53,181 St_0,181 St,111
+54,181 St_1,181 St,A06
+55,182-183 Sts_0,182-183 Sts,D06
+56,183 St_0,183 St,408
+57,190 St_0,190 St,A05
+58,191 St_0,191 St,110
+59,2 Av_0,2 Av,F14
+60,20 Av_0,20 Av,B20
+61,20 Av_1,20 Av,N06
+62,207 St_0,207 St,108
+63,21 St - Queensbridge_0,21 St - Queensbridge,B04
+64,21 St_0,21 St,G24
+65,215 St_0,215 St,107
+66,219 St_0,219 St,207
+67,225 St_0,225 St,206
+68,23 St_0,23 St,130
+69,23 St_1,23 St,634
+70,23 St_2,23 St,A30
+71,23 St_3,23 St,D18
+72,23 St_4,23 St,R19
+73,231 St_0,231 St,104
+74,233 St_0,233 St,205
+75,238 St_0,238 St,103
+76,25 Av_0,25 Av,B22
+77,25 St_0,25 St,R35
+78,28 St_0,28 St,129
+79,28 St_1,28 St,633
+80,28 St_2,28 St,R18
+81,3 Av - 138 St_0,3 Av - 138 St,619
+82,3 Av - 149 St_0,3 Av - 149 St,221
+83,3 Av_0,3 Av,L05
+84,30 Av_0,30 Av,R04
+85,33 St_0,33 St,632
+86,33 St_1,33 St,716
+87,34 St - 11 Av_0,34 St - 11 Av,726
+88,34 St - Herald Sq_0,34 St - Herald Sq,"D17,R17"
+89,34 St - Penn Station_0,34 St - Penn Station,128
+90,34 St - Penn Station_1,34 St - Penn Station,A28
+91,36 Av_0,36 Av,R06
+92,36 St_0,36 St,R36
+93,36 St_1,36 St,G20
+94,39 Av_0,39 Av,R08
+95,4 Av_0,4 Av,F23
+96,40 St_0,40 St,715
+97,42 St - Bryant Pk_0,42 St - Bryant Pk,D16
+98,42 St - Port Authority Bus Terminal_0,42 St - Port Authority Bus Terminal,A27
+99,45 St_0,45 St,R39
+100,46 St_0,46 St,714
+101,46 St_1,46 St,G18
+102,47-50 Sts - Rockefeller Ctr_0,47-50 Sts - Rockefeller Ctr,D15
+103,49 St_0,49 St,R15
+104,5 Av/53 St_0,5 Av/53 St,F12
+105,5 Av/59 St_0,5 Av/59 St,R13
+106,5 Av_0,5 Av,724
+107,50 St_0,50 St,126
+108,50 St_1,50 St,A25
+109,50 St_2,50 St,B14
+110,51 St_0,51 St,630
+111,52 St_0,52 St,713
+112,53 St_0,53 St,R40
+113,55 St_0,55 St,B15
+114,57 St - 7 Av_0,57 St - 7 Av,R14
+115,57 St_0,57 St,B10
+116,59 St - Columbus Circle_0,59 St - Columbus Circle,"125,A24"
+117,59 St_0,59 St,629
+118,59 St_1,59 St,R41
+119,6 Av_0,6 Av,L02
+120,62 St_0,62 St,B16
+121,63 Dr - Rego Park_0,63 Dr - Rego Park,G10
+122,65 St_0,65 St,G15
+123,66 St - Lincoln Center_0,66 St - Lincoln Center,124
+124,67 Av_0,67 Av,G09
+125,68 St - Hunter College_0,68 St - Hunter College,628
+126,69 St_0,69 St,711
+127,7 Av_0,7 Av,D14
+128,7 Av_1,7 Av,D25
+129,7 Av_2,7 Av,F24
+130,71 St_0,71 St,B17
+131,72 St_0,72 St,123
+132,72 St_1,72 St,A22
+133,72 St_2,72 St,Q03
+134,74 St - Broadway_0,74 St - Broadway,710
+135,75 Av_0,75 Av,F07
+136,75 St_0,75 St,J17
+137,77 St_0,77 St,627
+138,77 St_1,77 St,R43
+139,79 St_0,79 St,122
+140,79 St_1,79 St,B18
+141,8 Av_0,8 Av,L01
+142,8 Av_1,8 Av,N02
+143,8 St - NYU_0,8 St - NYU,R21
+144,80 St_0,80 St,A59
+145,81 St - Museum of Natural History_0,81 St - Museum of Natural History,A21
+146,82 St - Jackson Hts_0,82 St - Jackson Hts,709
+147,85 St - Forest Pkwy_0,85 St - Forest Pkwy,J16
+148,86 St_0,86 St,121
+149,86 St_1,86 St,626
+150,86 St_2,86 St,A20
+151,86 St_3,86 St,N10
+152,86 St_4,86 St,Q04
+153,86 St_5,86 St,R44
+154,88 St_0,88 St,A60
+155,9 Av_0,9 Av,B12
+156,9 St_0,9 St,R33
+157,90 St - Elmhurst Av_0,90 St - Elmhurst Av,708
+158,96 St_0,96 St,120
+159,96 St_1,96 St,625
+160,96 St_2,96 St,A19
+161,96 St_3,96 St,Q05
+162,Alabama Av_0,Alabama Av,J24
+163,Allerton Av_0,Allerton Av,210
+164,Annadale_0,Annadale,S17
+165,Aqueduct - N Conduit Av_0,Aqueduct - N Conduit Av,H02
+166,Aqueduct Racetrack_0,Aqueduct Racetrack,H01
+167,Arthur Kill_0,Arthur Kill,S11
+168,Astor Pl_0,Astor Pl,636
+169,Astoria - Ditmars Blvd_0,Astoria - Ditmars Blvd,R01
+170,Astoria Blvd_0,Astoria Blvd,R03
+171,Atlantic Av - Barclays Ctr_0,Atlantic Av - Barclays Ctr,"235,D24,R31"
+172,Atlantic Av_0,Atlantic Av,L24
+173,Avenue H_0,Avenue H,D32
+174,Avenue I_0,Avenue I,F31
+175,Avenue J_0,Avenue J,D33
+176,Avenue M_0,Avenue M,D34
+177,Avenue N_0,Avenue N,F33
+178,Avenue P_0,Avenue P,F34
+179,Avenue U_0,Avenue U,F36
+180,Avenue U_1,Avenue U,N09
+181,Avenue U_2,Avenue U,D37
+182,Avenue X_0,Avenue X,F38
+183,Bay 50 St_0,Bay 50 St,B23
+184,Bay Pkwy_0,Bay Pkwy,B21
+185,Bay Pkwy_1,Bay Pkwy,F32
+186,Bay Pkwy_2,Bay Pkwy,N07
+187,Bay Ridge - 95 St_0,Bay Ridge - 95 St,R45
+188,Bay Ridge Av_0,Bay Ridge Av,R42
+189,Bay Terrace_0,Bay Terrace,S20
+190,Baychester Av_0,Baychester Av,502
+191,Beach 105 St_0,Beach 105 St,H14
+192,Beach 25 St_0,Beach 25 St,H10
+193,Beach 36 St_0,Beach 36 St,H09
+194,Beach 44 St_0,Beach 44 St,H08
+195,Beach 60 St_0,Beach 60 St,H07
+196,Beach 67 St_0,Beach 67 St,H06
+197,Beach 90 St_0,Beach 90 St,H12
+198,Beach 98 St_0,Beach 98 St,H13
+199,Bedford - Nostrand Avs_0,Bedford - Nostrand Avs,G33
+200,Bedford Av_0,Bedford Av,L08
+201,Bedford Park Blvd - Lehman College_0,Bedford Park Blvd - Lehman College,405
+202,Bedford Park Blvd_0,Bedford Park Blvd,D03
+203,Bergen St_0,Bergen St,236
+204,Bergen St_1,Bergen St,F20
+205,Beverley Rd_0,Beverley Rd,D29
+206,Beverly Rd_0,Beverly Rd,245
+207,Bleecker St_0,Bleecker St,637
+208,Borough Hall_0,Borough Hall,"232,423"
+209,Botanic Garden_0,Botanic Garden,S04
+210,Bowery_0,Bowery,M19
+211,Bowling Green_0,Bowling Green,420
+212,Briarwood - Van Wyck Blvd_0,Briarwood - Van Wyck Blvd,F05
+213,Brighton Beach_0,Brighton Beach,D40
+214,Broad Channel_0,Broad Channel,H04
+215,Broad St_0,Broad St,M23
+216,Broadway Jct_0,Broadway Jct,"A51,J27,L22"
+217,Broadway-Lafayette St_0,Broadway-Lafayette St,D21
+218,Broadway_0,Broadway,G30
+219,Broadway_1,Broadway,R05
+220,Bronx Park East_0,Bronx Park East,212
+221,Brook Av_0,Brook Av,618
+222,Brooklyn Bridge - City Hall_0,Brooklyn Bridge - City Hall,640
+223,Buhre Av_0,Buhre Av,602
+224,Burke Av_0,Burke Av,209
+225,Burnside Av_0,Burnside Av,409
+226,Bushwick Av - Aberdeen St_0,Bushwick Av - Aberdeen St,L21
+227,Canal St_0,Canal St,"639,M20,Q01,R23"
+228,Canal St_1,Canal St,135
+229,Canal St_2,Canal St,A34
+230,Canarsie - Rockaway Pkwy_0,Canarsie - Rockaway Pkwy,L29
+231,Carroll St_0,Carroll St,F21
+232,Castle Hill Av_0,Castle Hill Av,607
+233,Cathedral Pkwy (110 St)_0,Cathedral Pkwy (110 St),A17
+234,Cathedral Pkwy_0,Cathedral Pkwy,118
+235,Central Park North (110 St)_0,Central Park North (110 St),227
+236,Chambers St_0,Chambers St,137
+237,Chambers St_1,Chambers St,A36
+238,Chambers St_2,Chambers St,M21
+239,Chauncey St_0,Chauncey St,J28
+240,Christopher St - Sheridan Sq_0,Christopher St - Sheridan Sq,133
+241,Church Av_0,Church Av,244
+242,Church Av_1,Church Av,D28
+243,Church Av_2,Church Av,F27
+244,City Hall_0,City Hall,R24
+245,Clark St_0,Clark St,231
+246,Classon Av_0,Classon Av,G34
+247,Cleveland St_0,Cleveland St,J22
+248,Clifton_0,Clifton,S28
+249,Clinton - Washington Avs_0,Clinton - Washington Avs,A44
+250,Clinton - Washington Avs_1,Clinton - Washington Avs,G35
+251,Coney Island - Stillwell Av_0,Coney Island - Stillwell Av,D43
+252,Cortelyou Rd_0,Cortelyou Rd,D30
+253,Cortlandt St_0,Cortlandt St,138
+254,Cortlandt St_1,Cortlandt St,R25
+255,Court Sq_0,Court Sq,"719,F09,G22"
+256,Court St_0,Court St,R28
+257,Crescent St_0,Crescent St,J20
+258,Crown Hts - Utica Av_0,Crown Hts - Utica Av,250
+259,Cypress Av_0,Cypress Av,617
+260,Cypress Hills_0,Cypress Hills,J19
+261,DeKalb Av_0,DeKalb Av,R30
+262,DeKalb Av_1,DeKalb Av,L16
+263,Delancey St_0,Delancey St,F15
+264,Ditmas Av_0,Ditmas Av,F29
+265,Dongan Hills_0,Dongan Hills,S25
+266,Dyckman St_0,Dyckman St,109
+267,Dyckman St_1,Dyckman St,A03
+268,E 105 St_0,E 105 St,L28
+269,E 143 St - St Mary's St_0,E 143 St - St Mary's St,616
+270,E 149 St_0,E 149 St,615
+271,E 180 St_0,E 180 St,213
+272,East Broadway_0,East Broadway,F16
+273,Eastchester - Dyre Av_0,Eastchester - Dyre Av,501
+274,Eastern Pkwy - Brooklyn Museum_0,Eastern Pkwy - Brooklyn Museum,238
+275,Elder Av_0,Elder Av,611
+276,Elmhurst Av_0,Elmhurst Av,G13
+277,Eltingville_0,Eltingville,S18
+278,Essex St_0,Essex St,M18
+279,Euclid Av_0,Euclid Av,A55
+280,Far Rockaway - Mott Av_0,Far Rockaway - Mott Av,H11
+281,Flatbush Av - Brooklyn College_0,Flatbush Av - Brooklyn College,247
+282,Flushing - Main St_0,Flushing - Main St,701
+283,Flushing Av_0,Flushing Av,G31
+284,Flushing Av_1,Flushing Av,M12
+285,Fordham Rd_0,Fordham Rd,407
+286,Fordham Rd_1,Fordham Rd,D05
+287,Forest Av_0,Forest Av,M05
+288,Forest Hills - 71 Av_0,Forest Hills - 71 Av,G08
+289,Fort Hamilton Pkwy_0,Fort Hamilton Pkwy,B13
+290,Fort Hamilton Pkwy_1,Fort Hamilton Pkwy,F26
+291,Fort Hamilton Pkwy_2,Fort Hamilton Pkwy,N03
+292,Franklin Av_0,Franklin Av,"A45,S01"
+293,Franklin Av_1,Franklin Av,239
+294,Franklin St_0,Franklin St,136
+295,Freeman St_0,Freeman St,216
+296,Fresh Pond Rd_0,Fresh Pond Rd,M04
+297,Fulton St_0,Fulton St,"229,M22"
+298,Fulton St_1,Fulton St,"418,A38"
+299,Fulton St_2,Fulton St,G36
+300,Gates Av_0,Gates Av,J30
+301,Graham Av_0,Graham Av,L11
+302,Grand Army Plaza_0,Grand Army Plaza,237
+303,Grand Av - Newtown_0,Grand Av - Newtown,G12
+304,Grand Central - 42 St_0,Grand Central - 42 St,"631,723"
+305,Grand Central - 42 St_1,Grand Central - 42 St,901
+306,Grand St_0,Grand St,D22
+307,Grand St_1,Grand St,L12
+308,Grant Av_0,Grant Av,A57
+309,Grant City_0,Grant City,S23
+310,Grasmere_0,Grasmere,S27
+311,Great Kills_0,Great Kills,S19
+312,Greenpoint Av_0,Greenpoint Av,G26
+313,Gun Hill Rd_0,Gun Hill Rd,208
+314,Gun Hill Rd_1,Gun Hill Rd,503
+315,Halsey St_0,Halsey St,J29
+316,Halsey St_1,Halsey St,L19
+317,Harlem - 148 St_0,Harlem - 148 St,301
+318,Hewes St_0,Hewes St,M14
+319,High St_0,High St,A40
+320,Houston St_0,Houston St,134
+321,Howard Beach - JFK Airport_0,Howard Beach - JFK Airport,H03
+322,Hoyt - Schermerhorn Sts_0,Hoyt - Schermerhorn Sts,A42
+323,Hoyt St_0,Hoyt St,233
+324,Huguenot_0,Huguenot,S16
+325,Hunters Point Av_0,Hunters Point Av,720
+326,Hunts Point Av_0,Hunts Point Av,613
+327,Intervale Av_0,Intervale Av,218
+328,Inwood - 207 St_0,Inwood - 207 St,A02
+329,Jackson Av_0,Jackson Av,220
+330,Jackson Hts - Roosevelt Av_0,Jackson Hts - Roosevelt Av,G14
+331,Jamaica - 179 St_0,Jamaica - 179 St,F01
+332,Jamaica - Van Wyck_0,Jamaica - Van Wyck,G07
+333,Jamaica Center - Parsons/Archer_0,Jamaica Center - Parsons/Archer,G05
+334,Jay St - MetroTech_0,Jay St - MetroTech,"A41,R29"
+335,Jefferson Av_0,Jefferson Av,S24
+336,Jefferson St_0,Jefferson St,L15
+337,Junction Blvd_0,Junction Blvd,707
+338,Junius St_0,Junius St,254
+339,Kew Gardens - Union Tpke_0,Kew Gardens - Union Tpke,F06
+340,Kings Hwy_0,Kings Hwy,D35
+341,Kings Hwy_1,Kings Hwy,F35
+342,Kings Hwy_2,Kings Hwy,N08
+343,Kingsbridge Rd_0,Kingsbridge Rd,406
+344,Kingsbridge Rd_1,Kingsbridge Rd,D04
+345,Kingston - Throop Avs_0,Kingston - Throop Avs,A47
+346,Kingston Av_0,Kingston Av,249
+347,Kosciuszko St_0,Kosciuszko St,J31
+348,Lafayette Av_0,Lafayette Av,A43
+349,Lexington Av/53 St_0,Lexington Av/53 St,F11
+350,Lexington Av/59 St_0,Lexington Av/59 St,R11
+351,Lexington Av/63 St_0,Lexington Av/63 St,B08
+352,Liberty Av_0,Liberty Av,A52
+353,Livonia Av_0,Livonia Av,L26
+354,Longwood Av_0,Longwood Av,614
+355,Lorimer St_0,Lorimer St,M13
+356,Lorimer St_1,Lorimer St,L10
+357,Marble Hill - 225 St_0,Marble Hill - 225 St,106
+358,Marcy Av_0,Marcy Av,M16
+359,Metropolitan Av_0,Metropolitan Av,G29
+360,Mets - Willets Point_0,Mets - Willets Point,702
+361,Middle Village - Metropolitan Av_0,Middle Village - Metropolitan Av,M01
+362,Middletown Rd_0,Middletown Rd,603
+363,Montrose Av_0,Montrose Av,L13
+364,Morgan Av_0,Morgan Av,L14
+365,Morris Park_0,Morris Park,505
+366,Morrison Av- Sound View_0,Morrison Av- Sound View,610
+367,Mosholu Pkwy_0,Mosholu Pkwy,402
+368,Mt Eden Av_0,Mt Eden Av,411
+369,Myrtle - Willoughby Avs_0,Myrtle - Willoughby Avs,G32
+370,Myrtle - Wyckoff Avs_0,Myrtle - Wyckoff Avs,"L17,M08"
+371,Myrtle Av_0,Myrtle Av,M11
+372,Nassau Av_0,Nassau Av,G28
+373,Neck Rd_0,Neck Rd,D38
+374,Neptune Av_0,Neptune Av,F39
+375,Nereid Av_0,Nereid Av,204
+376,Nevins St_0,Nevins St,234
+377,New Dorp_0,New Dorp,S22
+378,New Lots Av_0,New Lots Av,257
+379,New Lots Av_1,New Lots Av,L27
+380,New Utrecht Av_0,New Utrecht Av,N04
+381,Newkirk Av_0,Newkirk Av,246
+382,Newkirk Plaza_0,Newkirk Plaza,D31
+383,Northern Blvd_0,Northern Blvd,G16
+384,Norwood - 205 St_0,Norwood - 205 St,D01
+385,Norwood Av_0,Norwood Av,J21
+386,Nostrand Av_0,Nostrand Av,248
+387,Nostrand Av_1,Nostrand Av,A46
+388,Oakwood Heights_0,Oakwood Heights,S21
+389,Ocean Pkwy_0,Ocean Pkwy,D41
+390,Old Town_0,Old Town,S26
+391,Ozone Park - Lefferts Blvd_0,Ozone Park - Lefferts Blvd,A65
+392,Park Pl_0,Park Pl,228
+393,Park Pl_1,Park Pl,S03
+394,Parkchester_0,Parkchester,608
+395,Parkside Av_0,Parkside Av,D27
+396,Parsons Blvd_0,Parsons Blvd,F03
+397,Pelham Bay Park_0,Pelham Bay Park,601
+398,Pelham Pkwy_0,Pelham Pkwy,211
+399,Pelham Pkwy_1,Pelham Pkwy,504
+400,Pennsylvania Av_0,Pennsylvania Av,255
+401,Pleasant Plains_0,Pleasant Plains,S14
+402,President St_0,President St,241
+403,Prince St_0,Prince St,R22
+404,Prince's Bay_0,Prince's Bay,S15
+405,Prospect Av_0,Prospect Av,219
+406,Prospect Av_1,Prospect Av,R34
+407,Prospect Park_0,Prospect Park,D26
+408,Queens Plaza_0,Queens Plaza,G21
+409,Queensboro Plaza_0,Queensboro Plaza,"718,R09"
+410,Ralph Av_0,Ralph Av,A49
+411,Rector St_0,Rector St,"139,R26"
+412,Richmond Valley_0,Richmond Valley,S13
+413,Rockaway Av_0,Rockaway Av,253
+414,Rockaway Av_1,Rockaway Av,A50
+415,Rockaway Blvd_0,Rockaway Blvd,A61
+416,Rockaway Park - Beach 116 St_0,Rockaway Park - Beach 116 St,H15
+417,Roosevelt Island_0,Roosevelt Island,B06
+418,Saratoga Av_0,Saratoga Av,252
+419,Seneca Av_0,Seneca Av,M06
+420,Sheepshead Bay_0,Sheepshead Bay,D39
+421,Shepherd Av_0,Shepherd Av,A54
+422,Simpson St_0,Simpson St,217
+423,Smith - 9 Sts_0,Smith - 9 Sts,F22
+424,Spring St_0,Spring St,638
+425,Spring St_1,Spring St,A33
+426,St George_0,St George,S31
+427,St Lawrence Av_0,St Lawrence Av,609
+428,Stapleton_0,Stapleton,S29
+429,Steinway St_0,Steinway St,G19
+430,Sterling St_0,Sterling St,242
+431,Sutphin Blvd - Archer Av - JFK Airport_0,Sutphin Blvd - Archer Av - JFK Airport,G06
+432,Sutphin Blvd_0,Sutphin Blvd,F04
+433,Sutter Av - Rutland Rd_0,Sutter Av - Rutland Rd,251
+434,Sutter Av_0,Sutter Av,L25
+435,Times Sq - 42 St_0,Times Sq - 42 St,"127,725,902,R16"
+436,Tompkinsville_0,Tompkinsville,S30
+437,Tottenville_0,Tottenville,S09
+438,Tremont Av_0,Tremont Av,D07
+439,Union Sq - 14 St_0,Union Sq - 14 St,L03
+440,Union St_0,Union St,R32
+441,Utica Av_0,Utica Av,A48
+442,Van Cortlandt Park - 242 St_0,Van Cortlandt Park - 242 St,101
+443,Van Siclen Av_0,Van Siclen Av,256
+444,Van Siclen Av_1,Van Siclen Av,A53
+445,Van Siclen Av_2,Van Siclen Av,J23
+446,Vernon Blvd - Jackson Av_0,Vernon Blvd - Jackson Av,721
+447,W 4 St_0,W 4 St,"A32,D20"
+448,W 8 St - NY Aquarium_0,W 8 St - NY Aquarium,D42
+449,Wakefield - 241 St_0,Wakefield - 241 St,201
+450,Wall St_0,Wall St,230
+451,Wall St_1,Wall St,419
+452,West Farms Sq - E Tremont Av_0,West Farms Sq - E Tremont Av,214
+453,Westchester Sq - E Tremont Av_0,Westchester Sq - E Tremont Av,604
+454,Whitehall St_0,Whitehall St,R27
+455,Whitlock Av_0,Whitlock Av,612
+456,Wilson Av_0,Wilson Av,L20
+457,Winthrop St_0,Winthrop St,243
+458,Woodhaven Blvd_0,Woodhaven Blvd,G11
+459,Woodhaven Blvd_1,Woodhaven Blvd,J15
+460,Woodlawn_0,Woodlawn,401
+461,Woodside - 61 St_0,Woodside - 61 St,712
+462,World Trade Center_0,World Trade Center,E01
+463,York St_0,York St,F18
+464,Zerega Av_0,Zerega Av,606
