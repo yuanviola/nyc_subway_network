@@ -1,0 +1,1226 @@
+,station,delay_with_demand
+0,"Jackson Hts - Roosevelt Av_0,Queensboro Plaza_0",871340604.3
+1,"Jackson Hts - Roosevelt Av_0,Broadway Jct_0",815196754.8
+2,"149 St - Grand Concourse_0,59 St_0",703521382.7
+3,"Broadway Jct_0,Franklin Av_1",664595095
+4,"Broadway Jct_0,Forest Hills - 71 Av_0",643355685.1
+5,"Grand Central - 42 St_0,14 St - Union Sq_0",617965559.8
+6,"Broadway Jct_0,Kew Gardens - Union Tpke_0",609565797.3
+7,"149 St - Grand Concourse_0,86 St_1",605429144.8
+8,"Jackson Hts - Roosevelt Av_0,149 St - Grand Concourse_0",558874057.7
+9,"Jackson Hts - Roosevelt Av_0,125 St_2",553397873.2
+10,"Jackson Hts - Roosevelt Av_0,Grand Central - 42 St_0",540216291.4
+11,"149 St - Grand Concourse_0,Broadway Jct_0",538606488.3
+12,"Jackson Hts - Roosevelt Av_0,Lexington Av-63 St_0",536146978.9
+13,"125 St_2,Broadway Jct_0",534683411.2
+14,"149 St - Grand Concourse_0,Junction Blvd_0",530164214.1
+15,"Jackson Hts - Roosevelt Av_0,3 Av - 149 St_0",528475377.3
+16,"149 St - Grand Concourse_0,Kew Gardens - Union Tpke_0",527790693.8
+17,"125 St_2,Junction Blvd_0",525603410.5
+18,"Broadway Jct_0,Grand Central - 42 St_0",525395804.8
+19,"149 St - Grand Concourse_0,Grand Central - 42 St_0",525147319.9
+20,"Jackson Hts - Roosevelt Av_0,Junction Blvd_0",523688982
+21,"125 St_2,59 St_0",523522653.5
+22,"125 St_2,Kew Gardens - Union Tpke_0",522281772.9
+23,"Broadway Jct_0,Junction Blvd_0",521597060
+24,"Grand Central - 42 St_0,Junction Blvd_0",514578202.1
+25,"Grand Central - 42 St_0,Kew Gardens - Union Tpke_0",512676021.4
+26,"125 St_2,Grand Central - 42 St_0",511703677.3
+27,"Jackson Hts - Roosevelt Av_0,Franklin Av_1",509672806.1
+28,"Broadway Jct_0,3 Av - 149 St_0",508088051.9
+29,"Jackson Hts - Roosevelt Av_0,3 Av - 138 St_0",505243302.7
+30,"149 St - Grand Concourse_0,59 St - Columbus Circle_0",504387547.9
+31,"Junction Blvd_0,Kew Gardens - Union Tpke_0",504276580
+32,"Jackson Hts - Roosevelt Av_0,Kew Gardens - Union Tpke_0",503532679.6
+33,"Junction Blvd_0,3 Av - 149 St_0",500073530.6
+34,"149 St - Grand Concourse_0,Queensboro Plaza_0",499846239
+35,"Jackson Hts - Roosevelt Av_0,161 St - Yankee Stadium_0",498764065.7
+36,"Broadway Jct_0,Lexington Av-63 St_0",497993324.3
+37,"Kew Gardens - Union Tpke_0,3 Av - 149 St_0",497407725
+38,"149 St - Grand Concourse_0,Lexington Av-63 St_0",496267991
+39,"Jackson Hts - Roosevelt Av_0,36 St_0",495417499.9
+40,"Grand Central - 42 St_0,3 Av - 149 St_0",495176517.5
+41,"125 St_2,Queensboro Plaza_0",493997303.8
+42,"125 St_2,Lexington Av-63 St_0",492396068.7
+43,"Grand Central - 42 St_0,Lexington Av-63 St_0",492213022.2
+44,"149 St - Grand Concourse_0,Franklin Av_1",491877903.7
+45,"Broadway Jct_0,Queensboro Plaza_0",491571860.3
+46,"125 St_2,Franklin Av_1",487986140.6
+47,"Jackson Hts - Roosevelt Av_0,72 St_2",487878632.4
+48,"Junction Blvd_0,Lexington Av-63 St_0",487831697.6
+49,"Broadway Jct_0,3 Av - 138 St_0",485569788.5
+50,"Kew Gardens - Union Tpke_0,Queensboro Plaza_0",482449221.7
+51,"Grand Central - 42 St_0,Queensboro Plaza_0",481524116.4
+52,"Kew Gardens - Union Tpke_0,Lexington Av-63 St_0",480531420.6
+53,"Junction Blvd_0,Franklin Av_1",479692111.1
+54,"149 St - Grand Concourse_0,125 St_2",479248162.3
+55,"Jackson Hts - Roosevelt Av_0,Euclid Av_0",478884049.5
+56,"Grand Central - 42 St_0,Franklin Av_1",478739166.3
+57,"Broadway Jct_0,161 St - Yankee Stadium_0",477953429
+58,"Junction Blvd_0,3 Av - 138 St_0",477845330.6
+59,"149 St - Grand Concourse_0,36 St_0",477658423.2
+60,"Kew Gardens - Union Tpke_0,Franklin Av_1",476654868.5
+61,"125 St_2,36 St_0",474159467.2
+62,"Kew Gardens - Union Tpke_0,3 Av - 138 St_0",474149943.3
+63,"125 St_2,3 Av - 149 St_0",474092922.9
+64,"Broadway Jct_0,36 St_0",471963857.1
+65,"Grand Central - 42 St_0,161 St - Yankee Stadium_0",471663842.9
+66,"149 St - Grand Concourse_0,72 St_2",471588481.9
+67,"Junction Blvd_0,Queensboro Plaza_0",470411160.5
+68,"Jackson Hts - Roosevelt Av_0,Grant Av_0",469946791.3
+69,"Junction Blvd_0,161 St - Yankee Stadium_0",469942936.5
+70,"3 Av - 149 St_0,Queensboro Plaza_0",469804903.1
+71,"Grand Central - 42 St_0,3 Av - 138 St_0",469692288
+72,"Broadway Jct_0,72 St_2",469668251.2
+73,"125 St_2,72 St_2",468198008.8
+74,"Kew Gardens - Union Tpke_0,161 St - Yankee Stadium_0",467896200.3
+75,"Jackson Hts - Roosevelt Av_0,39 Av_0",467753535.4
+76,"Jackson Hts - Roosevelt Av_0,President St_0",466727956.9
+77,"3 Av - 149 St_0,Lexington Av-63 St_0",466545816
+78,"Grand Central - 42 St_0,36 St_0",466232309
+79,"Jackson Hts - Roosevelt Av_0,Hunts Point Av_0",466044978.6
+80,"Jackson Hts - Roosevelt Av_0,36 Av_0",465483292.9
+81,"Jackson Hts - Roosevelt Av_0,Atlantic Av - Barclays Ctr_0",465189894.8
+82,"Junction Blvd_0,36 St_0",464696328.4
+83,"Jackson Hts - Roosevelt Av_0,59 St_0",464124280.3
+84,"Kew Gardens - Union Tpke_0,36 St_0",462778319.9
+85,"Junction Blvd_0,72 St_2",462310130.6
+86,"Lexington Av-63 St_0,Queensboro Plaza_0",462141067.1
+87,"149 St - Grand Concourse_0,Euclid Av_0",462002226.4
+88,"3 Av - 149 St_0,Franklin Av_1",461480314.3
+89,"Broadway Jct_0,Atlantic Av - Barclays Ctr_0",460635557.4
+90,"Kew Gardens - Union Tpke_0,72 St_2",458591475.4
+91,"149 St - Grand Concourse_0,39 Av_0",458561767.6
+92,"Grand Central - 42 St_0,72 St_2",458352328.8
+93,"125 St_2,59 St - Columbus Circle_0",458136832.4
+94,"Jackson Hts - Roosevelt Av_0,14 St - Union Sq_0",457771810.4
+95,"125 St_2,Euclid Av_0",457641714.7
+96,"Jackson Hts - Roosevelt Av_0,Sterling St_0",457175970.6
+97,"149 St - Grand Concourse_0,3 Av - 138 St_0",456984914.2
+98,"149 St - Grand Concourse_0,36 Av_0",456251329.6
+99,"149 St - Grand Concourse_0,Parsons Blvd_0",454516896.8
+100,"Jackson Hts - Roosevelt Av_0,42 St - Port Authority Bus Terminal_0",454084764.9
+101,"149 St - Grand Concourse_0,Forest Hills - 71 Av_0",453297184.4
+102,"125 St_2,39 Av_0",453219464.9
+103,"149 St - Grand Concourse_0,Grant Av_0",453067303
+104,"125 St_2,36 Av_0",450712745.5
+105,"Broadway Jct_0,39 Av_0",450684570.6
+106,"125 St_2,161 St - Yankee Stadium_0",450215507.8
+107,"125 St_2,Parsons Blvd_0",449527701.3
+108,"Queensboro Plaza_0,Franklin Av_1",449447300.5
+109,"149 St - Grand Concourse_0,President St_0",449154811.5
+110,"Jackson Hts - Roosevelt Av_0,80 St_0",448774831.4
+111,"125 St_2,Grant Av_0",448704391.2
+112,"125 St_2,Forest Hills - 71 Av_0",448190455.3
+113,"Broadway Jct_0,36 Av_0",448171770.6
+114,"Grand Central - 42 St_0,Euclid Av_0",448088643.9
+115,"149 St - Grand Concourse_0,Atlantic Av - Barclays Ctr_0",447704719
+116,"Jackson Hts - Roosevelt Av_0,E 180 St_0",447501571.5
+117,"3 Av - 149 St_0,36 St_0",447084705.3
+118,"Lexington Av-63 St_0,Franklin Av_1",446984712.5
+119,"Jackson Hts - Roosevelt Av_0,Winthrop St_0",446576254.7
+120,"Queensboro Plaza_0,3 Av - 138 St_0",445991248.9
+121,"Broadway Jct_0,Hunts Point Av_0",445793154.4
+122,"Lexington Av-63 St_0,3 Av - 138 St_0",445497243.6
+123,"125 St_2,President St_0",445440051.7
+124,"Broadway Jct_0,Parsons Blvd_0",445128945.6
+125,"Junction Blvd_0,Euclid Av_0",444899768.1
+126,"Jackson Hts - Roosevelt Av_0,Broadway_1",444736281.5
+127,"125 St_2,Atlantic Av - Barclays Ctr_0",444498232.7
+128,"Jackson Hts - Roosevelt Av_0,168 St - Washington Hts_0",444371646.1
+129,"Broadway Jct_0,59 St_0",444125156.1
+130,"149 St - Grand Concourse_0,42 St - Port Authority Bus Terminal_0",442938680
+131,"Jackson Hts - Roosevelt Av_0,Whitehall St_0",442327130.9
+132,"Kew Gardens - Union Tpke_0,Euclid Av_0",442055982.1
+133,"Grand Central - 42 St_0,39 Av_0",441837841.2
+134,"3 Av - 149 St_0,72 St_2",441651600
+135,"Grand Central - 42 St_0,Parsons Blvd_0",441134852.3
+136,"Broadway Jct_0,President St_0",441067803.6
+137,"Junction Blvd_0,39 Av_0",440557130.6
+138,"3 Av - 149 St_0,3 Av - 138 St_0",440280000
+139,"Grand Central - 42 St_0,Forest Hills - 71 Av_0",440197087.3
+140,"Queensboro Plaza_0,161 St - Yankee Stadium_0",439863953.2
+141,"Jackson Hts - Roosevelt Av_0,88 St_0",439566407.7
+142,"149 St - Grand Concourse_0,Sterling St_0",439528411.5
+143,"125 St_2,42 St - Port Authority Bus Terminal_0",439516910.1
+144,"Grand Central - 42 St_0,36 Av_0",439400831.8
+145,"Grand Central - 42 St_0,Grant Av_0",439366358.6
+146,"Kew Gardens - Union Tpke_0,39 Av_0",439355462.3
+147,"Jackson Hts - Roosevelt Av_0,59 St - Columbus Circle_0",439301963.2
+148,"Franklin Av_1,3 Av - 138 St_0",439103254.2
+149,"149 St - Grand Concourse_0,161 St - Yankee Stadium_0",438913438.4
+150,"Lexington Av-63 St_0,161 St - Yankee Stadium_0",438815158.6
+151,"Junction Blvd_0,36 Av_0",438423830.6
+152,"Junction Blvd_0,Hunts Point Av_0",437794130.6
+153,"Grand Central - 42 St_0,President St_0",437211540.5
+154,"Kew Gardens - Union Tpke_0,36 Av_0",437125228.3
+155,"Grand Central - 42 St_0,42 St - Port Authority Bus Terminal_0",436975226.5
+156,"Junction Blvd_0,President St_0",436807730.6
+157,"Jackson Hts - Roosevelt Av_0,Church Av_0",436304836.5
+158,"Junction Blvd_0,Atlantic Av - Barclays Ctr_0",436226809.4
+159,"Broadway Jct_0,42 St - Port Authority Bus Terminal_0",436146024.2
+160,"Junction Blvd_0,Grant Av_0",436122968.1
+161,"Broadway Jct_0,14 St - Union Sq_0",435995002.2
+162,"125 St_2,Sterling St_0",435849651.7
+163,"Jackson Hts - Roosevelt Av_0,Grand Central - 42 St_1",435843705
+164,"Grand Central - 42 St_0,Atlantic Av - Barclays Ctr_0",435777892.6
+165,"Junction Blvd_0,Parsons Blvd_0",435428930.6
+166,"149 St - Grand Concourse_0,14 St - Union Sq_0",435380064.2
+167,"3 Av - 149 St_0,161 St - Yankee Stadium_0",435337210.1
+168,"Queensboro Plaza_0,36 St_0",435218358.7
+169,"Lexington Av-63 St_0,36 St_0",435072010.9
+170,"Kew Gardens - Union Tpke_0,Hunts Point Av_0",434881048.2
+171,"149 St - Grand Concourse_0,Broadway_1",434642053.6
+172,"Kew Gardens - Union Tpke_0,Atlantic Av - Barclays Ctr_0",433838189.8
+173,"Kew Gardens - Union Tpke_0,President St_0",433671062.5
+174,"Junction Blvd_0,59 St_0",433482680.4
+175,"Kew Gardens - Union Tpke_0,Grant Av_0",433187682.1
+176,"Jackson Hts - Roosevelt Av_0,181 St_0",433167304
+177,"Jackson Hts - Roosevelt Av_0,Prospect Park_0",433062199.8
+178,"Franklin Av_1,161 St - Yankee Stadium_0",432364002.8
+179,"Jackson Hts - Roosevelt Av_0,Rockaway Blvd_0",432309483.7
+180,"Jackson Hts - Roosevelt Av_0,34 St - Penn Station_1",432104230.4
+181,"149 St - Grand Concourse_0,80 St_0",432008962.1
+182,"Grand Central - 42 St_0,Hunts Point Av_0",431859878.7
+183,"Broadway Jct_0,Sterling St_0",431542833.6
+184,"3 Av - 149 St_0,Euclid Av_0",431469000
+185,"Kew Gardens - Union Tpke_0,59 St_0",430894381
+186,"Queensboro Plaza_0,72 St_2",430587499
+187,"Jackson Hts - Roosevelt Av_0,5 Av-53 St_0",429692464.9
+188,"125 St_2,Broadway_1",429288510.5
+189,"149 St - Grand Concourse_0,Winthrop St_0",428973211.5
+190,"Junction Blvd_0,42 St - Port Authority Bus Terminal_0",428717341.9
+191,"3 Av - 149 St_0,39 Av_0",428180400
+192,"Grand Central - 42 St_0,Sterling St_0",427942174.7
+193,"125 St_2,80 St_0",427815590.4
+194,"Junction Blvd_0,Forest Hills - 71 Av_0",427759189.5
+195,"125 St_2,14 St - Union Sq_0",427756859.8
+196,"Grand Central - 42 St_0,59 St - Columbus Circle_0",427438605
+197,"Junction Blvd_0,Sterling St_0",427181330.6
+198,"Broadway Jct_0,E 180 St_0",426825026.4
+199,"Broadway Jct_0,Broadway_1",426714605.1
+200,"Jackson Hts - Roosevelt Av_0,167 St_0",426606205.3
+201,"149 St - Grand Concourse_0,Hunts Point Av_0",426455585.5
+202,"Jackson Hts - Roosevelt Av_0,Mets - Willets Point_0",426024412.7
+203,"3 Av - 149 St_0,36 Av_0",425865600
+204,"125 St_2,Winthrop St_0",425241354.2
+205,"Kew Gardens - Union Tpke_0,42 St - Port Authority Bus Terminal_0",425030471.1
+206,"3 Av - 138 St_0,36 St_0",424934570.3
+207,"149 St - Grand Concourse_0,168 St - Washington Hts_0",424920908.7
+208,"Junction Blvd_0,14 St - Union Sq_0",424758486.3
+209,"Kew Gardens - Union Tpke_0,Sterling St_0",424116662.5
+210,"3 Av - 149 St_0,Parsons Blvd_0",424058400
+211,"Grand Central - 42 St_0,5 Av-53 St_0",423923219.5
+212,"Kew Gardens - Union Tpke_0,14 St - Union Sq_0",423890316.7
+213,"Broadway Jct_0,168 St - Washington Hts_0",423674567.2
+214,"149 St - Grand Concourse_0,Grand Central - 42 St_1",423573817
+215,"Jackson Hts - Roosevelt Av_0,86 St_1",423334914.1
+216,"3 Av - 149 St_0,Forest Hills - 71 Av_0",422918867.3
+217,"149 St - Grand Concourse_0,88 St_0",422886562.1
+218,"149 St - Grand Concourse_0,Whitehall St_0",422690825.4
+219,"149 St - Grand Concourse_0,5 Av-53 St_0",422550899.7
+220,"3 Av - 149 St_0,Grant Av_0",422532000
+221,"Jackson Hts - Roosevelt Av_0,Flushing - Main St_0",422381487.2
+222,"Jackson Hts - Roosevelt Av_0,86 St_4",422158890.1
+223,"Franklin Av_1,36 St_0",421861669.8
+224,"Franklin Av_1,72 St_2",421822143.5
+225,"125 St_2,168 St - Washington Hts_0",421272781.5
+226,"Broadway Jct_0,Winthrop St_0",420989951.6
+227,"149 St - Grand Concourse_0,Mets - Willets Point_0",420848296.7
+228,"3 Av - 138 St_0,72 St_2",420562800
+229,"Jackson Hts - Roosevelt Av_0,30 Av_0",420468878.6
+230,"Junction Blvd_0,E 180 St_0",419179730.6
+231,"125 St_2,86 St_1",418944413.2
+232,"125 St_2,Grand Central - 42 St_1",418818722.1
+233,"Grand Central - 42 St_0,80 St_0",418791161.2
+234,"125 St_2,88 St_0",418773500.2
+235,"3 Av - 149 St_0,President St_0",418752000
+236,"149 St - Grand Concourse_0,Church Av_0",418735560.3
+237,"Grand Central - 42 St_0,Broadway_1",418730234.1
+238,"125 St_2,5 Av-53 St_0",418636272.9
+239,"149 St - Grand Concourse_0,Jamaica - 179 St_0",418475721.4
+240,"Grand Central - 42 St_0,168 St - Washington Hts_0",418347565.5
+241,"Lexington Av-63 St_0,Euclid Av_0",418056857.6
+242,"149 St - Grand Concourse_0,34 St - Penn Station_1",417931454.3
+243,"Grand Central - 42 St_0,Winthrop St_0",417868705.8
+244,"Broadway Jct_0,Grand Central - 42 St_1",417671147.8
+245,"125 St_2,Whitehall St_0",417465341.3
+246,"3 Av - 149 St_0,Atlantic Av - Barclays Ctr_0",417332814.4
+247,"161 St - Yankee Stadium_0,36 St_0",417323359.9
+248,"125 St_2,Mets - Willets Point_0",417229653.9
+249,"Broadway Jct_0,5 Av-53 St_0",417012258.8
+250,"Junction Blvd_0,Broadway_1",416954630.6
+251,"Broadway Jct_0,59 St - Columbus Circle_0",416881985.5
+252,"149 St - Grand Concourse_0,Flushing - Main St_0",416780040.5
+253,"Grand Central - 42 St_0,Whitehall St_0",416713510.1
+254,"Junction Blvd_0,Winthrop St_0",416698130.6
+255,"Junction Blvd_0,168 St - Washington Hts_0",416215605.7
+256,"Kew Gardens - Union Tpke_0,E 180 St_0",416191824.8
+257,"Kew Gardens - Union Tpke_0,Broadway_1",416046524.8
+258,"Grand Central - 42 St_0,E 180 St_0",416036483.7
+259,"Grand Central - 42 St_0,Grand Central - 42 St_1",415757870.8
+260,"149 St - Grand Concourse_0,Rockaway Blvd_0",415703038.7
+261,"149 St - Grand Concourse_0,Prospect Park_0",415559305.1
+262,"Junction Blvd_0,80 St_0",415322255.6
+263,"125 St_2,Church Av_0",415184593.8
+264,"Queensboro Plaza_0,Euclid Av_0",415100335.4
+265,"Broadway Jct_0,Mets - Willets Point_0",415038173.4
+266,"125 St_2,34 St - Penn Station_1",414024397.5
+267,"Lexington Av-63 St_0,39 Av_0",413946052.7
+268,"149 St - Grand Concourse_0,181 St_0",413810284.7
+269,"Kew Gardens - Union Tpke_0,Winthrop St_0",413759462.5
+270,"Broadway Jct_0,Whitehall St_0",413737883.8
+271,"3 Av - 138 St_0,161 St - Yankee Stadium_0",413525362.4
+272,"125 St_2,Jamaica - 179 St_0",413488408.2
+273,"Grand Central - 42 St_0,34 St - Penn Station_1",413390615.3
+274,"Kew Gardens - Union Tpke_0,168 St - Washington Hts_0",413385798.3
+275,"161 St - Yankee Stadium_0,72 St_2",413343003.5
+276,"125 St_2,Flushing - Main St_0",413036015.9
+277,"Kew Gardens - Union Tpke_0,80 St_0",412523029.1
+278,"Broadway Jct_0,181 St_0",412242781.3
+279,"Lexington Av-63 St_0,36 Av_0",411908452.7
+280,"3 Av - 149 St_0,59 St_0",411749805.8
+281,"125 St_2,Rockaway Blvd_0",411520651.7
+282,"125 St_2,Prospect Park_0",411448938.4
+283,"Grand Central - 42 St_0,59 St_0",411182862.4
+284,"Broadway Jct_0,Flushing - Main St_0",411109409.4
+285,"Broadway Jct_0,Church Av_0",411012199.2
+286,"3 Av - 149 St_0,42 St - Port Authority Bus Terminal_0",410707975.9
+287,"Queensboro Plaza_0,Forest Hills - 71 Av_0",410610238.4
+288,"Broadway Jct_0,34 St - Penn Station_1",410335916.9
+289,"125 St_2,181 St_0",410314053.7
+290,"Broadway Jct_0,Jamaica - 179 St_0",410275733.4
+291,"Grand Central - 42 St_0,88 St_0",409908405.1
+292,"Junction Blvd_0,59 St - Columbus Circle_0",409774512.3
+293,"Junction Blvd_0,Grand Central - 42 St_1",409613428.6
+294,"36 St_0,72 St_2",409552082.8
+295,"149 St - Grand Concourse_0,30 Av_0",409391568.7
+296,"Lexington Av-63 St_0,Grant Av_0",409390528.3
+297,"Lexington Av-63 St_0,Parsons Blvd_0",409147243.6
+298,"3 Av - 149 St_0,Sterling St_0",409125600
+299,"Queensboro Plaza_0,Parsons Blvd_0",408913386
+300,"Franklin Av_1,Euclid Av_0",408795593.9
+301,"Grand Central - 42 St_0,Mets - Willets Point_0",408538044.5
+302,"3 Av - 138 St_0,Euclid Av_0",408532200
+303,"Junction Blvd_0,Whitehall St_0",408380062.6
+304,"Grand Central - 42 St_0,Church Av_0",407965445.7
+305,"Broadway Jct_0,Prospect Park_0",407881613.3
+306,"Franklin Av_1,39 Av_0",407498389
+307,"Kew Gardens - Union Tpke_0,Whitehall St_0",407442425.4
+308,"Kew Gardens - Union Tpke_0,Grand Central - 42 St_1",406975003.2
+309,"125 St_2,E 180 St_0",406959789
+310,"Grand Central - 42 St_0,181 St_0",406796546.8
+311,"Queensboro Plaza_0,Atlantic Av - Barclays Ctr_0",406653074.5
+312,"Junction Blvd_0,Church Av_0",406542530.6
+313,"Queensboro Plaza_0,Hunts Point Av_0",406498250.7
+314,"Queensboro Plaza_0,President St_0",406468981
+315,"Junction Blvd_0,88 St_0",406397855.6
+316,"3 Av - 149 St_0,Hunts Point Av_0",406306800
+317,"Queensboro Plaza_0,Grant Av_0",406214177.3
+318,"Kew Gardens - Union Tpke_0,59 St - Columbus Circle_0",406209003.5
+319,"3 Av - 149 St_0,14 St - Union Sq_0",406073328.8
+320,"Lexington Av-63 St_0,Hunts Point Av_0",405966301.2
+321,"Junction Blvd_0,5 Av-53 St_0",405866904.2
+322,"Broadway Jct_0,167 St_0",405799125.1
+323,"Grand Central - 42 St_0,Jamaica - 179 St_0",405792424.4
+324,"Lexington Av-63 St_0,Forest Hills - 71 Av_0",405245292.7
+325,"Franklin Av_1,36 Av_0",404949589
+326,"149 St - Grand Concourse_0,86 St_4",404903225.9
+327,"Junction Blvd_0,181 St_0",404789131.1
+328,"Lexington Av-63 St_0,President St_0",404758612.4
+329,"3 Av - 138 St_0,39 Av_0",404614800
+330,"Grand Central - 42 St_0,Flushing - Main St_0",404292869.3
+331,"3 Av - 149 St_0,Broadway_1",404247600
+332,"Lexington Av-63 St_0,Atlantic Av - Barclays Ctr_0",404222850.7
+333,"125 St_2,30 Av_0",404164771.5
+334,"Grand Central - 42 St_0,Prospect Park_0",404051515.4
+335,"Junction Blvd_0,34 St - Penn Station_1",403730986
+336,"Kew Gardens - Union Tpke_0,Church Av_0",403658992.1
+337,"Kew Gardens - Union Tpke_0,88 St_0",403576064.7
+338,"Junction Blvd_0,Prospect Park_0",403423062.8
+339,"Franklin Av_1,Forest Hills - 71 Av_0",403351250.9
+340,"Franklin Av_1,Parsons Blvd_0",402972198.2
+341,"Grand Central - 42 St_0,Rockaway Blvd_0",402942732.8
+342,"Broadway Jct_0,86 St_1",402939126.7
+343,"Kew Gardens - Union Tpke_0,5 Av-53 St_0",402884213.2
+344,"161 St - Yankee Stadium_0,59 St - Columbus Circle_0",402199998.8
+345,"3 Av - 138 St_0,36 Av_0",402066000
+346,"Broadway Jct_0,86 St_4",401999352
+347,"Kew Gardens - Union Tpke_0,181 St_0",401973202
+348,"Broadway Jct_0,30 Av_0",401573794.5
+349,"3 Av - 149 St_0,80 St_0",401461200
+350,"Kew Gardens - Union Tpke_0,Mets - Willets Point_0",401337211.1
+351,"Lexington Av-63 St_0,59 St_0",401252980
+352,"161 St - Yankee Stadium_0,Euclid Av_0",401239158.9
+353,"Kew Gardens - Union Tpke_0,34 St - Penn Station_1",401207607.2
+354,"125 St_2,86 St_4",400964471.1
+355,"3 Av - 138 St_0,Parsons Blvd_0",400942800
+356,"Queensboro Plaza_0,59 St_0",400820346.6
+357,"Junction Blvd_0,Jamaica - 179 St_0",400372130.6
+358,"Kew Gardens - Union Tpke_0,Prospect Park_0",400271836.8
+359,"Franklin Av_1,Grant Av_0",400181085.3
+360,"161 St - Yankee Stadium_0,59 St_0",400169884.2
+361,"3 Av - 138 St_0,Forest Hills - 71 Av_0",399734646.9
+362,"3 Av - 138 St_0,Grant Av_0",399592800
+363,"Lexington Av-63 St_0,42 St - Port Authority Bus Terminal_0",399502087
+364,"Junction Blvd_0,Rockaway Blvd_0",399464255.6
+365,"Franklin Av_1,Hunts Point Av_0",399153429.2
+366,"Grand Central - 42 St_0,167 St_0",398941360.9
+367,"36 St_0,Prospect Park_0",398656271.1
+368,"3 Av - 149 St_0,Winthrop St_0",398570400
+369,"161 St - Yankee Stadium_0,39 Av_0",398446944.2
+370,"Junction Blvd_0,167 St_0",397836830.6
+371,"Franklin Av_1,59 St_0",397725250.5
+372,"Franklin Av_1,Atlantic Av - Barclays Ctr_0",397630494.6
+373,"Kew Gardens - Union Tpke_0,Flushing - Main St_0",397244824.1
+374,"Queensboro Plaza_0,Sterling St_0",396886281
+375,"Kew Gardens - Union Tpke_0,Rockaway Blvd_0",396796211.8
+376,"Lexington Av-63 St_0,14 St - Union Sq_0",396712866
+377,"Queensboro Plaza_0,42 St - Port Authority Bus Terminal_0",396674919.3
+378,"3 Av - 138 St_0,President St_0",396396000
+379,"3 Av - 149 St_0,168 St - Washington Hts_0",396157027.2
+380,"161 St - Yankee Stadium_0,36 Av_0",395934144.2
+381,"Jackson Hts - Roosevelt Av_0,Parsons Blvd_0",395701089.2
+382,"Kew Gardens - Union Tpke_0,167 St_0",395480847.4
+383,"3 Av - 138 St_0,Atlantic Av - Barclays Ctr_0",395455760.3
+384,"Lexington Av-63 St_0,Sterling St_0",395371709.2
+385,"Grand Central - 42 St_0,30 Av_0",394605383
+386,"161 St - Yankee Stadium_0,Parsons Blvd_0",394542863.8
+387,"Junction Blvd_0,86 St_4",394417730.6
+388,"36 St_0,Euclid Av_0",393955647.8
+389,"161 St - Yankee Stadium_0,Forest Hills - 71 Av_0",393581135.9
+390,"3 Av - 149 St_0,Grand Central - 42 St_1",393076697
+391,"36 St_0,39 Av_0",393032417.8
+392,"125 St_2,167 St_0",392927877.8
+393,"Junction Blvd_0,86 St_1",392908004.6
+394,"Queensboro Plaza_0,14 St - Union Sq_0",392862602.1
+395,"Grand Central - 42 St_0,86 St_4",392588478.9
+396,"72 St_2,Euclid Av_0",392527500
+397,"161 St - Yankee Stadium_0,Grant Av_0",392334858.9
+398,"3 Av - 149 St_0,88 St_0",392320800
+399,"Junction Blvd_0,30 Av_0",392275130.6
+400,"3 Av - 149 St_0,Whitehall St_0",392248172
+401,"3 Av - 149 St_0,59 St - Columbus Circle_0",391727761.8
+402,"Kew Gardens - Union Tpke_0,86 St_4",391688346.7
+403,"Kew Gardens - Union Tpke_0,30 Av_0",391222823.7
+404,"149 St - Grand Concourse_0,167 St_0",391169822
+405,"Kew Gardens - Union Tpke_0,86 St_1",391085887.8
+406,"3 Av - 149 St_0,5 Av-53 St_0",390703028.6
+407,"36 St_0,36 Av_0",390518662.8
+408,"3 Av - 149 St_0,Mets - Willets Point_0",390495600
+409,"Lexington Av-63 St_0,Broadway_1",390489712.5
+410,"Franklin Av_1,42 St - Port Authority Bus Terminal_0",390156637.3
+411,"161 St - Yankee Stadium_0,President St_0",389675650.4
+412,"36 St_0,Parsons Blvd_0",389275678.2
+413,"72 St_2,39 Av_0",389030400
+414,"3 Av - 138 St_0,42 St - Port Authority Bus Terminal_0",389021827.3
+415,"36 St_0,Forest Hills - 71 Av_0",388991890.9
+416,"Lexington Av-63 St_0,80 St_0",388470522.6
+417,"Queensboro Plaza_0,E 180 St_0",388397327.5
+418,"161 St - Yankee Stadium_0,Atlantic Av - Barclays Ctr_0",388324947.9
+419,"3 Av - 149 St_0,Church Av_0",388324800
+420,"3 Av - 149 St_0,Jamaica - 179 St_0",387986400
+421,"Lexington Av-63 St_0,E 180 St_0",386989929.5
+422,"72 St_2,36 Av_0",386985600
+423,"3 Av - 138 St_0,Sterling St_0",386805600
+424,"3 Av - 149 St_0,34 St - Penn Station_1",386608131.8
+425,"3 Av - 149 St_0,Flushing - Main St_0",386409600
+426,"Queensboro Plaza_0,Winthrop St_0",386313006
+427,"Lexington Av-63 St_0,168 St - Washington Hts_0",386132626.7
+428,"72 St_2,Parsons Blvd_0",385876800
+429,"Queensboro Plaza_0,168 St - Washington Hts_0",385733451.7
+430,"Jackson Hts - Roosevelt Av_0,Forest Hills - 71 Av_0",385613409.9
+431,"36 St_0,59 St_0",385545919.7
+432,"36 St_0,Grant Av_0",385465219.2
+433,"Queensboro Plaza_0,80 St_0",385230766.2
+434,"3 Av - 149 St_0,Rockaway Blvd_0",385135200
+435,"3 Av - 149 St_0,Prospect Park_0",385052249.9
+436,"3 Av - 149 St_0,181 St_0",385002000
+437,"Lexington Av-63 St_0,Winthrop St_0",384913009.2
+438,"36 St_0,Hunts Point Av_0",384842430.3
+439,"72 St_2,Forest Hills - 71 Av_0",384197852.6
+440,"72 St_2,Grant Av_0",383857200
+441,"Franklin Av_1,14 St - Union Sq_0",383247855.1
+442,"Franklin Av_1,Broadway_1",383224878.9
+443,"Lexington Av-63 St_0,5 Av-53 St_0",383000469.7
+444,"3 Av - 138 St_0,14 St - Union Sq_0",382696810.8
+445,"Lexington Av-63 St_0,59 St - Columbus Circle_0",381684786.6
+446,"161 St - Yankee Stadium_0,42 St - Port Authority Bus Terminal_0",381391082.6
+447,"72 St_2,Hunts Point Av_0",380826000
+448,"3 Av - 138 St_0,Broadway_1",380430000
+449,"161 St - Yankee Stadium_0,Sterling St_0",380074450.4
+450,"Franklin Av_1,E 180 St_0",380016405.2
+451,"36 St_0,President St_0",379738165.3
+452,"161 St - Yankee Stadium_0,14 St - Union Sq_0",379633730.9
+453,"Lexington Av-63 St_0,Whitehall St_0",379484321.5
+454,"Queensboro Plaza_0,Whitehall St_0",379443047.9
+455,"72 St_2,President St_0",379400400
+456,"Queensboro Plaza_0,Grand Central - 42 St_1",379373117.3
+457,"Franklin Av_1,80 St_0",379339056.7
+458,"72 St_2,Atlantic Av - Barclays Ctr_0",379336854.6
+459,"Queensboro Plaza_0,59 St - Columbus Circle_0",379331622.4
+460,"Lexington Av-63 St_0,88 St_0",379327904
+461,"3 Av - 149 St_0,30 Av_0",378936000
+462,"Lexington Av-63 St_0,Mets - Willets Point_0",378820116.6
+463,"3 Av - 138 St_0,80 St_0",378684000
+464,"161 St - Yankee Stadium_0,Hunts Point Av_0",378156854.5
+465,"Franklin Av_1,168 St - Washington Hts_0",377567250.5
+466,"72 St_2,59 St_0",377230103.7
+467,"36 St_0,42 St - Port Authority Bus Terminal_0",376595565.5
+468,"Lexington Av-63 St_0,Grand Central - 42 St_1",376411894.6
+469,"Queensboro Plaza_0,88 St_0",376248452.8
+470,"3 Av - 138 St_0,Winthrop St_0",376196400
+471,"Queensboro Plaza_0,5 Av-53 St_0",376061786.2
+472,"Queensboro Plaza_0,Church Av_0",376057781
+473,"Lexington Av-63 St_0,34 St - Penn Station_1",375878895.5
+474,"59 St_0,59 St - Columbus Circle_0",375574888.6
+475,"36 St_0,14 St - Union Sq_0",375276415.5
+476,"Jackson Hts - Roosevelt Av_0,Jamaica - 179 St_0",375169573.5
+477,"Lexington Av-63 St_0,Church Av_0",374825809.2
+478,"3 Av - 149 St_0,86 St_4",374770800
+479,"Lexington Av-63 St_0,181 St_0",374736312.1
+480,"Lexington Av-63 St_0,Flushing - Main St_0",374557731.6
+481,"Queensboro Plaza_0,34 St - Penn Station_1",374388167.6
+482,"Queensboro Plaza_0,181 St_0",374371816.9
+483,"161 St - Yankee Stadium_0,Broadway_1",374190144.2
+484,"Grand Central - 42 St_0,86 St_1",374032554.3
+485,"Euclid Av_0,39 Av_0",373922700
+486,"Queensboro Plaza_0,Jamaica - 179 St_0",373917786
+487,"Lexington Av-63 St_0,Jamaica - 179 St_0",373668305.1
+488,"3 Av - 138 St_0,168 St - Washington Hts_0",373190842.3
+489,"3 Av - 149 St_0,167 St_0",373024800
+490,"72 St_2,42 St - Port Authority Bus Terminal_0",372870983.8
+491,"Queensboro Plaza_0,Prospect Park_0",372542372.9
+492,"Lexington Av-63 St_0,Prospect Park_0",372495627.5
+493,"Lexington Av-63 St_0,Rockaway Blvd_0",372128156.2
+494,"Franklin Av_1,Grand Central - 42 St_1",372044832.4
+495,"Euclid Av_0,Forest Hills - 71 Av_0",371736048.5
+496,"Euclid Av_0,36 Av_0",371409900
+497,"161 St - Yankee Stadium_0,80 St_0",371400850.4
+498,"Franklin Av_1,59 St - Columbus Circle_0",371305703.5
+499,"Franklin Av_1,88 St_0",370486656.7
+500,"36 St_0,Sterling St_0",370274747.8
+501,"Franklin Av_1,5 Av-53 St_0",370096404.9
+502,"72 St_2,Sterling St_0",370011600
+503,"Euclid Av_0,Parsons Blvd_0",369933900
+504,"Franklin Av_1,Whitehall St_0",369902625.1
+505,"3 Av - 138 St_0,Grand Central - 42 St_1",369867041.9
+506,"3 Av - 138 St_0,59 St - Columbus Circle_0",369760278.8
+507,"Franklin Av_1,Mets - Willets Point_0",369722278
+508,"Queensboro Plaza_0,Mets - Willets Point_0",369666139.2
+509,"3 Av - 138 St_0,88 St_0",369543600
+510,"161 St - Yankee Stadium_0,Winthrop St_0",369465250.4
+511,"36 St_0,Atlantic Av - Barclays Ctr_0",369215807.1
+512,"Queensboro Plaza_0,Rockaway Blvd_0",369060461
+513,"36 St_0,Broadway_1",368851250.3
+514,"Euclid Av_0,Hunts Point Av_0",368677500
+515,"3 Av - 138 St_0,Whitehall St_0",368509772
+516,"3 Av - 138 St_0,Mets - Willets Point_0",368481600
+517,"3 Av - 138 St_0,5 Av-53 St_0",368364801.9
+518,"72 St_2,14 St - Union Sq_0",368140703.9
+519,"Queensboro Plaza_0,167 St_0",367643131.2
+520,"3 Av - 149 St_0,86 St_1",367372427.2
+521,"39 Av_0,Parsons Blvd_0",367110000
+522,"Lexington Av-63 St_0,167 St_0",366956500.8
+523,"Euclid Av_0,59 St_0",366863406.1
+524,"Franklin Av_1,Jamaica - 179 St_0",366813798.2
+525,"3 Av - 138 St_0,E 180 St_0",366778800
+526,"Euclid Av_0,Atlantic Av - Barclays Ctr_0",366721448
+527,"Franklin Av_1,181 St_0",366260402.2
+528,"Euclid Av_0,President St_0",366142200
+529,"3 Av - 138 St_0,Church Av_0",366094800
+530,"36 St_0,E 180 St_0",365764550.3
+531,"Lexington Av-63 St_0,30 Av_0",365583943.2
+532,"Queensboro Plaza_0,Flushing - Main St_0",365542947
+533,"Franklin Av_1,Flushing - Main St_0",365514116
+534,"72 St_2,Broadway_1",365310000
+535,"39 Av_0,Forest Hills - 71 Av_0",365061254.2
+536,"39 Av_0,Grant Av_0",365036400
+537,"36 St_0,80 St_0",365031847.8
+538,"Franklin Av_1,34 St - Penn Station_1",364940117.5
+539,"39 Av_0,Hunts Point Av_0",364849200
+540,"36 Av_0,Parsons Blvd_0",364755600
+541,"3 Av - 138 St_0,Jamaica - 179 St_0",364708800
+542,"161 St - Yankee Stadium_0,Grand Central - 42 St_1",364628792.6
+543,"39 Av_0,President St_0",364543200
+544,"3 Av - 138 St_0,Flushing - Main St_0",364244400
+545,"3 Av - 138 St_0,34 St - Penn Station_1",364111973.7
+546,"39 Av_0,Atlantic Av - Barclays Ctr_0",363899978.6
+547,"161 St - Yankee Stadium_0,Whitehall St_0",363878656.3
+548,"Queensboro Plaza_0,86 St_4",363285076.3
+549,"Franklin Av_1,Rockaway Blvd_0",363229056.7
+550,"161 St - Yankee Stadium_0,168 St - Washington Hts_0",363202169.9
+551,"3 Av - 138 St_0,59 St_0",363156089.6
+552,"36 St_0,168 St - Washington Hts_0",363090058.9
+553,"72 St_2,80 St_0",362926800
+554,"Forest Hills - 71 Av_0,Grant Av_0",362795748.5
+555,"36 Av_0,Forest Hills - 71 Av_0",362767079.7
+556,"36 Av_0,Grant Av_0",362523600
+557,"3 Av - 138 St_0,Prospect Park_0",362429852.3
+558,"Lexington Av-63 St_0,86 St_1",362366541.3
+559,"161 St - Yankee Stadium_0,5 Av-53 St_0",362319417.8
+560,"36 Av_0,Hunts Point Av_0",362300400
+561,"3 Av - 138 St_0,Rockaway Blvd_0",362286000
+562,"161 St - Yankee Stadium_0,88 St_0",362260450.4
+563,"3 Av - 138 St_0,181 St_0",362106000
+564,"36 Av_0,President St_0",361994400
+565,"161 St - Yankee Stadium_0,E 180 St_0",361859076.8
+566,"72 St_2,E 180 St_0",361832400
+567,"Parsons Blvd_0,Hunts Point Av_0",361411200
+568,"36 Av_0,Atlantic Av - Barclays Ctr_0",361354357.4
+569,"Franklin Av_1,Prospect Park_0",361285296.3
+570,"Queensboro Plaza_0,86 St_1",361135994.7
+571,"Parsons Blvd_0,Grant Av_0",361065600
+572,"72 St_2,168 St - Washington Hts_0",360565380.8
+573,"161 St - Yankee Stadium_0,Mets - Willets Point_0",360324139.5
+574,"Forest Hills - 71 Av_0,President St_0",360314454.4
+575,"Forest Hills - 71 Av_0,Hunts Point Av_0",360286915.8
+576,"39 Av_0,59 St_0",360200200.7
+577,"Parsons Blvd_0,President St_0",359996400
+578,"36 St_0,Winthrop St_0",359945397.8
+579,"Parsons Blvd_0,Atlantic Av - Barclays Ctr_0",359926631.9
+580,"Franklin Av_1,167 St_0",359812924.5
+581,"Grant Av_0,Hunts Point Av_0",359737200
+582,"72 St_2,Winthrop St_0",359438400
+583,"Euclid Av_0,42 St - Port Authority Bus Terminal_0",359410705
+584,"Forest Hills - 71 Av_0,Atlantic Av - Barclays Ctr_0",359336183
+585,"161 St - Yankee Stadium_0,Church Av_0",359310844.8
+586,"Forest Hills - 71 Av_0,59 St_0",359072481.5
+587,"Parsons Blvd_0,59 St_0",358671289
+588,"161 St - Yankee Stadium_0,Jamaica - 179 St_0",358414456.8
+589,"Grant Av_0,59 St_0",358119461.1
+590,"Grant Av_0,Atlantic Av - Barclays Ctr_0",357882016.6
+591,"36 St_0,Grand Central - 42 St_1",357870930.8
+592,"Franklin Av_1,30 Av_0",357850456
+593,"36 Av_0,59 St_0",357698901.1
+594,"Grant Av_0,President St_0",357454800
+595,"161 St - Yankee Stadium_0,34 St - Penn Station_1",357399794.8
+596,"36 St_0,59 St - Columbus Circle_0",357138335.1
+597,"Euclid Av_0,14 St - Union Sq_0",356913581.1
+598,"Euclid Av_0,Sterling St_0",356531100
+599,"Hunts Point Av_0,President St_0",356360400
+600,"161 St - Yankee Stadium_0,Flushing - Main St_0",356354297.1
+601,"36 St_0,Whitehall St_0",356267834.8
+602,"Franklin Av_1,86 St_1",356232849.8
+603,"36 St_0,88 St_0",356048331.7
+604,"161 St - Yankee Stadium_0,Prospect Park_0",355677977.7
+605,"36 St_0,5 Av-53 St_0",355670064.5
+606,"59 St_0,Atlantic Av - Barclays Ctr_0",355662152.6
+607,"Hunts Point Av_0,Atlantic Av - Barclays Ctr_0",355403119.7
+608,"59 St_0,President St_0",355302013.1
+609,"39 Av_0,42 St - Port Authority Bus Terminal_0",355278276.4
+610,"3 Av - 138 St_0,30 Av_0",355208400
+611,"36 St_0,Mets - Willets Point_0",355110022.8
+612,"161 St - Yankee Stadium_0,Rockaway Blvd_0",355038850.4
+613,"39 Av_0,Sterling St_0",354942000
+614,"Franklin Av_1,86 St_4",354894918.5
+615,"59 St_0,42 St - Port Authority Bus Terminal_0",354616942.7
+616,"72 St_2,59 St - Columbus Circle_0",354504845.3
+617,"72 St_2,Whitehall St_0",353923322
+618,"72 St_2,88 St_0",353750400
+619,"72 St_2,Mets - Willets Point_0",353214000
+620,"36 St_0,Jamaica - 179 St_0",353123495.4
+621,"Parsons Blvd_0,42 St - Port Authority Bus Terminal_0",353052098.2
+622,"3 Av - 138 St_0,86 St_4",352846800
+623,"36 Av_0,42 St - Port Authority Bus Terminal_0",352745500.9
+624,"161 St - Yankee Stadium_0,181 St_0",352688082.1
+625,"39 Av_0,14 St - Union Sq_0",352394835.2
+626,"36 Av_0,Sterling St_0",352393200
+627,"Forest Hills - 71 Av_0,14 St - Union Sq_0",351998218.9
+628,"161 St - Yankee Stadium_0,86 St_1",351938382
+629,"36 St_0,181 St_0",351742070.3
+630,"36 St_0,34 St - Penn Station_1",351266223.9
+631,"Forest Hills - 71 Av_0,42 St - Port Authority Bus Terminal_0",351152271.5
+632,"72 St_2,Grand Central - 42 St_1",350884898
+633,"36 St_0,Flushing - Main St_0",350847622.8
+634,"Forest Hills - 71 Av_0,Sterling St_0",350782127.2
+635,"3 Av - 138 St_0,167 St_0",350632800
+636,"Grant Av_0,42 St - Port Authority Bus Terminal_0",350475151.2
+637,"Parsons Blvd_0,Sterling St_0",350370000
+638,"72 St_2,5 Av-53 St_0",350213828.6
+639,"36 St_0,Church Av_0",349974720.3
+640,"Euclid Av_0,Broadway_1",349925100
+641,"36 Av_0,14 St - Union Sq_0",349864845.2
+642,"72 St_2,Jamaica - 179 St_0",349837200
+643,"Parsons Blvd_0,14 St - Union Sq_0",349808365.1
+644,"Euclid Av_0,E 180 St_0",349770300
+645,"72 St_2,34 St - Penn Station_1",349754770.1
+646,"Hunts Point Av_0,42 St - Port Authority Bus Terminal_0",349615556.4
+647,"72 St_2,Church Av_0",349351200
+648,"72 St_2,181 St_0",349160400
+649,"161 St - Yankee Stadium_0,30 Av_0",349078444.4
+650,"72 St_2,Flushing - Main St_0",348951600
+651,"36 St_0,Rockaway Blvd_0",348882529.9
+652,"Grant Av_0,14 St - Union Sq_0",348171500.5
+653,"Atlantic Av - Barclays Ctr_0,42 St - Port Authority Bus Terminal_0",348030104.3
+654,"Grant Av_0,Sterling St_0",347842800
+655,"President St_0,42 St - Port Authority Bus Terminal_0",347556851.7
+656,"72 St_2,Prospect Park_0",346831341.2
+657,"Hunts Point Av_0,Sterling St_0",346770000
+658,"Euclid Av_0,168 St - Washington Hts_0",346645680.8
+659,"72 St_2,Rockaway Blvd_0",346492800
+660,"39 Av_0,E 180 St_0",346334400
+661,"Euclid Av_0,Winthrop St_0",345921900
+662,"161 St - Yankee Stadium_0,86 St_4",345884635.2
+663,"59 St_0,Sterling St_0",345838996
+664,"36 St_0,167 St_0",344482960.3
+665,"39 Av_0,Winthrop St_0",344332800
+666,"39 Av_0,80 St_0",344037600
+667,"36 Av_0,E 180 St_0",343911600
+668,"42 St - Port Authority Bus Terminal_0,14 St - Union Sq_0",343815567.9
+669,"39 Av_0,168 St - Washington Hts_0",343725998.3
+670,"Hunts Point Av_0,14 St - Union Sq_0",343500921.2
+671,"36 St_0,30 Av_0",343496387.8
+672,"Parsons Blvd_0,Broadway_1",343461600
+673,"36 St_0,86 St_1",343222514.6
+674,"Parsons Blvd_0,E 180 St_0",342547200
+675,"President St_0,14 St - Union Sq_0",341876148.9
+676,"36 Av_0,Winthrop St_0",341784000
+677,"Forest Hills - 71 Av_0,80 St_0",341764911.4
+678,"Forest Hills - 71 Av_0,E 180 St_0",341644751.1
+679,"Forest Hills - 71 Av_0,Broadway_1",341577175.8
+680,"36 St_0,86 St_4",341541765.3
+681,"36 Av_0,80 St_0",341524800
+682,"72 St_2,167 St_0",341373600
+683,"36 Av_0,168 St - Washington Hts_0",341177198.3
+684,"Grant Av_0,Broadway_1",341038800
+685,"Euclid Av_0,Grand Central - 42 St_1",341011598
+686,"Grant Av_0,E 180 St_0",340830000
+687,"Hunts Point Av_0,Broadway_1",340628400
+688,"72 St_2,30 Av_0",340268400
+689,"President St_0,Broadway_1",340268400
+690,"Parsons Blvd_0,80 St_0",340264800
+691,"Forest Hills - 71 Av_0,Winthrop St_0",340179036.3
+692,"Euclid Av_0,59 St - Columbus Circle_0",340104262
+693,"Parsons Blvd_0,168 St - Washington Hts_0",340058524.9
+694,"Parsons Blvd_0,Winthrop St_0",340012800
+695,"Euclid Av_0,5 Av-53 St_0",339908528.6
+696,"Atlantic Av - Barclays Ctr_0,Broadway_1",339609663.8
+697,"Euclid Av_0,Whitehall St_0",339547091.5
+698,"Forest Hills - 71 Av_0,168 St - Washington Hts_0",338923141.5
+699,"Hunts Point Av_0,80 St_0",338648400
+700,"42 St - Port Authority Bus Terminal_0,Sterling St_0",338254451.7
+701,"Euclid Av_0,Mets - Willets Point_0",338070300
+702,"39 Av_0,Whitehall St_0",338021372
+703,"39 Av_0,Grand Central - 42 St_1",337946498
+704,"72 St_2,86 St_1",337882608.4
+705,"Grant Av_0,168 St - Washington Hts_0",337759380.8
+706,"Grant Av_0,Winthrop St_0",337233600
+707,"59 St_0,80 St_0",337205966
+708,"President St_0,E 180 St_0",337172400
+709,"59 St_0,Broadway_1",337029818.2
+710,"Atlantic Av - Barclays Ctr_0,80 St_0",336879495.1
+711,"39 Av_0,59 St - Columbus Circle_0",336734533.7
+712,"Forest Hills - 71 Av_0,Whitehall St_0",336704846.5
+713,"President St_0,80 St_0",336596400
+714,"59 St_0,168 St - Washington Hts_0",336542050.3
+715,"Hunts Point Av_0,Winthrop St_0",336160800
+716,"Atlantic Av - Barclays Ctr_0,E 180 St_0",336034254.7
+717,"Euclid Av_0,Church Av_0",335798700
+718,"36 Av_0,Whitehall St_0",335472572
+719,"36 Av_0,Grand Central - 42 St_1",335451698
+720,"59 St_0,Winthrop St_0",335314828
+721,"Euclid Av_0,181 St_0",335193900
+722,"39 Av_0,88 St_0",335041200
+723,"President St_0,168 St - Washington Hts_0",334728180.8
+724,"Atlantic Av - Barclays Ctr_0,14 St - Union Sq_0",334606487.9
+725,"Parsons Blvd_0,Grand Central - 42 St_1",334605698
+726,"Euclid Av_0,34 St - Penn Station_1",334564191.8
+727,"Euclid Av_0,Jamaica - 179 St_0",334387500
+728,"Parsons Blvd_0,Whitehall St_0",334288172
+729,"36 Av_0,59 St - Columbus Circle_0",334190333.7
+730,"Euclid Av_0,Flushing - Main St_0",334110300
+731,"39 Av_0,Church Av_0",334051200
+732,"Atlantic Av - Barclays Ctr_0,168 St - Washington Hts_0",333999860.3
+733,"Hunts Point Av_0,168 St - Washington Hts_0",333918299.1
+734,"59 St_0,14 St - Union Sq_0",333779721.5
+735,"Forest Hills - 71 Av_0,59 St - Columbus Circle_0",333645725.5
+736,"39 Av_0,Mets - Willets Point_0",333626400
+737,"39 Av_0,5 Av-53 St_0",333619057.1
+738,"59 St_0,E 180 St_0",333112620.8
+739,"Parsons Blvd_0,59 St - Columbus Circle_0",332813710.4
+740,"59 St - Columbus Circle_0,86 St_1",332791200.3
+741,"Forest Hills - 71 Av_0,88 St_0",332733449.8
+742,"39 Av_0,34 St - Penn Station_1",332706498.3
+743,"14 St - Union Sq_0,Sterling St_0",332622716.9
+744,"36 Av_0,88 St_0",332528400
+745,"Forest Hills - 71 Av_0,Grand Central - 42 St_1",332512941.5
+746,"39 Av_0,181 St_0",332352000
+747,"Euclid Av_0,Prospect Park_0",332331771.2
+748,"Grant Av_0,Grand Central - 42 St_1",332085698
+749,"39 Av_0,Jamaica - 179 St_0",331988400
+750,"59 St_0,5 Av-53 St_0",331825364.5
+751,"42 St - Port Authority Bus Terminal_0,Broadway_1",331812038.4
+752,"President St_0,Atlantic Av - Barclays Ctr_0",331747384.4
+753,"36 Av_0,Church Av_0",331502400
+754,"Parsons Blvd_0,5 Av-53 St_0",331288050.3
+755,"Parsons Blvd_0,88 St_0",331250400
+756,"Grant Av_0,59 St - Columbus Circle_0",331208904.1
+757,"36 Av_0,Mets - Willets Point_0",331203600
+758,"36 Av_0,5 Av-53 St_0",331126390.1
+759,"59 St_0,Grand Central - 42 St_1",331101707.9
+760,"Grant Av_0,5 Av-53 St_0",331040228.6
+761,"59 St_0,Whitehall St_0",330920659.1
+762,"Grant Av_0,Whitehall St_0",330914925.4
+763,"Sterling St_0,Broadway_1",330667200
+764,"Hunts Point Av_0,Grand Central - 42 St_1",330382460.6
+765,"Hunts Point Av_0,E 180 St_0",330274800
+766,"36 Av_0,34 St - Penn Station_1",330234734.2
+767,"39 Av_0,Prospect Park_0",330198994.3
+768,"59 St_0,Hunts Point Av_0",330091012
+769,"Parsons Blvd_0,Mets - Willets Point_0",330044400
+770,"Parsons Blvd_0,Church Av_0",329911200
+771,"Forest Hills - 71 Av_0,Church Av_0",329907618.1
+772,"42 St - Port Authority Bus Terminal_0,80 St_0",329889985.3
+773,"36 Av_0,181 St_0",329803200
+774,"42 St - Port Authority Bus Terminal_0,E 180 St_0",329769864.4
+775,"14 St - Union Sq_0,59 St - Columbus Circle_0",329729833.5
+776,"36 Av_0,Jamaica - 179 St_0",329619600
+777,"President St_0,Grand Central - 42 St_1",329594498
+778,"Atlantic Av - Barclays Ctr_0,Whitehall St_0",329528065.5
+779,"Hunts Point Av_0,59 St - Columbus Circle_0",329528032.7
+780,"Hunts Point Av_0,88 St_0",329508000
+781,"39 Av_0,Flushing - Main St_0",329497200
+782,"59 St_0,34 St - Penn Station_1",329455192.2
+783,"Hunts Point Av_0,Whitehall St_0",329374172
+784,"Grant Av_0,Mets - Willets Point_0",329292000
+785,"Euclid Av_0,167 St_0",328764300
+786,"Hunts Point Av_0,5 Av-53 St_0",328674167
+787,"14 St - Union Sq_0,Broadway_1",328665032.5
+788,"Atlantic Av - Barclays Ctr_0,59 St - Columbus Circle_0",328638924
+789,"Parsons Blvd_0,181 St_0",328618800
+790,"Forest Hills - 71 Av_0,34 St - Penn Station_1",328463290
+791,"President St_0,59 St - Columbus Circle_0",328440885.2
+792,"Forest Hills - 71 Av_0,5 Av-53 St_0",328388735.6
+793,"59 St_0,88 St_0",328320846.6
+794,"Hunts Point Av_0,Mets - Willets Point_0",328320000
+795,"Parsons Blvd_0,34 St - Penn Station_1",328241345.4
+796,"President St_0,Whitehall St_0",328155320.6
+797,"42 St - Port Authority Bus Terminal_0,Winthrop St_0",328013264.6
+798,"39 Av_0,Rockaway Blvd_0",327783600
+799,"Atlantic Av - Barclays Ctr_0,88 St_0",327776523.7
+800,"President St_0,88 St_0",327744000
+801,"36 Av_0,Prospect Park_0",327650194.3
+802,"Atlantic Av - Barclays Ctr_0,Grand Central - 42 St_1",327577265.2
+803,"Sterling St_0,E 180 St_0",327546000
+804,"Forest Hills - 71 Av_0,181 St_0",327469265.4
+805,"President St_0,5 Av-53 St_0",327385786.9
+806,"14 St - Union Sq_0,80 St_0",327250736.4
+807,"Grant Av_0,Church Av_0",327110400
+808,"36 Av_0,Flushing - Main St_0",327074400
+809,"Sterling St_0,80 St_0",326984400
+810,"President St_0,Mets - Willets Point_0",326790000
+811,"Forest Hills - 71 Av_0,Prospect Park_0",326618516.7
+812,"42 St - Port Authority Bus Terminal_0,Whitehall St_0",326612206
+813,"42 St - Port Authority Bus Terminal_0,Grand Central - 42 St_1",326565683.8
+814,"Parsons Blvd_0,Prospect Park_0",326394649.9
+815,"Grant Av_0,181 St_0",326307600
+816,"59 St_0,Mets - Willets Point_0",326121993.1
+817,"Atlantic Av - Barclays Ctr_0,5 Av-53 St_0",326089493.3
+818,"14 St - Union Sq_0,E 180 St_0",326027385.3
+819,"Grant Av_0,34 St - Penn Station_1",325988638
+820,"Atlantic Av - Barclays Ctr_0,Mets - Willets Point_0",325980476.7
+821,"Forest Hills - 71 Av_0,Mets - Willets Point_0",325947473.2
+822,"Hunts Point Av_0,Church Av_0",325915200
+823,"Parsons Blvd_0,Flushing - Main St_0",325814400
+824,"39 Av_0,167 St_0",325684800
+825,"Euclid Av_0,86 St_1",325594040.7
+826,"Forest Hills - 71 Av_0,Rockaway Blvd_0",325544013
+827,"Grant Av_0,Jamaica - 179 St_0",325519200
+828,"42 St - Port Authority Bus Terminal_0,168 St - Washington Hts_0",325392200
+829,"36 Av_0,Rockaway Blvd_0",325270800
+830,"Grant Av_0,Flushing - Main St_0",325260000
+831,"59 St_0,Church Av_0",325187700.7
+832,"Atlantic Av - Barclays Ctr_0,34 St - Penn Station_1",325186798.6
+833,"Sterling St_0,168 St - Washington Hts_0",325173780.8
+834,"Hunts Point Av_0,Jamaica - 179 St_0",325105200
+835,"14 St - Union Sq_0,168 St - Washington Hts_0",325058420.7
+836,"59 St_0,181 St_0",324954255.2
+837,"Hunts Point Av_0,34 St - Penn Station_1",324929404.7
+838,"Euclid Av_0,86 St_4",324797100
+839,"Euclid Av_0,30 Av_0",324739500
+840,"Parsons Blvd_0,Rockaway Blvd_0",324367200
+841,"Hunts Point Av_0,Flushing - Main St_0",324082800
+842,"President St_0,Jamaica - 179 St_0",323838000
+843,"Atlantic Av - Barclays Ctr_0,Jamaica - 179 St_0",323836872
+844,"Grant Av_0,Prospect Park_0",323724424.1
+845,"42 St - Port Authority Bus Terminal_0,5 Av-53 St_0",323607634.2
+846,"Atlantic Av - Barclays Ctr_0,Sterling St_0",323577702.5
+847,"President St_0,181 St_0",323409600
+848,"36 Av_0,167 St_0",323172000
+849,"59 St_0,Jamaica - 179 St_0",322993056
+850,"59 St_0,Prospect Park_0",322909113.7
+851,"Hunts Point Av_0,181 St_0",322794000
+852,"14 St - Union Sq_0,Grand Central - 42 St_1",322667727.6
+853,"Atlantic Av - Barclays Ctr_0,181 St_0",322583275.5
+854,"President St_0,Flushing - Main St_0",322581600
+855,"14 St - Union Sq_0,Winthrop St_0",322572991.7
+856,"Broadway_1,E 180 St_0",322293600
+857,"Hunts Point Av_0,Prospect Park_0",322257924.8
+858,"Hunts Point Av_0,Rockaway Blvd_0",322250400
+859,"President St_0,34 St - Penn Station_1",322225596.2
+860,"14 St - Union Sq_0,5 Av-53 St_0",322053088.6
+861,"59 St_0,Flushing - Main St_0",321995196.6
+862,"Forest Hills - 71 Av_0,Flushing - Main St_0",321890874.2
+863,"Parsons Blvd_0,167 St_0",321814800
+864,"Atlantic Av - Barclays Ctr_0,Flushing - Main St_0",321746509.7
+865,"39 Av_0,86 St_4",321487200
+866,"59 St_0,Rockaway Blvd_0",321230005.4
+867,"Forest Hills - 71 Av_0,167 St_0",320935492.6
+868,"42 St - Port Authority Bus Terminal_0,88 St_0",320844434.9
+869,"Atlantic Av - Barclays Ctr_0,Rockaway Blvd_0",320538296.6
+870,"14 St - Union Sq_0,34 St - Penn Station_1",320526233.1
+871,"President St_0,Rockaway Blvd_0",320486400
+872,"Sterling St_0,Grand Central - 42 St_1",320310098
+873,"39 Av_0,86 St_1",320184969.9
+874,"Broadway_1,Winthrop St_0",320058000
+875,"42 St - Port Authority Bus Terminal_0,Mets - Willets Point_0",319987435.9
+876,"Grant Av_0,167 St_0",319860000
+877,"Broadway_1,80 St_0",319860000
+878,"80 St_0,E 180 St_0",319651200
+879,"Broadway_1,168 St - Washington Hts_0",319530398.3
+880,"36 Av_0,86 St_4",319442400
+881,"14 St - Union Sq_0,Whitehall St_0",319424048.9
+882,"3 Av - 138 St_0,86 St_1",319237254.6
+883,"Sterling St_0,59 St - Columbus Circle_0",318934237.7
+884,"Sterling St_0,Whitehall St_0",318601756.3
+885,"Parsons Blvd_0,30 Av_0",318546000
+886,"President St_0,Prospect Park_0",318361237
+887,"Parsons Blvd_0,86 St_4",318301200
+888,"14 St - Union Sq_0,88 St_0",318265505.1
+889,"Sterling St_0,88 St_0",318132000
+890,"Parsons Blvd_0,86 St_1",318069002.7
+891,"42 St - Port Authority Bus Terminal_0,Church Av_0",318062342.1
+892,"Sterling St_0,5 Av-53 St_0",317784586.9
+893,"36 Av_0,86 St_1",317678250.4
+894,"Forest Hills - 71 Av_0,86 St_1",317625933.3
+895,"Sterling St_0,Mets - Willets Point_0",317163600
+896,"42 St - Port Authority Bus Terminal_0,Jamaica - 179 St_0",317106012.9
+897,"Forest Hills - 71 Av_0,86 St_4",317102465.6
+898,"President St_0,167 St_0",317012400
+899,"E 180 St_0,Winthrop St_0",316990800
+900,"80 St_0,168 St - Washington Hts_0",316850580.8
+901,"Forest Hills - 71 Av_0,30 Av_0",316786073.6
+902,"Grant Av_0,86 St_1",316731700.2
+903,"80 St_0,Winthrop St_0",316375200
+904,"14 St - Union Sq_0,Mets - Willets Point_0",316304848.1
+905,"E 180 St_0,168 St - Washington Hts_0",316289201.9
+906,"Grant Av_0,86 St_4",316126800
+907,"Grant Av_0,30 Av_0",315853200
+908,"42 St - Port Authority Bus Terminal_0,Flushing - Main St_0",315725945.9
+909,"Atlantic Av - Barclays Ctr_0,167 St_0",315578113.9
+910,"Hunts Point Av_0,30 Av_0",315262800
+911,"59 St_0,167 St_0",315032814.7
+912,"President St_0,30 Av_0",314874000
+913,"Winthrop St_0,168 St - Washington Hts_0",314564580.8
+914,"Atlantic Av - Barclays Ctr_0,Winthrop St_0",314550281.8
+915,"Atlantic Av - Barclays Ctr_0,30 Av_0",314241706.5
+916,"Sterling St_0,Jamaica - 179 St_0",314211600
+917,"14 St - Union Sq_0,Jamaica - 179 St_0",314155164.3
+918,"Broadway_1,Whitehall St_0",314142572
+919,"42 St - Port Authority Bus Terminal_0,181 St_0",314100633.8
+920,"Broadway_1,Grand Central - 42 St_1",314013698
+921,"42 St - Port Authority Bus Terminal_0,Prospect Park_0",314010670.9
+922,"Sterling St_0,181 St_0",313855200
+923,"42 St - Port Authority Bus Terminal_0,Rockaway Blvd_0",313634069.1
+924,"14 St - Union Sq_0,181 St_0",313509751.3
+925,"President St_0,86 St_1",313349779.3
+926,"Atlantic Av - Barclays Ctr_0,86 St_1",313339137
+927,"Hunts Point Av_0,167 St_0",313257600
+928,"Hunts Point Av_0,86 St_4",312987600
+929,"Sterling St_0,Flushing - Main St_0",312955200
+930,"Sterling St_0,34 St - Penn Station_1",312887196.2
+931,"59 St_0,30 Av_0",312552802.9
+932,"14 St - Union Sq_0,Church Av_0",312518441
+933,"Broadway_1,59 St - Columbus Circle_0",312493141.2
+934,"President St_0,86 St_4",312231600
+935,"Kew Gardens - Union Tpke_0,Forest Hills - 71 Av_0",312145742.6
+936,"14 St - Union Sq_0,Flushing - Main St_0",312053410.8
+937,"42 St - Port Authority Bus Terminal_0,86 St_1",311862151.3
+938,"E 180 St_0,Grand Central - 42 St_1",311842734
+939,"168 St - Washington Hts_0,59 St - Columbus Circle_0",311718857.5
+940,"Atlantic Av - Barclays Ctr_0,86 St_4",311664706.1
+941,"E 180 St_0,Whitehall St_0",311572172
+942,"42 St - Port Authority Bus Terminal_0,59 St - Columbus Circle_0",311495194.1
+943,"80 St_0,Grand Central - 42 St_1",311230898
+944,"14 St - Union Sq_0,Rockaway Blvd_0",311100705.7
+945,"Sterling St_0,Rockaway Blvd_0",310874400
+946,"Broadway_1,88 St_0",310863600
+947,"E 180 St_0,88 St_0",310510800
+948,"80 St_0,Whitehall St_0",310477461.4
+949,"59 St_0,86 St_4",310421450.6
+950,"80 St_0,59 St - Columbus Circle_0",310373034.3
+951,"14 St - Union Sq_0,Prospect Park_0",310307407.7
+952,"80 St_0,5 Av-53 St_0",310077428.6
+953,"E 180 St_0,59 St - Columbus Circle_0",309877202.5
+954,"Broadway_1,Church Av_0",309776400
+955,"Winthrop St_0,Grand Central - 42 St_1",309700898
+956,"Broadway_1,5 Av-53 St_0",309645302.4
+957,"Broadway_1,Mets - Willets Point_0",309603600
+958,"168 St - Washington Hts_0,Grand Central - 42 St_1",309574157.7
+959,"168 St - Washington Hts_0,Whitehall St_0",309243152.8
+960,"E 180 St_0,5 Av-53 St_0",309091028.6
+961,"E 180 St_0,Mets - Willets Point_0",308970000
+962,"Sterling St_0,Prospect Park_0",308846174.5
+963,"Broadway_1,34 St - Penn Station_1",308751422.5
+964,"42 St - Port Authority Bus Terminal_0,167 St_0",308708980.8
+965,"Winthrop St_0,Whitehall St_0",308611042
+966,"Whitehall St_0,Grand Central - 42 St_1",308580670
+967,"Winthrop St_0,59 St - Columbus Circle_0",308366834.2
+968,"80 St_0,Mets - Willets Point_0",308347200
+969,"Broadway_1,181 St_0",308156400
+970,"Broadway_1,Jamaica - 179 St_0",308055600
+971,"168 St - Washington Hts_0,88 St_0",307638180.8
+972,"Winthrop St_0,88 St_0",307522800
+973,"Winthrop St_0,5 Av-53 St_0",307517386.9
+974,"Sterling St_0,167 St_0",307386000
+975,"14 St - Union Sq_0,167 St_0",306954359.7
+976,"42 St - Port Authority Bus Terminal_0,30 Av_0",306895338.3
+977,"E 180 St_0,Church Av_0",306709200
+978,"Winthrop St_0,Mets - Willets Point_0",306608400
+979,"E 180 St_0,Jamaica - 179 St_0",306460800
+980,"E 180 St_0,34 St - Penn Station_1",306350529.1
+981,"168 St - Washington Hts_0,Mets - Willets Point_0",306339049.5
+982,"168 St - Washington Hts_0,5 Av-53 St_0",306309017.8
+983,"80 St_0,Church Av_0",306252000
+984,"Grand Central - 42 St_1,5 Av-53 St_0",306171377
+985,"Whitehall St_0,5 Av-53 St_0",306167200.6
+986,"Broadway_1,Prospect Park_0",305873276.2
+987,"Atlantic Av - Barclays Ctr_0,Church Av_0",305827453.5
+988,"Broadway_1,Flushing - Main St_0",305438400
+989,"80 St_0,181 St_0",305380800
+990,"42 St - Port Authority Bus Terminal_0,86 St_4",305339814.2
+991,"80 St_0,34 St - Penn Station_1",305259951.9
+992,"Sterling St_0,30 Av_0",305247600
+993,"E 180 St_0,181 St_0",305053200
+994,"E 180 St_0,Flushing - Main St_0",304797600
+995,"80 St_0,Jamaica - 179 St_0",304628400
+996,"80 St_0,Flushing - Main St_0",304315200
+997,"168 St - Washington Hts_0,Church Av_0",304308180.8
+998,"Whitehall St_0,59 St - Columbus Circle_0",304172510.1
+999,"14 St - Union Sq_0,30 Av_0",304107694.6
+1000,"Winthrop St_0,Jamaica - 179 St_0",303854400
+1001,"Sterling St_0,86 St_1",303797538.8
+1002,"168 St - Washington Hts_0,Jamaica - 179 St_0",303648662.4
+1003,"Broadway_1,Rockaway Blvd_0",303606000
+1004,"Grand Central - 42 St_1,59 St - Columbus Circle_0",303562658.1
+1005,"E 180 St_0,Rockaway Blvd_0",303325200
+1006,"Winthrop St_0,181 St_0",303246000
+1007,"E 180 St_0,Prospect Park_0",303091957.3
+1008,"Whitehall St_0,34 St - Penn Station_1",302977793.1
+1009,"80 St_0,Prospect Park_0",302887485.2
+1010,"Grand Central - 42 St_1,34 St - Penn Station_1",302685844.3
+1011,"Sterling St_0,86 St_4",302648400
+1012,"Winthrop St_0,34 St - Penn Station_1",302547996.2
+1013,"Grand Central - 42 St_1,88 St_0",302504498
+1014,"Winthrop St_0,Flushing - Main St_0",302400000
+1015,"168 St - Washington Hts_0,Flushing - Main St_0",302256649.5
+1016,"14 St - Union Sq_0,86 St_4",301856828.5
+1017,"168 St - Washington Hts_0,34 St - Penn Station_1",301768815.6
+1018,"Whitehall St_0,88 St_0",301522373.6
+1019,"Broadway_1,167 St_0",301428000
+1020,"59 St - Columbus Circle_0,88 St_0",301163305.1
+1021,"Whitehall St_0,Mets - Willets Point_0",301067372
+1022,"168 St - Washington Hts_0,Prospect Park_0",301055426.1
+1023,"5 Av-53 St_0,88 St_0",301045028.6
+1024,"Atlantic Av - Barclays Ctr_0,Prospect Park_0",300800856.2
+1025,"42 St - Port Authority Bus Terminal_0,34 St - Penn Station_1",300628882.6
+1026,"168 St - Washington Hts_0,Rockaway Blvd_0",300488580.8
+1027,"Grand Central - 42 St_1,Mets - Willets Point_0",300470498
+1028,"59 St - Columbus Circle_0,Mets - Willets Point_0",300291715.3
+1029,"Winthrop St_0,Rockaway Blvd_0",300265200
+1030,"Grand Central - 42 St_1,Church Av_0",299653298
+1031,"88 St_0,Mets - Willets Point_0",299134800
+1032,"5 Av-53 St_0,34 St - Penn Station_1",299025354.3
+1033,"80 St_0,167 St_0",298897200
+1034,"Grand Central - 42 St_1,Jamaica - 179 St_0",298753298
+1035,"Whitehall St_0,Church Av_0",298621333.4
+1036,"Whitehall St_0,Jamaica - 179 St_0",298561772
+1037,"Winthrop St_0,Prospect Park_0",298351124.5
+1038,"59 St - Columbus Circle_0,Church Av_0",298150479.5
+1039,"Grand Central - 42 St_1,181 St_0",298087298
+1040,"Broadway_1,86 St_4",297730800
+1041,"Whitehall St_0,181 St_0",297722972
+1042,"5 Av-53 St_0,Mets - Willets Point_0",297483268.1
+1043,"5 Av-53 St_0,Church Av_0",297433786.9
+1044,"88 St_0,Church Av_0",297291600
+1045,"59 St - Columbus Circle_0,Jamaica - 179 St_0",296895693.4
+1046,"E 180 St_0,30 Av_0",296856000
+1047,"Whitehall St_0,Flushing - Main St_0",296804972
+1048,"Winthrop St_0,167 St_0",296776800
+1049,"Broadway_1,86 St_1",296516836.7
+1050,"Mets - Willets Point_0,Church Av_0",296326800
+1051,"Grand Central - 42 St_1,Flushing - Main St_0",296208098
+1052,"88 St_0,34 St - Penn Station_1",296194745.5
+1053,"88 St_0,181 St_0",296168400
+1054,"5 Av-53 St_0,59 St - Columbus Circle_0",296119845.3
+1055,"59 St - Columbus Circle_0,Flushing - Main St_0",296057615.1
+1056,"80 St_0,86 St_1",295777058.5
+1057,"E 180 St_0,167 St_0",295650000
+1058,"Grand Central - 42 St_1,Rockaway Blvd_0",295570898
+1059,"88 St_0,Jamaica - 179 St_0",295542000
+1060,"Whitehall St_0,Prospect Park_0",295435553.8
+1061,"5 Av-53 St_0,Jamaica - 179 St_0",295415724
+1062,"Mets - Willets Point_0,34 St - Penn Station_1",295133085.8
+1063,"Grand Central - 42 St_1,Prospect Park_0",295124619
+1064,"88 St_0,Flushing - Main St_0",295102800
+1065,"80 St_0,86 St_4",295020000
+1066,"5 Av-53 St_0,181 St_0",294949013
+1067,"Mets - Willets Point_0,181 St_0",294883200
+1068,"80 St_0,30 Av_0",294674400
+1069,"Winthrop St_0,30 Av_0",294638400
+1070,"59 St - Columbus Circle_0,Prospect Park_0",294636711.8
+1071,"Whitehall St_0,Rockaway Blvd_0",294348309.8
+1072,"168 St - Washington Hts_0,86 St_1",294289840.5
+1073,"168 St - Washington Hts_0,30 Av_0",294254798.3
+1074,"168 St - Washington Hts_0,167 St_0",294244507.5
+1075,"Mets - Willets Point_0,Jamaica - 179 St_0",294069600
+1076,"E 180 St_0,86 St_4",293925600
+1077,"59 St - Columbus Circle_0,Rockaway Blvd_0",293917705.1
+1078,"5 Av-53 St_0,Rockaway Blvd_0",293801828.6
+1079,"149 St - Grand Concourse_0,E 180 St_0",293786478.5
+1080,"14 St - Union Sq_0,86 St_1",293775044.9
+1081,"Church Av_0,Jamaica - 179 St_0",293752800
+1082,"88 St_0,Prospect Park_0",293675085.2
+1083,"Winthrop St_0,86 St_1",293284013.6
+1084,"5 Av-53 St_0,Flushing - Main St_0",293240172.9
+1085,"34 St - Penn Station_1,Jamaica - 179 St_0",293166030.4
+1086,"5 Av-53 St_0,Prospect Park_0",292965846.9
+1087,"Church Av_0,181 St_0",292964400
+1088,"168 St - Washington Hts_0,86 St_4",292935780.8
+1089,"Mets - Willets Point_0,Prospect Park_0",292922358.2
+1090,"34 St - Penn Station_1,Church Av_0",292518396.2
+1091,"Jamaica - 179 St_0,181 St_0",292208400
+1092,"Grand Central - 42 St_1,167 St_0",292165243.3
+1093,"Church Av_0,Flushing - Main St_0",292118400
+1094,"Winthrop St_0,86 St_4",292039200
+1095,"Mets - Willets Point_0,Rockaway Blvd_0",291913200
+1096,"Whitehall St_0,167 St_0",291448172
+1097,"59 St - Columbus Circle_0,181 St_0",291237006.6
+1098,"34 St - Penn Station_1,Flushing - Main St_0",290871595.8
+1099,"181 St_0,Flushing - Main St_0",290800800
+1100,"34 St - Penn Station_1,181 St_0",290407126.1
+1101,"59 St - Columbus Circle_0,34 St - Penn Station_1",290320121.5
+1102,"Jamaica - 179 St_0,Prospect Park_0",290310571
+1103,"Church Av_0,Rockaway Blvd_0",290034000
+1104,"Jamaica - 179 St_0,Flushing - Main St_0",289832400
+1105,"88 St_0,167 St_0",289684800
+1106,"181 St_0,Prospect Park_0",289586297.3
+1107,"5 Av-53 St_0,167 St_0",289471028.6
+1108,"34 St - Penn Station_1,Rockaway Blvd_0",289366011.7
+1109,"Whitehall St_0,30 Av_0",289316972
+1110,"E 180 St_0,86 St_1",289273569.9
+1111,"5 Av-53 St_0,86 St_1",289166676.3
+1112,"34 St - Penn Station_1,Prospect Park_0",289157246.3
+1113,"181 St_0,Rockaway Blvd_0",289018800
+1114,"Grand Central - 42 St_1,30 Av_0",288900098
+1115,"Flushing - Main St_0,Prospect Park_0",288700918.2
+1116,"149 St - Grand Concourse_0,3 Av - 149 St_0",288692478.5
+1117,"Jamaica - 179 St_0,Rockaway Blvd_0",288658800
+1118,"Grand Central - 42 St_1,86 St_1",288463483.2
+1119,"Church Av_0,Prospect Park_0",288327037
+1120,"Whitehall St_0,86 St_1",288144532
+1121,"59 St - Columbus Circle_0,167 St_0",288013839
+1122,"Flushing - Main St_0,Rockaway Blvd_0",287845200
+1123,"Mets - Willets Point_0,167 St_0",287719200
+1124,"59 St - Columbus Circle_0,30 Av_0",287271336.5
+1125,"88 St_0,86 St_1",286914073.4
+1126,"34 St - Penn Station_1,86 St_1",286730106.8
+1127,"Church Av_0,167 St_0",286567200
+1128,"125 St_2,Hunts Point Av_0",286445459.9
+1129,"Prospect Park_0,Rockaway Blvd_0",286417485.2
+1130,"Hunts Point Av_0,86 St_1",286247445.1
+1131,"Whitehall St_0,86 St_4",286128872
+1132,"59 St - Columbus Circle_0,86 St_4",285976469.1
+1133,"88 St_0,86 St_4",285807600
+1134,"88 St_0,30 Av_0",285678000
+1135,"Jamaica - 179 St_0,167 St_0",285548400
+1136,"34 St - Penn Station_1,167 St_0",285044618.6
+1137,"5 Av-53 St_0,30 Av_0",285005534
+1138,"Grand Central - 42 St_1,86 St_4",284850098
+1139,"Mets - Willets Point_0,86 St_1",284605591.4
+1140,"Mets - Willets Point_0,86 St_4",284601600
+1141,"Mets - Willets Point_0,30 Av_0",284418000
+1142,"Church Av_0,30 Av_0",284356800
+1143,"34 St - Penn Station_1,30 Av_0",283870065.8
+1144,"Flushing - Main St_0,167 St_0",283633200
+1145,"Jamaica - 179 St_0,30 Av_0",283140000
+1146,"Church Av_0,86 St_1",283120636.3
+1147,"5 Av-53 St_0,86 St_4",283120628.6
+1148,"181 St_0,167 St_0",283006800
+1149,"Prospect Park_0,167 St_0",282864502.5
+1150,"181 St_0,30 Av_0",282862800
+1151,"181 St_0,86 St_1",282744349.1
+1152,"Rockaway Blvd_0,167 St_0",282463200
+1153,"Jamaica - 179 St_0,86 St_4",282088800
+1154,"34 St - Penn Station_1,86 St_4",281895177.6
+1155,"Jamaica - 179 St_0,86 St_1",281872107.5
+1156,"Church Av_0,86 St_4",281772000
+1157,"Broadway Jct_0,Rockaway Blvd_0",281684492.3
+1158,"181 St_0,86 St_4",281469600
+1159,"125 St_2,3 Av - 138 St_0",281401859.9
+1160,"Broadway Jct_0,88 St_0",280935692.3
+1161,"Broadway Jct_0,Grant Av_0",280914092.3
+1162,"Broadway Jct_0,80 St_0",280845692.3
+1163,"Broadway Jct_0,Euclid Av_0",280680092.3
+1164,"Prospect Park_0,30 Av_0",280647480.2
+1165,"Prospect Park_0,86 St_1",280460120.2
+1166,"Flushing - Main St_0,86 St_1",280423704.2
+1167,"Flushing - Main St_0,86 St_4",280339200
+1168,"Parsons Blvd_0,Forest Hills - 71 Av_0",280339026.1
+1169,"Flushing - Main St_0,30 Av_0",280252800
+1170,"Rockaway Blvd_0,86 St_1",279757712.8
+1171,"Prospect Park_0,86 St_4",278776216.2
+1172,"Rockaway Blvd_0,86 St_4",278550000
+1173,"Rockaway Blvd_0,30 Av_0",278420400
+1174,"167 St_0,30 Av_0",276260400
+1175,"Junction Blvd_0,Mets - Willets Point_0",276053330.6
+1176,"Junction Blvd_0,Flushing - Main St_0",275632130.6
+1177,"167 St_0,86 St_4",273416400
+1178,"30 Av_0,86 St_4",272383200
+1179,"167 St_0,86 St_1",271785332.5
+1180,"30 Av_0,86 St_1",271568114.6
+1181,"Kew Gardens - Union Tpke_0,Jamaica - 179 St_0",271110592.1
+1182,"Kew Gardens - Union Tpke_0,Parsons Blvd_0",270883792.1
+1183,"86 St_1,86 St_4",270366502.7
+1184,"Forest Hills - 71 Av_0,Jamaica - 179 St_0",262605956.1
+1185,"3 Av - 149 St_0,E 180 St_0",260395200
+1186,"59 St_0,86 St_1",257761608.5
+1187,"Queensboro Plaza_0,30 Av_0",243054186
+1188,"Queensboro Plaza_0,Broadway_1",242802186
+1189,"Lexington Av-63 St_0,86 St_4",242796659.4
+1190,"Lexington Av-63 St_0,72 St_2",242724659.4
+1191,"Queensboro Plaza_0,36 Av_0",242463786
+1192,"Queensboro Plaza_0,39 Av_0",241707786
+1193,"3 Av - 138 St_0,Hunts Point Av_0",236746800
+1194,"Franklin Av_1,Church Av_0",234115643.5
+1195,"Franklin Av_1,Winthrop St_0",233809643.5
+1196,"Franklin Av_1,Sterling St_0",233683643.5
+1197,"Franklin Av_1,President St_0",233395643.5
+1198,"161 St - Yankee Stadium_0,167 St_0",225102844.8
+1199,"72 St_2,86 St_4",216763200
+1200,"Euclid Av_0,Rockaway Blvd_0",203952300
+1201,"Euclid Av_0,88 St_0",203059500
+1202,"Euclid Av_0,80 St_0",202969500
+1203,"Euclid Av_0,Grant Av_0",202789500
+1204,"39 Av_0,30 Av_0",200595600
+1205,"39 Av_0,Broadway_1",200343600
+1206,"39 Av_0,36 Av_0",200005200
+1207,"36 Av_0,30 Av_0",197596800
+1208,"36 Av_0,Broadway_1",197038800
+1209,"Parsons Blvd_0,Jamaica - 179 St_0",196322400
+1210,"Grant Av_0,Rockaway Blvd_0",194760000
+1211,"Grant Av_0,88 St_0",193777200
+1212,"Grant Av_0,80 St_0",193687200
+1213,"President St_0,Church Av_0",190882800
+1214,"President St_0,Winthrop St_0",190576800
+1215,"President St_0,Sterling St_0",190450800
+1216,"Sterling St_0,Church Av_0",180968400
+1217,"Sterling St_0,Winthrop St_0",180662400
+1218,"Broadway_1,30 Av_0",175442400
+1219,"80 St_0,Rockaway Blvd_0",173401200
+1220,"80 St_0,88 St_0",172418400
+1221,"168 St - Washington Hts_0,181 St_0",171352980.8
+1222,"Winthrop St_0,Church Av_0",170233200
+1223,"88 St_0,Rockaway Blvd_0",164098800
+1224,"Mets - Willets Point_0,Flushing - Main St_0",161791200
