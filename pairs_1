@@ -1,0 +1,931 @@
+,0,1
+0,34 St - Herald Sq_0,59 St_0
+1,34 St - Herald Sq_0,Parsons Blvd_0
+2,34 St - Herald Sq_0,42 St - Bryant Pk_0
+3,34 St - Herald Sq_0,E 180 St_0
+4,34 St - Herald Sq_0,Franklin Av_1
+5,34 St - Herald Sq_0,3 Av - 138 St_0
+6,34 St - Herald Sq_0,New Lots Av_0
+7,34 St - Herald Sq_0,6 Av_0
+8,34 St - Herald Sq_0,168 St - Washington Hts_0
+9,34 St - Herald Sq_0,14 St_2
+10,34 St - Herald Sq_0,14 St_0
+11,34 St - Herald Sq_0,14 St_1
+12,34 St - Herald Sq_0,Jay St - MetroTech_0
+13,34 St - Herald Sq_0,Park Pl_0
+14,34 St - Herald Sq_0,Jamaica - 179 St_0
+15,34 St - Herald Sq_0,72 St_0
+16,34 St - Herald Sq_0,75 St_0
+17,34 St - Herald Sq_0,Lexington Av/63 St_0
+18,34 St - Herald Sq_0,Rockaway Av_0
+19,34 St - Herald Sq_0,135 St_1
+20,34 St - Herald Sq_0,167 St_0
+21,34 St - Herald Sq_0,Church Av_0
+22,34 St - Herald Sq_0,Church Av_1
+23,34 St - Herald Sq_0,Brooklyn Bridge - City Hall_0
+24,34 St - Herald Sq_0,Winthrop St_0
+25,34 St - Herald Sq_0,Junius St_0
+26,34 St - Herald Sq_0,Saratoga Av_0
+27,34 St - Herald Sq_0,168 St_0
+28,34 St - Herald Sq_0,59 St - Columbus Circle_0
+29,34 St - Herald Sq_0,Euclid Av_0
+30,34 St - Herald Sq_0,39 Av_0
+31,34 St - Herald Sq_0,Mets - Willets Point_0
+32,42 St - Port Authority Bus Terminal_0,Fulton St_0
+33,42 St - Port Authority Bus Terminal_0,Court Sq_0
+34,42 St - Port Authority Bus Terminal_0,Canal St_0
+35,42 St - Port Authority Bus Terminal_0,Canal St_2
+36,42 St - Port Authority Bus Terminal_0,Coney Island - Stillwell Av_0
+37,42 St - Port Authority Bus Terminal_0,125 St_3
+38,42 St - Port Authority Bus Terminal_0,Prospect Av_1
+39,42 St - Port Authority Bus Terminal_0,Van Siclen Av_0
+40,42 St - Port Authority Bus Terminal_0,Crown Hts - Utica Av_0
+41,42 St - Port Authority Bus Terminal_0,DeKalb Av_0
+42,42 St - Port Authority Bus Terminal_0,34 St - Penn Station_0
+43,42 St - Port Authority Bus Terminal_0,96 St_0
+44,42 St - Port Authority Bus Terminal_0,Fulton St_1
+45,42 St - Port Authority Bus Terminal_0,Borough Hall_0
+46,42 St - Port Authority Bus Terminal_0,Utica Av_0
+47,42 St - Port Authority Bus Terminal_0,145 St_0
+48,42 St - Port Authority Bus Terminal_0,W 4 St_0
+49,42 St - Port Authority Bus Terminal_0,Times Sq - 42 St_0
+50,42 St - Port Authority Bus Terminal_0,Pennsylvania Av_0
+51,42 St - Port Authority Bus Terminal_0,Broadway-Lafayette St_0
+52,42 St - Port Authority Bus Terminal_0,Hoyt - Schermerhorn Sts_0
+53,42 St - Port Authority Bus Terminal_0,Rector St_0
+54,42 St - Port Authority Bus Terminal_0,Kings Hwy_0
+55,42 St - Port Authority Bus Terminal_0,Lexington Av/59 St_0
+56,42 St - Port Authority Bus Terminal_0,57 St - 7 Av_0
+57,42 St - Port Authority Bus Terminal_0,Union St_0
+58,42 St - Port Authority Bus Terminal_0,47-50 Sts - Rockefeller Ctr_0
+59,42 St - Port Authority Bus Terminal_0,Sutter Av - Rutland Rd_0
+60,42 St - Port Authority Bus Terminal_0,Woodside - 61 St_0
+61,42 St - Port Authority Bus Terminal_0,7 Av_0
+62,42 St - Port Authority Bus Terminal_0,Queens Plaza_0
+63,42 St - Port Authority Bus Terminal_0,Woodhaven Blvd_1
+64,42 St - Port Authority Bus Terminal_0,59 St_1
+65,42 St - Port Authority Bus Terminal_0,9 St_0
+66,42 St - Port Authority Bus Terminal_0,Chambers St_0
+67,42 St - Port Authority Bus Terminal_0,Chambers St_1
+68,42 St - Port Authority Bus Terminal_0,Nevins St_0
+69,42 St - Port Authority Bus Terminal_0,42 St - Bryant Pk_0
+70,42 St - Port Authority Bus Terminal_0,New Lots Av_0
+71,42 St - Port Authority Bus Terminal_0,6 Av_0
+72,42 St - Port Authority Bus Terminal_0,14 St_2
+73,42 St - Port Authority Bus Terminal_0,14 St_0
+74,42 St - Port Authority Bus Terminal_0,14 St_1
+75,42 St - Port Authority Bus Terminal_0,Jay St - MetroTech_0
+76,42 St - Port Authority Bus Terminal_0,Park Pl_0
+77,42 St - Port Authority Bus Terminal_0,72 St_0
+78,42 St - Port Authority Bus Terminal_0,75 St_0
+79,42 St - Port Authority Bus Terminal_0,Rockaway Av_0
+80,42 St - Port Authority Bus Terminal_0,135 St_1
+81,42 St - Port Authority Bus Terminal_0,Church Av_1
+82,42 St - Port Authority Bus Terminal_0,Brooklyn Bridge - City Hall_0
+83,42 St - Port Authority Bus Terminal_0,Junius St_0
+84,42 St - Port Authority Bus Terminal_0,Saratoga Av_0
+85,42 St - Port Authority Bus Terminal_0,168 St_0
+86,Fulton St_0,Court Sq_0
+87,Fulton St_0,Canal St_0
+88,Fulton St_0,Canal St_2
+89,Fulton St_0,Coney Island - Stillwell Av_0
+90,Fulton St_0,36 St_0
+91,Fulton St_0,30 Av_0
+92,Fulton St_0,Broadway_1
+93,Fulton St_0,125 St_2
+94,Fulton St_0,125 St_3
+95,Fulton St_0,Sterling St_0
+96,Fulton St_0,88 St_0
+97,Fulton St_0,86 St_4
+98,Fulton St_0,Prospect Av_1
+99,Fulton St_0,Van Siclen Av_0
+100,Fulton St_0,161 St - Yankee Stadium_0
+101,Fulton St_0,President St_0
+102,Fulton St_0,Crown Hts - Utica Av_0
+103,Fulton St_0,DeKalb Av_0
+104,Fulton St_0,3 Av - 149 St_0
+105,Fulton St_0,Rockaway Blvd_0
+106,Fulton St_0,34 St - Penn Station_1
+107,Fulton St_0,34 St - Penn Station_0
+108,Fulton St_0,96 St_0
+109,Fulton St_0,Fulton St_1
+110,Fulton St_0,Borough Hall_0
+111,Fulton St_0,Utica Av_0
+112,Fulton St_0,36 Av_0
+113,Fulton St_0,145 St_0
+114,Fulton St_0,W 4 St_0
+115,Fulton St_0,Times Sq - 42 St_0
+116,Fulton St_0,86 St_1
+117,Fulton St_0,Pennsylvania Av_0
+118,Fulton St_0,Broadway-Lafayette St_0
+119,Fulton St_0,Hoyt - Schermerhorn Sts_0
+120,Fulton St_0,Prospect Park_0
+121,Fulton St_0,Rector St_0
+122,Fulton St_0,Kings Hwy_0
+123,Fulton St_0,Queensboro Plaza_0
+124,Fulton St_0,Lexington Av/59 St_0
+125,Fulton St_0,80 St_0
+126,Fulton St_0,57 St - 7 Av_0
+127,Fulton St_0,Union St_0
+128,Fulton St_0,181 St_0
+129,Fulton St_0,Junction Blvd_0
+130,Fulton St_0,Hunts Point Av_0
+131,Fulton St_0,47-50 Sts - Rockefeller Ctr_0
+132,Fulton St_0,Sutter Av - Rutland Rd_0
+133,Fulton St_0,5 Av/53 St_0
+134,Fulton St_0,Forest Hills - 71 Av_0
+135,Fulton St_0,Woodside - 61 St_0
+136,Fulton St_0,Grand Central - 42 St_1
+137,Fulton St_0,Grand Central - 42 St_0
+138,Fulton St_0,7 Av_0
+139,Fulton St_0,Queens Plaza_0
+140,Fulton St_0,Woodhaven Blvd_1
+141,Fulton St_0,59 St_1
+142,Fulton St_0,9 St_0
+143,Fulton St_0,Chambers St_0
+144,Fulton St_0,Chambers St_1
+145,Fulton St_0,149 St - Grand Concourse_0
+146,Fulton St_0,Nevins St_0
+147,Fulton St_0,14 St - Union Sq_0
+148,Fulton St_0,59 St_0
+149,Fulton St_0,Parsons Blvd_0
+150,Fulton St_0,42 St - Bryant Pk_0
+151,Fulton St_0,E 180 St_0
+152,Fulton St_0,Franklin Av_1
+153,Fulton St_0,3 Av - 138 St_0
+154,Fulton St_0,New Lots Av_0
+155,Fulton St_0,6 Av_0
+156,Fulton St_0,168 St - Washington Hts_0
+157,Fulton St_0,14 St_2
+158,Fulton St_0,14 St_0
+159,Fulton St_0,14 St_1
+160,Fulton St_0,Jay St - MetroTech_0
+161,Fulton St_0,Park Pl_0
+162,Fulton St_0,Jamaica - 179 St_0
+163,Fulton St_0,72 St_0
+164,Fulton St_0,75 St_0
+165,Fulton St_0,Lexington Av/63 St_0
+166,Fulton St_0,Rockaway Av_0
+167,Fulton St_0,135 St_1
+168,Fulton St_0,167 St_0
+169,Fulton St_0,Church Av_0
+170,Fulton St_0,Church Av_1
+171,Fulton St_0,Brooklyn Bridge - City Hall_0
+172,Fulton St_0,Winthrop St_0
+173,Fulton St_0,Junius St_0
+174,Fulton St_0,Saratoga Av_0
+175,Fulton St_0,168 St_0
+176,Fulton St_0,59 St - Columbus Circle_0
+177,Fulton St_0,Euclid Av_0
+178,Fulton St_0,39 Av_0
+179,Fulton St_0,Mets - Willets Point_0
+180,Court Sq_0,Canal St_0
+181,Court Sq_0,Canal St_2
+182,Court Sq_0,Coney Island - Stillwell Av_0
+183,Court Sq_0,36 St_0
+184,Court Sq_0,30 Av_0
+185,Court Sq_0,Broadway_1
+186,Court Sq_0,125 St_2
+187,Court Sq_0,125 St_3
+188,Court Sq_0,Sterling St_0
+189,Court Sq_0,88 St_0
+190,Court Sq_0,86 St_4
+191,Court Sq_0,Prospect Av_1
+192,Court Sq_0,Van Siclen Av_0
+193,Court Sq_0,161 St - Yankee Stadium_0
+194,Court Sq_0,President St_0
+195,Court Sq_0,Crown Hts - Utica Av_0
+196,Court Sq_0,DeKalb Av_0
+197,Court Sq_0,3 Av - 149 St_0
+198,Court Sq_0,Rockaway Blvd_0
+199,Court Sq_0,34 St - Penn Station_1
+200,Court Sq_0,34 St - Penn Station_0
+201,Court Sq_0,96 St_0
+202,Court Sq_0,Fulton St_1
+203,Court Sq_0,Borough Hall_0
+204,Court Sq_0,Utica Av_0
+205,Court Sq_0,36 Av_0
+206,Court Sq_0,145 St_0
+207,Court Sq_0,W 4 St_0
+208,Court Sq_0,Times Sq - 42 St_0
+209,Court Sq_0,86 St_1
+210,Court Sq_0,Pennsylvania Av_0
+211,Court Sq_0,Broadway-Lafayette St_0
+212,Court Sq_0,Hoyt - Schermerhorn Sts_0
+213,Court Sq_0,Prospect Park_0
+214,Court Sq_0,Rector St_0
+215,Court Sq_0,Kings Hwy_0
+216,Court Sq_0,Queensboro Plaza_0
+217,Court Sq_0,Lexington Av/59 St_0
+218,Court Sq_0,80 St_0
+219,Court Sq_0,57 St - 7 Av_0
+220,Court Sq_0,Union St_0
+221,Court Sq_0,181 St_0
+222,Court Sq_0,Junction Blvd_0
+223,Court Sq_0,Hunts Point Av_0
+224,Court Sq_0,47-50 Sts - Rockefeller Ctr_0
+225,Court Sq_0,Sutter Av - Rutland Rd_0
+226,Court Sq_0,5 Av/53 St_0
+227,Court Sq_0,Forest Hills - 71 Av_0
+228,Court Sq_0,Woodside - 61 St_0
+229,Court Sq_0,Grand Central - 42 St_1
+230,Court Sq_0,Grand Central - 42 St_0
+231,Court Sq_0,7 Av_0
+232,Court Sq_0,Queens Plaza_0
+233,Court Sq_0,Woodhaven Blvd_1
+234,Court Sq_0,59 St_1
+235,Court Sq_0,9 St_0
+236,Court Sq_0,Chambers St_0
+237,Court Sq_0,Chambers St_1
+238,Court Sq_0,149 St - Grand Concourse_0
+239,Court Sq_0,Nevins St_0
+240,Court Sq_0,14 St - Union Sq_0
+241,Court Sq_0,59 St_0
+242,Court Sq_0,Parsons Blvd_0
+243,Court Sq_0,42 St - Bryant Pk_0
+244,Court Sq_0,E 180 St_0
+245,Court Sq_0,Franklin Av_1
+246,Court Sq_0,3 Av - 138 St_0
+247,Court Sq_0,New Lots Av_0
+248,Court Sq_0,6 Av_0
+249,Court Sq_0,168 St - Washington Hts_0
+250,Court Sq_0,14 St_2
+251,Court Sq_0,14 St_0
+252,Court Sq_0,14 St_1
+253,Court Sq_0,Jay St - MetroTech_0
+254,Court Sq_0,Park Pl_0
+255,Court Sq_0,Jamaica - 179 St_0
+256,Court Sq_0,72 St_0
+257,Court Sq_0,75 St_0
+258,Court Sq_0,Lexington Av/63 St_0
+259,Court Sq_0,Rockaway Av_0
+260,Court Sq_0,135 St_1
+261,Court Sq_0,167 St_0
+262,Court Sq_0,Church Av_0
+263,Court Sq_0,Church Av_1
+264,Court Sq_0,Brooklyn Bridge - City Hall_0
+265,Court Sq_0,Winthrop St_0
+266,Court Sq_0,Junius St_0
+267,Court Sq_0,Saratoga Av_0
+268,Court Sq_0,168 St_0
+269,Court Sq_0,59 St - Columbus Circle_0
+270,Court Sq_0,Euclid Av_0
+271,Court Sq_0,39 Av_0
+272,Court Sq_0,Mets - Willets Point_0
+273,Canal St_0,Canal St_2
+274,Canal St_0,Coney Island - Stillwell Av_0
+275,Canal St_0,36 St_0
+276,Canal St_0,30 Av_0
+277,Canal St_0,Broadway_1
+278,Canal St_0,125 St_2
+279,Canal St_0,125 St_3
+280,Canal St_0,Sterling St_0
+281,Canal St_0,88 St_0
+282,Canal St_0,86 St_4
+283,Canal St_0,Prospect Av_1
+284,Canal St_0,Van Siclen Av_0
+285,Canal St_0,161 St - Yankee Stadium_0
+286,Canal St_0,President St_0
+287,Canal St_0,Crown Hts - Utica Av_0
+288,Canal St_0,DeKalb Av_0
+289,Canal St_0,3 Av - 149 St_0
+290,Canal St_0,Rockaway Blvd_0
+291,Canal St_0,34 St - Penn Station_1
+292,Canal St_0,34 St - Penn Station_0
+293,Canal St_0,96 St_0
+294,Canal St_0,Fulton St_1
+295,Canal St_0,Borough Hall_0
+296,Canal St_0,Utica Av_0
+297,Canal St_0,36 Av_0
+298,Canal St_0,145 St_0
+299,Canal St_0,W 4 St_0
+300,Canal St_0,Times Sq - 42 St_0
+301,Canal St_0,86 St_1
+302,Canal St_0,Pennsylvania Av_0
+303,Canal St_0,Broadway-Lafayette St_0
+304,Canal St_0,Hoyt - Schermerhorn Sts_0
+305,Canal St_0,Prospect Park_0
+306,Canal St_0,Rector St_0
+307,Canal St_0,Kings Hwy_0
+308,Canal St_0,Queensboro Plaza_0
+309,Canal St_0,Lexington Av/59 St_0
+310,Canal St_0,80 St_0
+311,Canal St_0,57 St - 7 Av_0
+312,Canal St_0,Union St_0
+313,Canal St_0,181 St_0
+314,Canal St_0,Junction Blvd_0
+315,Canal St_0,Hunts Point Av_0
+316,Canal St_0,47-50 Sts - Rockefeller Ctr_0
+317,Canal St_0,Sutter Av - Rutland Rd_0
+318,Canal St_0,5 Av/53 St_0
+319,Canal St_0,Forest Hills - 71 Av_0
+320,Canal St_0,Woodside - 61 St_0
+321,Canal St_0,Grand Central - 42 St_1
+322,Canal St_0,Grand Central - 42 St_0
+323,Canal St_0,7 Av_0
+324,Canal St_0,Queens Plaza_0
+325,Canal St_0,Woodhaven Blvd_1
+326,Canal St_0,59 St_1
+327,Canal St_0,9 St_0
+328,Canal St_0,Chambers St_0
+329,Canal St_0,Chambers St_1
+330,Canal St_0,149 St - Grand Concourse_0
+331,Canal St_0,Nevins St_0
+332,Canal St_0,14 St - Union Sq_0
+333,Canal St_0,59 St_0
+334,Canal St_0,Parsons Blvd_0
+335,Canal St_0,42 St - Bryant Pk_0
+336,Canal St_0,E 180 St_0
+337,Canal St_0,Franklin Av_1
+338,Canal St_0,3 Av - 138 St_0
+339,Canal St_0,New Lots Av_0
+340,Canal St_0,6 Av_0
+341,Canal St_0,168 St - Washington Hts_0
+342,Canal St_0,14 St_2
+343,Canal St_0,14 St_0
+344,Canal St_0,14 St_1
+345,Canal St_0,Jay St - MetroTech_0
+346,Canal St_0,Park Pl_0
+347,Canal St_0,Jamaica - 179 St_0
+348,Canal St_0,72 St_0
+349,Canal St_0,75 St_0
+350,Canal St_0,Lexington Av/63 St_0
+351,Canal St_0,Rockaway Av_0
+352,Canal St_0,135 St_1
+353,Canal St_0,167 St_0
+354,Canal St_0,Church Av_0
+355,Canal St_0,Church Av_1
+356,Canal St_0,Brooklyn Bridge - City Hall_0
+357,Canal St_0,Winthrop St_0
+358,Canal St_0,Junius St_0
+359,Canal St_0,Saratoga Av_0
+360,Canal St_0,168 St_0
+361,Canal St_0,59 St - Columbus Circle_0
+362,Canal St_0,Euclid Av_0
+363,Canal St_0,39 Av_0
+364,Canal St_0,Mets - Willets Point_0
+365,Canal St_2,Coney Island - Stillwell Av_0
+366,Canal St_2,36 St_0
+367,Canal St_2,30 Av_0
+368,Canal St_2,Broadway_1
+369,Canal St_2,125 St_2
+370,Canal St_2,125 St_3
+371,Canal St_2,Sterling St_0
+372,Canal St_2,88 St_0
+373,Canal St_2,86 St_4
+374,Canal St_2,Prospect Av_1
+375,Canal St_2,Van Siclen Av_0
+376,Canal St_2,161 St - Yankee Stadium_0
+377,Canal St_2,President St_0
+378,Canal St_2,Crown Hts - Utica Av_0
+379,Canal St_2,DeKalb Av_0
+380,Canal St_2,3 Av - 149 St_0
+381,Canal St_2,Rockaway Blvd_0
+382,Canal St_2,34 St - Penn Station_1
+383,Canal St_2,34 St - Penn Station_0
+384,Canal St_2,96 St_0
+385,Canal St_2,Fulton St_1
+386,Canal St_2,Borough Hall_0
+387,Canal St_2,Utica Av_0
+388,Canal St_2,36 Av_0
+389,Canal St_2,145 St_0
+390,Canal St_2,W 4 St_0
+391,Canal St_2,Times Sq - 42 St_0
+392,Canal St_2,86 St_1
+393,Canal St_2,Pennsylvania Av_0
+394,Canal St_2,Broadway-Lafayette St_0
+395,Canal St_2,Hoyt - Schermerhorn Sts_0
+396,Canal St_2,Prospect Park_0
+397,Canal St_2,Rector St_0
+398,Canal St_2,Kings Hwy_0
+399,Canal St_2,Queensboro Plaza_0
+400,Canal St_2,Lexington Av/59 St_0
+401,Canal St_2,80 St_0
+402,Canal St_2,57 St - 7 Av_0
+403,Canal St_2,Union St_0
+404,Canal St_2,181 St_0
+405,Canal St_2,Junction Blvd_0
+406,Canal St_2,Hunts Point Av_0
+407,Canal St_2,47-50 Sts - Rockefeller Ctr_0
+408,Canal St_2,Sutter Av - Rutland Rd_0
+409,Canal St_2,5 Av/53 St_0
+410,Canal St_2,Forest Hills - 71 Av_0
+411,Canal St_2,Woodside - 61 St_0
+412,Canal St_2,Grand Central - 42 St_1
+413,Canal St_2,Grand Central - 42 St_0
+414,Canal St_2,7 Av_0
+415,Canal St_2,Queens Plaza_0
+416,Canal St_2,Woodhaven Blvd_1
+417,Canal St_2,59 St_1
+418,Canal St_2,9 St_0
+419,Canal St_2,Chambers St_0
+420,Canal St_2,Chambers St_1
+421,Canal St_2,149 St - Grand Concourse_0
+422,Canal St_2,Nevins St_0
+423,Canal St_2,14 St - Union Sq_0
+424,Canal St_2,59 St_0
+425,Canal St_2,Parsons Blvd_0
+426,Canal St_2,42 St - Bryant Pk_0
+427,Canal St_2,E 180 St_0
+428,Canal St_2,Franklin Av_1
+429,Canal St_2,3 Av - 138 St_0
+430,Canal St_2,New Lots Av_0
+431,Canal St_2,6 Av_0
+432,Canal St_2,168 St - Washington Hts_0
+433,Canal St_2,14 St_2
+434,Canal St_2,14 St_0
+435,Canal St_2,14 St_1
+436,Canal St_2,Jay St - MetroTech_0
+437,Canal St_2,Park Pl_0
+438,Canal St_2,Jamaica - 179 St_0
+439,Canal St_2,72 St_0
+440,Canal St_2,75 St_0
+441,Canal St_2,Lexington Av/63 St_0
+442,Canal St_2,Rockaway Av_0
+443,Canal St_2,135 St_1
+444,Canal St_2,167 St_0
+445,Canal St_2,Church Av_0
+446,Canal St_2,Church Av_1
+447,Canal St_2,Brooklyn Bridge - City Hall_0
+448,Canal St_2,Winthrop St_0
+449,Canal St_2,Junius St_0
+450,Canal St_2,Saratoga Av_0
+451,Canal St_2,168 St_0
+452,Canal St_2,59 St - Columbus Circle_0
+453,Canal St_2,Euclid Av_0
+454,Canal St_2,39 Av_0
+455,Canal St_2,Mets - Willets Point_0
+456,Coney Island - Stillwell Av_0,36 St_0
+457,Coney Island - Stillwell Av_0,30 Av_0
+458,Coney Island - Stillwell Av_0,Broadway_1
+459,Coney Island - Stillwell Av_0,125 St_2
+460,Coney Island - Stillwell Av_0,125 St_3
+461,Coney Island - Stillwell Av_0,Sterling St_0
+462,Coney Island - Stillwell Av_0,88 St_0
+463,Coney Island - Stillwell Av_0,86 St_4
+464,Coney Island - Stillwell Av_0,Prospect Av_1
+465,Coney Island - Stillwell Av_0,Van Siclen Av_0
+466,Coney Island - Stillwell Av_0,161 St - Yankee Stadium_0
+467,Coney Island - Stillwell Av_0,President St_0
+468,Coney Island - Stillwell Av_0,Crown Hts - Utica Av_0
+469,Coney Island - Stillwell Av_0,DeKalb Av_0
+470,Coney Island - Stillwell Av_0,3 Av - 149 St_0
+471,Coney Island - Stillwell Av_0,Rockaway Blvd_0
+472,Coney Island - Stillwell Av_0,34 St - Penn Station_1
+473,Coney Island - Stillwell Av_0,34 St - Penn Station_0
+474,Coney Island - Stillwell Av_0,96 St_0
+475,Coney Island - Stillwell Av_0,Fulton St_1
+476,Coney Island - Stillwell Av_0,Borough Hall_0
+477,Coney Island - Stillwell Av_0,Utica Av_0
+478,Coney Island - Stillwell Av_0,36 Av_0
+479,Coney Island - Stillwell Av_0,145 St_0
+480,Coney Island - Stillwell Av_0,W 4 St_0
+481,Coney Island - Stillwell Av_0,Times Sq - 42 St_0
+482,Coney Island - Stillwell Av_0,86 St_1
+483,Coney Island - Stillwell Av_0,Pennsylvania Av_0
+484,Coney Island - Stillwell Av_0,Broadway-Lafayette St_0
+485,Coney Island - Stillwell Av_0,Hoyt - Schermerhorn Sts_0
+486,Coney Island - Stillwell Av_0,Prospect Park_0
+487,Coney Island - Stillwell Av_0,Rector St_0
+488,Coney Island - Stillwell Av_0,Kings Hwy_0
+489,Coney Island - Stillwell Av_0,Queensboro Plaza_0
+490,Coney Island - Stillwell Av_0,Lexington Av/59 St_0
+491,Coney Island - Stillwell Av_0,80 St_0
+492,Coney Island - Stillwell Av_0,57 St - 7 Av_0
+493,Coney Island - Stillwell Av_0,Union St_0
+494,Coney Island - Stillwell Av_0,181 St_0
+495,Coney Island - Stillwell Av_0,Junction Blvd_0
+496,Coney Island - Stillwell Av_0,Hunts Point Av_0
+497,Coney Island - Stillwell Av_0,47-50 Sts - Rockefeller Ctr_0
+498,Coney Island - Stillwell Av_0,Sutter Av - Rutland Rd_0
+499,Coney Island - Stillwell Av_0,5 Av/53 St_0
+500,Coney Island - Stillwell Av_0,Forest Hills - 71 Av_0
+501,Coney Island - Stillwell Av_0,Woodside - 61 St_0
+502,Coney Island - Stillwell Av_0,Grand Central - 42 St_1
+503,Coney Island - Stillwell Av_0,Grand Central - 42 St_0
+504,Coney Island - Stillwell Av_0,7 Av_0
+505,Coney Island - Stillwell Av_0,Queens Plaza_0
+506,Coney Island - Stillwell Av_0,Woodhaven Blvd_1
+507,Coney Island - Stillwell Av_0,59 St_1
+508,Coney Island - Stillwell Av_0,9 St_0
+509,Coney Island - Stillwell Av_0,Chambers St_0
+510,Coney Island - Stillwell Av_0,Chambers St_1
+511,Coney Island - Stillwell Av_0,149 St - Grand Concourse_0
+512,Coney Island - Stillwell Av_0,Nevins St_0
+513,Coney Island - Stillwell Av_0,14 St - Union Sq_0
+514,Coney Island - Stillwell Av_0,59 St_0
+515,Coney Island - Stillwell Av_0,Parsons Blvd_0
+516,Coney Island - Stillwell Av_0,42 St - Bryant Pk_0
+517,Coney Island - Stillwell Av_0,E 180 St_0
+518,Coney Island - Stillwell Av_0,Franklin Av_1
+519,Coney Island - Stillwell Av_0,3 Av - 138 St_0
+520,Coney Island - Stillwell Av_0,New Lots Av_0
+521,Coney Island - Stillwell Av_0,6 Av_0
+522,Coney Island - Stillwell Av_0,168 St - Washington Hts_0
+523,Coney Island - Stillwell Av_0,14 St_2
+524,Coney Island - Stillwell Av_0,14 St_0
+525,Coney Island - Stillwell Av_0,14 St_1
+526,Coney Island - Stillwell Av_0,Jay St - MetroTech_0
+527,Coney Island - Stillwell Av_0,Park Pl_0
+528,Coney Island - Stillwell Av_0,Jamaica - 179 St_0
+529,Coney Island - Stillwell Av_0,72 St_0
+530,Coney Island - Stillwell Av_0,75 St_0
+531,Coney Island - Stillwell Av_0,Lexington Av/63 St_0
+532,Coney Island - Stillwell Av_0,Rockaway Av_0
+533,Coney Island - Stillwell Av_0,135 St_1
+534,Coney Island - Stillwell Av_0,167 St_0
+535,Coney Island - Stillwell Av_0,Church Av_0
+536,Coney Island - Stillwell Av_0,Church Av_1
+537,Coney Island - Stillwell Av_0,Brooklyn Bridge - City Hall_0
+538,Coney Island - Stillwell Av_0,Winthrop St_0
+539,Coney Island - Stillwell Av_0,Junius St_0
+540,Coney Island - Stillwell Av_0,Saratoga Av_0
+541,Coney Island - Stillwell Av_0,168 St_0
+542,Coney Island - Stillwell Av_0,59 St - Columbus Circle_0
+543,Coney Island - Stillwell Av_0,Euclid Av_0
+544,Coney Island - Stillwell Av_0,39 Av_0
+545,Coney Island - Stillwell Av_0,Mets - Willets Point_0
+546,36 St_0,125 St_3
+547,36 St_0,Prospect Av_1
+548,36 St_0,Van Siclen Av_0
+549,36 St_0,Crown Hts - Utica Av_0
+550,36 St_0,DeKalb Av_0
+551,36 St_0,34 St - Penn Station_0
+552,36 St_0,96 St_0
+553,36 St_0,Fulton St_1
+554,36 St_0,Borough Hall_0
+555,36 St_0,Utica Av_0
+556,36 St_0,145 St_0
+557,36 St_0,W 4 St_0
+558,36 St_0,Times Sq - 42 St_0
+559,36 St_0,Pennsylvania Av_0
+560,36 St_0,Broadway-Lafayette St_0
+561,36 St_0,Hoyt - Schermerhorn Sts_0
+562,36 St_0,Rector St_0
+563,36 St_0,Kings Hwy_0
+564,36 St_0,Lexington Av/59 St_0
+565,36 St_0,57 St - 7 Av_0
+566,36 St_0,Union St_0
+567,36 St_0,47-50 Sts - Rockefeller Ctr_0
+568,36 St_0,Sutter Av - Rutland Rd_0
+569,36 St_0,Woodside - 61 St_0
+570,36 St_0,7 Av_0
+571,36 St_0,Queens Plaza_0
+572,36 St_0,Woodhaven Blvd_1
+573,36 St_0,59 St_1
+574,36 St_0,9 St_0
+575,36 St_0,Chambers St_0
+576,36 St_0,Chambers St_1
+577,36 St_0,Nevins St_0
+578,36 St_0,42 St - Bryant Pk_0
+579,36 St_0,New Lots Av_0
+580,36 St_0,6 Av_0
+581,36 St_0,14 St_2
+582,36 St_0,14 St_0
+583,36 St_0,14 St_1
+584,36 St_0,Jay St - MetroTech_0
+585,36 St_0,Park Pl_0
+586,36 St_0,72 St_0
+587,36 St_0,75 St_0
+588,36 St_0,Rockaway Av_0
+589,36 St_0,135 St_1
+590,36 St_0,Church Av_1
+591,36 St_0,Brooklyn Bridge - City Hall_0
+592,36 St_0,Junius St_0
+593,36 St_0,Saratoga Av_0
+594,36 St_0,168 St_0
+595,30 Av_0,125 St_3
+596,30 Av_0,Prospect Av_1
+597,30 Av_0,Van Siclen Av_0
+598,30 Av_0,Crown Hts - Utica Av_0
+599,30 Av_0,DeKalb Av_0
+600,30 Av_0,34 St - Penn Station_0
+601,30 Av_0,96 St_0
+602,30 Av_0,Fulton St_1
+603,30 Av_0,Borough Hall_0
+604,30 Av_0,Utica Av_0
+605,30 Av_0,145 St_0
+606,30 Av_0,W 4 St_0
+607,30 Av_0,Times Sq - 42 St_0
+608,30 Av_0,Pennsylvania Av_0
+609,30 Av_0,Broadway-Lafayette St_0
+610,30 Av_0,Hoyt - Schermerhorn Sts_0
+611,30 Av_0,Rector St_0
+612,30 Av_0,Kings Hwy_0
+613,30 Av_0,Lexington Av/59 St_0
+614,30 Av_0,57 St - 7 Av_0
+615,30 Av_0,Union St_0
+616,30 Av_0,47-50 Sts - Rockefeller Ctr_0
+617,30 Av_0,Sutter Av - Rutland Rd_0
+618,30 Av_0,Woodside - 61 St_0
+619,30 Av_0,7 Av_0
+620,30 Av_0,Queens Plaza_0
+621,30 Av_0,Woodhaven Blvd_1
+622,30 Av_0,59 St_1
+623,30 Av_0,9 St_0
+624,30 Av_0,Chambers St_0
+625,30 Av_0,Chambers St_1
+626,30 Av_0,Nevins St_0
+627,30 Av_0,42 St - Bryant Pk_0
+628,30 Av_0,New Lots Av_0
+629,30 Av_0,6 Av_0
+630,30 Av_0,14 St_2
+631,30 Av_0,14 St_0
+632,30 Av_0,14 St_1
+633,30 Av_0,Jay St - MetroTech_0
+634,30 Av_0,Park Pl_0
+635,30 Av_0,72 St_0
+636,30 Av_0,75 St_0
+637,30 Av_0,Rockaway Av_0
+638,30 Av_0,135 St_1
+639,30 Av_0,Church Av_1
+640,30 Av_0,Brooklyn Bridge - City Hall_0
+641,30 Av_0,Junius St_0
+642,30 Av_0,Saratoga Av_0
+643,30 Av_0,168 St_0
+644,Broadway_1,125 St_3
+645,Broadway_1,Prospect Av_1
+646,Broadway_1,Van Siclen Av_0
+647,Broadway_1,Crown Hts - Utica Av_0
+648,Broadway_1,DeKalb Av_0
+649,Broadway_1,34 St - Penn Station_0
+650,Broadway_1,96 St_0
+651,Broadway_1,Fulton St_1
+652,Broadway_1,Borough Hall_0
+653,Broadway_1,Utica Av_0
+654,Broadway_1,145 St_0
+655,Broadway_1,W 4 St_0
+656,Broadway_1,Times Sq - 42 St_0
+657,Broadway_1,Pennsylvania Av_0
+658,Broadway_1,Broadway-Lafayette St_0
+659,Broadway_1,Hoyt - Schermerhorn Sts_0
+660,Broadway_1,Rector St_0
+661,Broadway_1,Kings Hwy_0
+662,Broadway_1,Lexington Av/59 St_0
+663,Broadway_1,57 St - 7 Av_0
+664,Broadway_1,Union St_0
+665,Broadway_1,47-50 Sts - Rockefeller Ctr_0
+666,Broadway_1,Sutter Av - Rutland Rd_0
+667,Broadway_1,Woodside - 61 St_0
+668,Broadway_1,7 Av_0
+669,Broadway_1,Queens Plaza_0
+670,Broadway_1,Woodhaven Blvd_1
+671,Broadway_1,59 St_1
+672,Broadway_1,9 St_0
+673,Broadway_1,Chambers St_0
+674,Broadway_1,Chambers St_1
+675,Broadway_1,Nevins St_0
+676,Broadway_1,42 St - Bryant Pk_0
+677,Broadway_1,New Lots Av_0
+678,Broadway_1,6 Av_0
+679,Broadway_1,14 St_2
+680,Broadway_1,14 St_0
+681,Broadway_1,14 St_1
+682,Broadway_1,Jay St - MetroTech_0
+683,Broadway_1,Park Pl_0
+684,Broadway_1,72 St_0
+685,Broadway_1,75 St_0
+686,Broadway_1,Rockaway Av_0
+687,Broadway_1,135 St_1
+688,Broadway_1,Church Av_1
+689,Broadway_1,Brooklyn Bridge - City Hall_0
+690,Broadway_1,Junius St_0
+691,Broadway_1,Saratoga Av_0
+692,Broadway_1,168 St_0
+693,125 St_2,125 St_3
+694,125 St_2,Prospect Av_1
+695,125 St_2,Van Siclen Av_0
+696,125 St_2,Crown Hts - Utica Av_0
+697,125 St_2,DeKalb Av_0
+698,125 St_2,34 St - Penn Station_0
+699,125 St_2,96 St_0
+700,125 St_2,Fulton St_1
+701,125 St_2,Borough Hall_0
+702,125 St_2,Utica Av_0
+703,125 St_2,145 St_0
+704,125 St_2,W 4 St_0
+705,125 St_2,Times Sq - 42 St_0
+706,125 St_2,Pennsylvania Av_0
+707,125 St_2,Broadway-Lafayette St_0
+708,125 St_2,Hoyt - Schermerhorn Sts_0
+709,125 St_2,Rector St_0
+710,125 St_2,Kings Hwy_0
+711,125 St_2,Lexington Av/59 St_0
+712,125 St_2,57 St - 7 Av_0
+713,125 St_2,Union St_0
+714,125 St_2,47-50 Sts - Rockefeller Ctr_0
+715,125 St_2,Sutter Av - Rutland Rd_0
+716,125 St_2,Woodside - 61 St_0
+717,125 St_2,7 Av_0
+718,125 St_2,Queens Plaza_0
+719,125 St_2,Woodhaven Blvd_1
+720,125 St_2,59 St_1
+721,125 St_2,9 St_0
+722,125 St_2,Chambers St_0
+723,125 St_2,Chambers St_1
+724,125 St_2,Nevins St_0
+725,125 St_2,42 St - Bryant Pk_0
+726,125 St_2,New Lots Av_0
+727,125 St_2,6 Av_0
+728,125 St_2,14 St_2
+729,125 St_2,14 St_0
+730,125 St_2,14 St_1
+731,125 St_2,Jay St - MetroTech_0
+732,125 St_2,Park Pl_0
+733,125 St_2,72 St_0
+734,125 St_2,75 St_0
+735,125 St_2,Rockaway Av_0
+736,125 St_2,135 St_1
+737,125 St_2,Church Av_1
+738,125 St_2,Brooklyn Bridge - City Hall_0
+739,125 St_2,Junius St_0
+740,125 St_2,Saratoga Av_0
+741,125 St_2,168 St_0
+742,125 St_3,Sterling St_0
+743,125 St_3,88 St_0
+744,125 St_3,86 St_4
+745,125 St_3,Prospect Av_1
+746,125 St_3,Van Siclen Av_0
+747,125 St_3,161 St - Yankee Stadium_0
+748,125 St_3,President St_0
+749,125 St_3,Crown Hts - Utica Av_0
+750,125 St_3,DeKalb Av_0
+751,125 St_3,3 Av - 149 St_0
+752,125 St_3,Rockaway Blvd_0
+753,125 St_3,34 St - Penn Station_1
+754,125 St_3,34 St - Penn Station_0
+755,125 St_3,96 St_0
+756,125 St_3,Fulton St_1
+757,125 St_3,Borough Hall_0
+758,125 St_3,Utica Av_0
+759,125 St_3,36 Av_0
+760,125 St_3,145 St_0
+761,125 St_3,W 4 St_0
+762,125 St_3,Times Sq - 42 St_0
+763,125 St_3,86 St_1
+764,125 St_3,Pennsylvania Av_0
+765,125 St_3,Broadway-Lafayette St_0
+766,125 St_3,Hoyt - Schermerhorn Sts_0
+767,125 St_3,Prospect Park_0
+768,125 St_3,Rector St_0
+769,125 St_3,Kings Hwy_0
+770,125 St_3,Queensboro Plaza_0
+771,125 St_3,Lexington Av/59 St_0
+772,125 St_3,80 St_0
+773,125 St_3,57 St - 7 Av_0
+774,125 St_3,Union St_0
+775,125 St_3,181 St_0
+776,125 St_3,Junction Blvd_0
+777,125 St_3,Hunts Point Av_0
+778,125 St_3,47-50 Sts - Rockefeller Ctr_0
+779,125 St_3,Sutter Av - Rutland Rd_0
+780,125 St_3,5 Av/53 St_0
+781,125 St_3,Forest Hills - 71 Av_0
+782,125 St_3,Woodside - 61 St_0
+783,125 St_3,Grand Central - 42 St_1
+784,125 St_3,Grand Central - 42 St_0
+785,125 St_3,7 Av_0
+786,125 St_3,Queens Plaza_0
+787,125 St_3,Woodhaven Blvd_1
+788,125 St_3,59 St_1
+789,125 St_3,9 St_0
+790,125 St_3,Chambers St_0
+791,125 St_3,Chambers St_1
+792,125 St_3,149 St - Grand Concourse_0
+793,125 St_3,Nevins St_0
+794,125 St_3,14 St - Union Sq_0
+795,125 St_3,59 St_0
+796,125 St_3,Parsons Blvd_0
+797,125 St_3,42 St - Bryant Pk_0
+798,125 St_3,E 180 St_0
+799,125 St_3,Franklin Av_1
+800,125 St_3,3 Av - 138 St_0
+801,125 St_3,New Lots Av_0
+802,125 St_3,6 Av_0
+803,125 St_3,168 St - Washington Hts_0
+804,125 St_3,14 St_2
+805,125 St_3,14 St_0
+806,125 St_3,14 St_1
+807,125 St_3,Jay St - MetroTech_0
+808,125 St_3,Park Pl_0
+809,125 St_3,Jamaica - 179 St_0
+810,125 St_3,72 St_0
+811,125 St_3,75 St_0
+812,125 St_3,Lexington Av/63 St_0
+813,125 St_3,Rockaway Av_0
+814,125 St_3,135 St_1
+815,125 St_3,167 St_0
+816,125 St_3,Church Av_0
+817,125 St_3,Church Av_1
+818,125 St_3,Brooklyn Bridge - City Hall_0
+819,125 St_3,Winthrop St_0
+820,125 St_3,Junius St_0
+821,125 St_3,Saratoga Av_0
+822,125 St_3,168 St_0
+823,125 St_3,59 St - Columbus Circle_0
+824,125 St_3,Euclid Av_0
+825,125 St_3,39 Av_0
+826,125 St_3,Mets - Willets Point_0
+827,Sterling St_0,Prospect Av_1
+828,Sterling St_0,Van Siclen Av_0
+829,Sterling St_0,Crown Hts - Utica Av_0
+830,Sterling St_0,DeKalb Av_0
+831,Sterling St_0,34 St - Penn Station_0
+832,Sterling St_0,96 St_0
+833,Sterling St_0,Fulton St_1
+834,Sterling St_0,Borough Hall_0
+835,Sterling St_0,Utica Av_0
+836,Sterling St_0,145 St_0
+837,Sterling St_0,W 4 St_0
+838,Sterling St_0,Times Sq - 42 St_0
+839,Sterling St_0,Pennsylvania Av_0
+840,Sterling St_0,Broadway-Lafayette St_0
+841,Sterling St_0,Hoyt - Schermerhorn Sts_0
+842,Sterling St_0,Rector St_0
+843,Sterling St_0,Kings Hwy_0
+844,Sterling St_0,Lexington Av/59 St_0
+845,Sterling St_0,57 St - 7 Av_0
+846,Sterling St_0,Union St_0
+847,Sterling St_0,47-50 Sts - Rockefeller Ctr_0
+848,Sterling St_0,Sutter Av - Rutland Rd_0
+849,Sterling St_0,Woodside - 61 St_0
+850,Sterling St_0,7 Av_0
+851,Sterling St_0,Queens Plaza_0
+852,Sterling St_0,Woodhaven Blvd_1
+853,Sterling St_0,59 St_1
+854,Sterling St_0,9 St_0
+855,Sterling St_0,Chambers St_0
+856,Sterling St_0,Chambers St_1
+857,Sterling St_0,Nevins St_0
+858,Sterling St_0,42 St - Bryant Pk_0
+859,Sterling St_0,New Lots Av_0
+860,Sterling St_0,6 Av_0
+861,Sterling St_0,14 St_2
+862,Sterling St_0,14 St_0
+863,Sterling St_0,14 St_1
+864,Sterling St_0,Jay St - MetroTech_0
+865,Sterling St_0,Park Pl_0
+866,Sterling St_0,72 St_0
+867,Sterling St_0,75 St_0
+868,Sterling St_0,Rockaway Av_0
+869,Sterling St_0,135 St_1
+870,Sterling St_0,Church Av_1
+871,Sterling St_0,Brooklyn Bridge - City Hall_0
+872,Sterling St_0,Junius St_0
+873,Sterling St_0,Saratoga Av_0
+874,Sterling St_0,168 St_0
+875,88 St_0,Prospect Av_1
+876,88 St_0,Van Siclen Av_0
+877,88 St_0,Crown Hts - Utica Av_0
+878,88 St_0,DeKalb Av_0
+879,88 St_0,34 St - Penn Station_0
+880,88 St_0,96 St_0
+881,88 St_0,Fulton St_1
+882,88 St_0,Borough Hall_0
+883,88 St_0,Utica Av_0
+884,88 St_0,145 St_0
+885,88 St_0,W 4 St_0
+886,88 St_0,Times Sq - 42 St_0
+887,88 St_0,Pennsylvania Av_0
+888,88 St_0,Broadway-Lafayette St_0
+889,88 St_0,Hoyt - Schermerhorn Sts_0
+890,88 St_0,Rector St_0
+891,88 St_0,Kings Hwy_0
+892,88 St_0,Lexington Av/59 St_0
+893,88 St_0,57 St - 7 Av_0
+894,88 St_0,Union St_0
+895,88 St_0,47-50 Sts - Rockefeller Ctr_0
+896,88 St_0,Sutter Av - Rutland Rd_0
+897,88 St_0,Woodside - 61 St_0
+898,88 St_0,7 Av_0
+899,88 St_0,Queens Plaza_0
+900,88 St_0,Woodhaven Blvd_1
+901,88 St_0,59 St_1
+902,88 St_0,9 St_0
+903,88 St_0,Chambers St_0
+904,88 St_0,Chambers St_1
+905,88 St_0,Nevins St_0
+906,88 St_0,42 St - Bryant Pk_0
+907,88 St_0,New Lots Av_0
+908,88 St_0,6 Av_0
+909,88 St_0,14 St_2
+910,88 St_0,14 St_0
+911,88 St_0,14 St_1
+912,88 St_0,Jay St - MetroTech_0
+913,88 St_0,Park Pl_0
+914,88 St_0,72 St_0
+915,88 St_0,75 St_0
+916,88 St_0,Rockaway Av_0
+917,88 St_0,135 St_1
+918,88 St_0,Church Av_1
+919,88 St_0,Brooklyn Bridge - City Hall_0
+920,88 St_0,Junius St_0
+921,88 St_0,Saratoga Av_0
+922,88 St_0,168 St_0
+923,86 St_4,Prospect Av_1
+924,86 St_4,Van Siclen Av_0
+925,86 St_4,Crown Hts - Utica Av_0
+926,86 St_4,DeKalb Av_0
+927,86 St_4,34 St - Penn Station_0
+928,86 St_4,96 St_0
+929,86 St_4,Fulton St_1

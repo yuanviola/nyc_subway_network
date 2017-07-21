@@ -1,0 +1,931 @@
+,0,1
+0,36 Av_0,W 4 St_0
+1,36 Av_0,Times Sq - 42 St_0
+2,36 Av_0,Pennsylvania Av_0
+3,36 Av_0,Broadway-Lafayette St_0
+4,36 Av_0,Hoyt - Schermerhorn Sts_0
+5,36 Av_0,Rector St_0
+6,36 Av_0,Kings Hwy_0
+7,36 Av_0,Lexington Av/59 St_0
+8,36 Av_0,57 St - 7 Av_0
+9,36 Av_0,Union St_0
+10,36 Av_0,47-50 Sts - Rockefeller Ctr_0
+11,36 Av_0,Sutter Av - Rutland Rd_0
+12,36 Av_0,Woodside - 61 St_0
+13,36 Av_0,7 Av_0
+14,36 Av_0,Queens Plaza_0
+15,36 Av_0,Woodhaven Blvd_1
+16,36 Av_0,59 St_1
+17,36 Av_0,9 St_0
+18,36 Av_0,Chambers St_0
+19,36 Av_0,Chambers St_1
+20,36 Av_0,Nevins St_0
+21,36 Av_0,42 St - Bryant Pk_0
+22,36 Av_0,New Lots Av_0
+23,36 Av_0,6 Av_0
+24,36 Av_0,14 St_2
+25,36 Av_0,14 St_0
+26,36 Av_0,14 St_1
+27,36 Av_0,Jay St - MetroTech_0
+28,36 Av_0,Park Pl_0
+29,36 Av_0,72 St_0
+30,36 Av_0,75 St_0
+31,36 Av_0,Rockaway Av_0
+32,36 Av_0,135 St_1
+33,36 Av_0,Church Av_1
+34,36 Av_0,Brooklyn Bridge - City Hall_0
+35,36 Av_0,Junius St_0
+36,36 Av_0,Saratoga Av_0
+37,36 Av_0,168 St_0
+38,145 St_0,W 4 St_0
+39,145 St_0,Times Sq - 42 St_0
+40,145 St_0,86 St_1
+41,145 St_0,Pennsylvania Av_0
+42,145 St_0,Broadway-Lafayette St_0
+43,145 St_0,Hoyt - Schermerhorn Sts_0
+44,145 St_0,Prospect Park_0
+45,145 St_0,Rector St_0
+46,145 St_0,Kings Hwy_0
+47,145 St_0,Queensboro Plaza_0
+48,145 St_0,Lexington Av/59 St_0
+49,145 St_0,80 St_0
+50,145 St_0,57 St - 7 Av_0
+51,145 St_0,Union St_0
+52,145 St_0,181 St_0
+53,145 St_0,Junction Blvd_0
+54,145 St_0,Hunts Point Av_0
+55,145 St_0,47-50 Sts - Rockefeller Ctr_0
+56,145 St_0,Sutter Av - Rutland Rd_0
+57,145 St_0,5 Av/53 St_0
+58,145 St_0,Forest Hills - 71 Av_0
+59,145 St_0,Woodside - 61 St_0
+60,145 St_0,Grand Central - 42 St_1
+61,145 St_0,Grand Central - 42 St_0
+62,145 St_0,7 Av_0
+63,145 St_0,Queens Plaza_0
+64,145 St_0,Woodhaven Blvd_1
+65,145 St_0,59 St_1
+66,145 St_0,9 St_0
+67,145 St_0,Chambers St_0
+68,145 St_0,Chambers St_1
+69,145 St_0,149 St - Grand Concourse_0
+70,145 St_0,Nevins St_0
+71,145 St_0,14 St - Union Sq_0
+72,145 St_0,59 St_0
+73,145 St_0,Parsons Blvd_0
+74,145 St_0,42 St - Bryant Pk_0
+75,145 St_0,E 180 St_0
+76,145 St_0,Franklin Av_1
+77,145 St_0,3 Av - 138 St_0
+78,145 St_0,New Lots Av_0
+79,145 St_0,6 Av_0
+80,145 St_0,168 St - Washington Hts_0
+81,145 St_0,14 St_2
+82,145 St_0,14 St_0
+83,145 St_0,14 St_1
+84,145 St_0,Jay St - MetroTech_0
+85,145 St_0,Park Pl_0
+86,145 St_0,Jamaica - 179 St_0
+87,145 St_0,72 St_0
+88,145 St_0,75 St_0
+89,145 St_0,Lexington Av/63 St_0
+90,145 St_0,Rockaway Av_0
+91,145 St_0,135 St_1
+92,145 St_0,167 St_0
+93,145 St_0,Church Av_0
+94,145 St_0,Church Av_1
+95,145 St_0,Brooklyn Bridge - City Hall_0
+96,145 St_0,Winthrop St_0
+97,145 St_0,Junius St_0
+98,145 St_0,Saratoga Av_0
+99,145 St_0,168 St_0
+100,145 St_0,59 St - Columbus Circle_0
+101,145 St_0,Euclid Av_0
+102,145 St_0,39 Av_0
+103,145 St_0,Mets - Willets Point_0
+104,W 4 St_0,Times Sq - 42 St_0
+105,W 4 St_0,86 St_1
+106,W 4 St_0,Pennsylvania Av_0
+107,W 4 St_0,Broadway-Lafayette St_0
+108,W 4 St_0,Hoyt - Schermerhorn Sts_0
+109,W 4 St_0,Prospect Park_0
+110,W 4 St_0,Rector St_0
+111,W 4 St_0,Kings Hwy_0
+112,W 4 St_0,Queensboro Plaza_0
+113,W 4 St_0,Lexington Av/59 St_0
+114,W 4 St_0,80 St_0
+115,W 4 St_0,57 St - 7 Av_0
+116,W 4 St_0,Union St_0
+117,W 4 St_0,181 St_0
+118,W 4 St_0,Junction Blvd_0
+119,W 4 St_0,Hunts Point Av_0
+120,W 4 St_0,47-50 Sts - Rockefeller Ctr_0
+121,W 4 St_0,Sutter Av - Rutland Rd_0
+122,W 4 St_0,5 Av/53 St_0
+123,W 4 St_0,Forest Hills - 71 Av_0
+124,W 4 St_0,Woodside - 61 St_0
+125,W 4 St_0,Grand Central - 42 St_1
+126,W 4 St_0,Grand Central - 42 St_0
+127,W 4 St_0,7 Av_0
+128,W 4 St_0,Queens Plaza_0
+129,W 4 St_0,Woodhaven Blvd_1
+130,W 4 St_0,59 St_1
+131,W 4 St_0,9 St_0
+132,W 4 St_0,Chambers St_0
+133,W 4 St_0,Chambers St_1
+134,W 4 St_0,149 St - Grand Concourse_0
+135,W 4 St_0,Nevins St_0
+136,W 4 St_0,14 St - Union Sq_0
+137,W 4 St_0,59 St_0
+138,W 4 St_0,Parsons Blvd_0
+139,W 4 St_0,42 St - Bryant Pk_0
+140,W 4 St_0,E 180 St_0
+141,W 4 St_0,Franklin Av_1
+142,W 4 St_0,3 Av - 138 St_0
+143,W 4 St_0,New Lots Av_0
+144,W 4 St_0,6 Av_0
+145,W 4 St_0,168 St - Washington Hts_0
+146,W 4 St_0,14 St_2
+147,W 4 St_0,14 St_0
+148,W 4 St_0,14 St_1
+149,W 4 St_0,Jay St - MetroTech_0
+150,W 4 St_0,Park Pl_0
+151,W 4 St_0,Jamaica - 179 St_0
+152,W 4 St_0,72 St_0
+153,W 4 St_0,75 St_0
+154,W 4 St_0,Lexington Av/63 St_0
+155,W 4 St_0,Rockaway Av_0
+156,W 4 St_0,135 St_1
+157,W 4 St_0,167 St_0
+158,W 4 St_0,Church Av_0
+159,W 4 St_0,Church Av_1
+160,W 4 St_0,Brooklyn Bridge - City Hall_0
+161,W 4 St_0,Winthrop St_0
+162,W 4 St_0,Junius St_0
+163,W 4 St_0,Saratoga Av_0
+164,W 4 St_0,168 St_0
+165,W 4 St_0,59 St - Columbus Circle_0
+166,W 4 St_0,Euclid Av_0
+167,W 4 St_0,39 Av_0
+168,W 4 St_0,Mets - Willets Point_0
+169,Times Sq - 42 St_0,86 St_1
+170,Times Sq - 42 St_0,Pennsylvania Av_0
+171,Times Sq - 42 St_0,Broadway-Lafayette St_0
+172,Times Sq - 42 St_0,Hoyt - Schermerhorn Sts_0
+173,Times Sq - 42 St_0,Prospect Park_0
+174,Times Sq - 42 St_0,Rector St_0
+175,Times Sq - 42 St_0,Kings Hwy_0
+176,Times Sq - 42 St_0,Queensboro Plaza_0
+177,Times Sq - 42 St_0,Lexington Av/59 St_0
+178,Times Sq - 42 St_0,80 St_0
+179,Times Sq - 42 St_0,57 St - 7 Av_0
+180,Times Sq - 42 St_0,Union St_0
+181,Times Sq - 42 St_0,181 St_0
+182,Times Sq - 42 St_0,Junction Blvd_0
+183,Times Sq - 42 St_0,Hunts Point Av_0
+184,Times Sq - 42 St_0,47-50 Sts - Rockefeller Ctr_0
+185,Times Sq - 42 St_0,Sutter Av - Rutland Rd_0
+186,Times Sq - 42 St_0,5 Av/53 St_0
+187,Times Sq - 42 St_0,Forest Hills - 71 Av_0
+188,Times Sq - 42 St_0,Woodside - 61 St_0
+189,Times Sq - 42 St_0,Grand Central - 42 St_1
+190,Times Sq - 42 St_0,Grand Central - 42 St_0
+191,Times Sq - 42 St_0,7 Av_0
+192,Times Sq - 42 St_0,Queens Plaza_0
+193,Times Sq - 42 St_0,Woodhaven Blvd_1
+194,Times Sq - 42 St_0,59 St_1
+195,Times Sq - 42 St_0,9 St_0
+196,Times Sq - 42 St_0,Chambers St_0
+197,Times Sq - 42 St_0,Chambers St_1
+198,Times Sq - 42 St_0,149 St - Grand Concourse_0
+199,Times Sq - 42 St_0,Nevins St_0
+200,Times Sq - 42 St_0,14 St - Union Sq_0
+201,Times Sq - 42 St_0,59 St_0
+202,Times Sq - 42 St_0,Parsons Blvd_0
+203,Times Sq - 42 St_0,42 St - Bryant Pk_0
+204,Times Sq - 42 St_0,E 180 St_0
+205,Times Sq - 42 St_0,Franklin Av_1
+206,Times Sq - 42 St_0,3 Av - 138 St_0
+207,Times Sq - 42 St_0,New Lots Av_0
+208,Times Sq - 42 St_0,6 Av_0
+209,Times Sq - 42 St_0,168 St - Washington Hts_0
+210,Times Sq - 42 St_0,14 St_2
+211,Times Sq - 42 St_0,14 St_0
+212,Times Sq - 42 St_0,14 St_1
+213,Times Sq - 42 St_0,Jay St - MetroTech_0
+214,Times Sq - 42 St_0,Park Pl_0
+215,Times Sq - 42 St_0,Jamaica - 179 St_0
+216,Times Sq - 42 St_0,72 St_0
+217,Times Sq - 42 St_0,75 St_0
+218,Times Sq - 42 St_0,Lexington Av/63 St_0
+219,Times Sq - 42 St_0,Rockaway Av_0
+220,Times Sq - 42 St_0,135 St_1
+221,Times Sq - 42 St_0,167 St_0
+222,Times Sq - 42 St_0,Church Av_0
+223,Times Sq - 42 St_0,Church Av_1
+224,Times Sq - 42 St_0,Brooklyn Bridge - City Hall_0
+225,Times Sq - 42 St_0,Winthrop St_0
+226,Times Sq - 42 St_0,Junius St_0
+227,Times Sq - 42 St_0,Saratoga Av_0
+228,Times Sq - 42 St_0,168 St_0
+229,Times Sq - 42 St_0,59 St - Columbus Circle_0
+230,Times Sq - 42 St_0,Euclid Av_0
+231,Times Sq - 42 St_0,39 Av_0
+232,Times Sq - 42 St_0,Mets - Willets Point_0
+233,86 St_1,Pennsylvania Av_0
+234,86 St_1,Broadway-Lafayette St_0
+235,86 St_1,Hoyt - Schermerhorn Sts_0
+236,86 St_1,Rector St_0
+237,86 St_1,Kings Hwy_0
+238,86 St_1,Lexington Av/59 St_0
+239,86 St_1,57 St - 7 Av_0
+240,86 St_1,Union St_0
+241,86 St_1,47-50 Sts - Rockefeller Ctr_0
+242,86 St_1,Sutter Av - Rutland Rd_0
+243,86 St_1,Woodside - 61 St_0
+244,86 St_1,7 Av_0
+245,86 St_1,Queens Plaza_0
+246,86 St_1,Woodhaven Blvd_1
+247,86 St_1,59 St_1
+248,86 St_1,9 St_0
+249,86 St_1,Chambers St_0
+250,86 St_1,Chambers St_1
+251,86 St_1,Nevins St_0
+252,86 St_1,42 St - Bryant Pk_0
+253,86 St_1,New Lots Av_0
+254,86 St_1,6 Av_0
+255,86 St_1,14 St_2
+256,86 St_1,14 St_0
+257,86 St_1,14 St_1
+258,86 St_1,Jay St - MetroTech_0
+259,86 St_1,Park Pl_0
+260,86 St_1,72 St_0
+261,86 St_1,75 St_0
+262,86 St_1,Rockaway Av_0
+263,86 St_1,135 St_1
+264,86 St_1,Church Av_1
+265,86 St_1,Brooklyn Bridge - City Hall_0
+266,86 St_1,Junius St_0
+267,86 St_1,Saratoga Av_0
+268,86 St_1,168 St_0
+269,Pennsylvania Av_0,Broadway-Lafayette St_0
+270,Pennsylvania Av_0,Hoyt - Schermerhorn Sts_0
+271,Pennsylvania Av_0,Prospect Park_0
+272,Pennsylvania Av_0,Rector St_0
+273,Pennsylvania Av_0,Kings Hwy_0
+274,Pennsylvania Av_0,Queensboro Plaza_0
+275,Pennsylvania Av_0,Lexington Av/59 St_0
+276,Pennsylvania Av_0,80 St_0
+277,Pennsylvania Av_0,57 St - 7 Av_0
+278,Pennsylvania Av_0,Union St_0
+279,Pennsylvania Av_0,181 St_0
+280,Pennsylvania Av_0,Junction Blvd_0
+281,Pennsylvania Av_0,Hunts Point Av_0
+282,Pennsylvania Av_0,47-50 Sts - Rockefeller Ctr_0
+283,Pennsylvania Av_0,Sutter Av - Rutland Rd_0
+284,Pennsylvania Av_0,5 Av/53 St_0
+285,Pennsylvania Av_0,Forest Hills - 71 Av_0
+286,Pennsylvania Av_0,Woodside - 61 St_0
+287,Pennsylvania Av_0,Grand Central - 42 St_1
+288,Pennsylvania Av_0,Grand Central - 42 St_0
+289,Pennsylvania Av_0,7 Av_0
+290,Pennsylvania Av_0,Queens Plaza_0
+291,Pennsylvania Av_0,Woodhaven Blvd_1
+292,Pennsylvania Av_0,59 St_1
+293,Pennsylvania Av_0,9 St_0
+294,Pennsylvania Av_0,Chambers St_0
+295,Pennsylvania Av_0,Chambers St_1
+296,Pennsylvania Av_0,149 St - Grand Concourse_0
+297,Pennsylvania Av_0,Nevins St_0
+298,Pennsylvania Av_0,14 St - Union Sq_0
+299,Pennsylvania Av_0,59 St_0
+300,Pennsylvania Av_0,Parsons Blvd_0
+301,Pennsylvania Av_0,42 St - Bryant Pk_0
+302,Pennsylvania Av_0,E 180 St_0
+303,Pennsylvania Av_0,Franklin Av_1
+304,Pennsylvania Av_0,3 Av - 138 St_0
+305,Pennsylvania Av_0,New Lots Av_0
+306,Pennsylvania Av_0,6 Av_0
+307,Pennsylvania Av_0,168 St - Washington Hts_0
+308,Pennsylvania Av_0,14 St_2
+309,Pennsylvania Av_0,14 St_0
+310,Pennsylvania Av_0,14 St_1
+311,Pennsylvania Av_0,Jay St - MetroTech_0
+312,Pennsylvania Av_0,Park Pl_0
+313,Pennsylvania Av_0,Jamaica - 179 St_0
+314,Pennsylvania Av_0,72 St_0
+315,Pennsylvania Av_0,75 St_0
+316,Pennsylvania Av_0,Lexington Av/63 St_0
+317,Pennsylvania Av_0,Rockaway Av_0
+318,Pennsylvania Av_0,135 St_1
+319,Pennsylvania Av_0,167 St_0
+320,Pennsylvania Av_0,Church Av_0
+321,Pennsylvania Av_0,Church Av_1
+322,Pennsylvania Av_0,Brooklyn Bridge - City Hall_0
+323,Pennsylvania Av_0,Winthrop St_0
+324,Pennsylvania Av_0,Junius St_0
+325,Pennsylvania Av_0,Saratoga Av_0
+326,Pennsylvania Av_0,168 St_0
+327,Pennsylvania Av_0,59 St - Columbus Circle_0
+328,Pennsylvania Av_0,Euclid Av_0
+329,Pennsylvania Av_0,39 Av_0
+330,Pennsylvania Av_0,Mets - Willets Point_0
+331,Broadway-Lafayette St_0,Hoyt - Schermerhorn Sts_0
+332,Broadway-Lafayette St_0,Prospect Park_0
+333,Broadway-Lafayette St_0,Rector St_0
+334,Broadway-Lafayette St_0,Kings Hwy_0
+335,Broadway-Lafayette St_0,Queensboro Plaza_0
+336,Broadway-Lafayette St_0,Lexington Av/59 St_0
+337,Broadway-Lafayette St_0,80 St_0
+338,Broadway-Lafayette St_0,57 St - 7 Av_0
+339,Broadway-Lafayette St_0,Union St_0
+340,Broadway-Lafayette St_0,181 St_0
+341,Broadway-Lafayette St_0,Junction Blvd_0
+342,Broadway-Lafayette St_0,Hunts Point Av_0
+343,Broadway-Lafayette St_0,47-50 Sts - Rockefeller Ctr_0
+344,Broadway-Lafayette St_0,Sutter Av - Rutland Rd_0
+345,Broadway-Lafayette St_0,5 Av/53 St_0
+346,Broadway-Lafayette St_0,Forest Hills - 71 Av_0
+347,Broadway-Lafayette St_0,Woodside - 61 St_0
+348,Broadway-Lafayette St_0,Grand Central - 42 St_1
+349,Broadway-Lafayette St_0,Grand Central - 42 St_0
+350,Broadway-Lafayette St_0,7 Av_0
+351,Broadway-Lafayette St_0,Queens Plaza_0
+352,Broadway-Lafayette St_0,Woodhaven Blvd_1
+353,Broadway-Lafayette St_0,59 St_1
+354,Broadway-Lafayette St_0,9 St_0
+355,Broadway-Lafayette St_0,Chambers St_0
+356,Broadway-Lafayette St_0,Chambers St_1
+357,Broadway-Lafayette St_0,149 St - Grand Concourse_0
+358,Broadway-Lafayette St_0,Nevins St_0
+359,Broadway-Lafayette St_0,14 St - Union Sq_0
+360,Broadway-Lafayette St_0,59 St_0
+361,Broadway-Lafayette St_0,Parsons Blvd_0
+362,Broadway-Lafayette St_0,42 St - Bryant Pk_0
+363,Broadway-Lafayette St_0,E 180 St_0
+364,Broadway-Lafayette St_0,Franklin Av_1
+365,Broadway-Lafayette St_0,3 Av - 138 St_0
+366,Broadway-Lafayette St_0,New Lots Av_0
+367,Broadway-Lafayette St_0,6 Av_0
+368,Broadway-Lafayette St_0,168 St - Washington Hts_0
+369,Broadway-Lafayette St_0,14 St_2
+370,Broadway-Lafayette St_0,14 St_0
+371,Broadway-Lafayette St_0,14 St_1
+372,Broadway-Lafayette St_0,Jay St - MetroTech_0
+373,Broadway-Lafayette St_0,Park Pl_0
+374,Broadway-Lafayette St_0,Jamaica - 179 St_0
+375,Broadway-Lafayette St_0,72 St_0
+376,Broadway-Lafayette St_0,75 St_0
+377,Broadway-Lafayette St_0,Lexington Av/63 St_0
+378,Broadway-Lafayette St_0,Rockaway Av_0
+379,Broadway-Lafayette St_0,135 St_1
+380,Broadway-Lafayette St_0,167 St_0
+381,Broadway-Lafayette St_0,Church Av_0
+382,Broadway-Lafayette St_0,Church Av_1
+383,Broadway-Lafayette St_0,Brooklyn Bridge - City Hall_0
+384,Broadway-Lafayette St_0,Winthrop St_0
+385,Broadway-Lafayette St_0,Junius St_0
+386,Broadway-Lafayette St_0,Saratoga Av_0
+387,Broadway-Lafayette St_0,168 St_0
+388,Broadway-Lafayette St_0,59 St - Columbus Circle_0
+389,Broadway-Lafayette St_0,Euclid Av_0
+390,Broadway-Lafayette St_0,39 Av_0
+391,Broadway-Lafayette St_0,Mets - Willets Point_0
+392,Hoyt - Schermerhorn Sts_0,Prospect Park_0
+393,Hoyt - Schermerhorn Sts_0,Rector St_0
+394,Hoyt - Schermerhorn Sts_0,Kings Hwy_0
+395,Hoyt - Schermerhorn Sts_0,Queensboro Plaza_0
+396,Hoyt - Schermerhorn Sts_0,Lexington Av/59 St_0
+397,Hoyt - Schermerhorn Sts_0,80 St_0
+398,Hoyt - Schermerhorn Sts_0,57 St - 7 Av_0
+399,Hoyt - Schermerhorn Sts_0,Union St_0
+400,Hoyt - Schermerhorn Sts_0,181 St_0
+401,Hoyt - Schermerhorn Sts_0,Junction Blvd_0
+402,Hoyt - Schermerhorn Sts_0,Hunts Point Av_0
+403,Hoyt - Schermerhorn Sts_0,47-50 Sts - Rockefeller Ctr_0
+404,Hoyt - Schermerhorn Sts_0,Sutter Av - Rutland Rd_0
+405,Hoyt - Schermerhorn Sts_0,5 Av/53 St_0
+406,Hoyt - Schermerhorn Sts_0,Forest Hills - 71 Av_0
+407,Hoyt - Schermerhorn Sts_0,Woodside - 61 St_0
+408,Hoyt - Schermerhorn Sts_0,Grand Central - 42 St_1
+409,Hoyt - Schermerhorn Sts_0,Grand Central - 42 St_0
+410,Hoyt - Schermerhorn Sts_0,7 Av_0
+411,Hoyt - Schermerhorn Sts_0,Queens Plaza_0
+412,Hoyt - Schermerhorn Sts_0,Woodhaven Blvd_1
+413,Hoyt - Schermerhorn Sts_0,59 St_1
+414,Hoyt - Schermerhorn Sts_0,9 St_0
+415,Hoyt - Schermerhorn Sts_0,Chambers St_0
+416,Hoyt - Schermerhorn Sts_0,Chambers St_1
+417,Hoyt - Schermerhorn Sts_0,149 St - Grand Concourse_0
+418,Hoyt - Schermerhorn Sts_0,Nevins St_0
+419,Hoyt - Schermerhorn Sts_0,14 St - Union Sq_0
+420,Hoyt - Schermerhorn Sts_0,59 St_0
+421,Hoyt - Schermerhorn Sts_0,Parsons Blvd_0
+422,Hoyt - Schermerhorn Sts_0,42 St - Bryant Pk_0
+423,Hoyt - Schermerhorn Sts_0,E 180 St_0
+424,Hoyt - Schermerhorn Sts_0,Franklin Av_1
+425,Hoyt - Schermerhorn Sts_0,3 Av - 138 St_0
+426,Hoyt - Schermerhorn Sts_0,New Lots Av_0
+427,Hoyt - Schermerhorn Sts_0,6 Av_0
+428,Hoyt - Schermerhorn Sts_0,168 St - Washington Hts_0
+429,Hoyt - Schermerhorn Sts_0,14 St_2
+430,Hoyt - Schermerhorn Sts_0,14 St_0
+431,Hoyt - Schermerhorn Sts_0,14 St_1
+432,Hoyt - Schermerhorn Sts_0,Jay St - MetroTech_0
+433,Hoyt - Schermerhorn Sts_0,Park Pl_0
+434,Hoyt - Schermerhorn Sts_0,Jamaica - 179 St_0
+435,Hoyt - Schermerhorn Sts_0,72 St_0
+436,Hoyt - Schermerhorn Sts_0,75 St_0
+437,Hoyt - Schermerhorn Sts_0,Lexington Av/63 St_0
+438,Hoyt - Schermerhorn Sts_0,Rockaway Av_0
+439,Hoyt - Schermerhorn Sts_0,135 St_1
+440,Hoyt - Schermerhorn Sts_0,167 St_0
+441,Hoyt - Schermerhorn Sts_0,Church Av_0
+442,Hoyt - Schermerhorn Sts_0,Church Av_1
+443,Hoyt - Schermerhorn Sts_0,Brooklyn Bridge - City Hall_0
+444,Hoyt - Schermerhorn Sts_0,Winthrop St_0
+445,Hoyt - Schermerhorn Sts_0,Junius St_0
+446,Hoyt - Schermerhorn Sts_0,Saratoga Av_0
+447,Hoyt - Schermerhorn Sts_0,168 St_0
+448,Hoyt - Schermerhorn Sts_0,59 St - Columbus Circle_0
+449,Hoyt - Schermerhorn Sts_0,Euclid Av_0
+450,Hoyt - Schermerhorn Sts_0,39 Av_0
+451,Hoyt - Schermerhorn Sts_0,Mets - Willets Point_0
+452,Prospect Park_0,Rector St_0
+453,Prospect Park_0,Kings Hwy_0
+454,Prospect Park_0,Lexington Av/59 St_0
+455,Prospect Park_0,57 St - 7 Av_0
+456,Prospect Park_0,Union St_0
+457,Prospect Park_0,47-50 Sts - Rockefeller Ctr_0
+458,Prospect Park_0,Sutter Av - Rutland Rd_0
+459,Prospect Park_0,Woodside - 61 St_0
+460,Prospect Park_0,7 Av_0
+461,Prospect Park_0,Queens Plaza_0
+462,Prospect Park_0,Woodhaven Blvd_1
+463,Prospect Park_0,59 St_1
+464,Prospect Park_0,9 St_0
+465,Prospect Park_0,Chambers St_0
+466,Prospect Park_0,Chambers St_1
+467,Prospect Park_0,Nevins St_0
+468,Prospect Park_0,42 St - Bryant Pk_0
+469,Prospect Park_0,New Lots Av_0
+470,Prospect Park_0,6 Av_0
+471,Prospect Park_0,14 St_2
+472,Prospect Park_0,14 St_0
+473,Prospect Park_0,14 St_1
+474,Prospect Park_0,Jay St - MetroTech_0
+475,Prospect Park_0,Park Pl_0
+476,Prospect Park_0,72 St_0
+477,Prospect Park_0,75 St_0
+478,Prospect Park_0,Rockaway Av_0
+479,Prospect Park_0,135 St_1
+480,Prospect Park_0,Church Av_1
+481,Prospect Park_0,Brooklyn Bridge - City Hall_0
+482,Prospect Park_0,Junius St_0
+483,Prospect Park_0,Saratoga Av_0
+484,Prospect Park_0,168 St_0
+485,Rector St_0,Kings Hwy_0
+486,Rector St_0,Queensboro Plaza_0
+487,Rector St_0,Lexington Av/59 St_0
+488,Rector St_0,80 St_0
+489,Rector St_0,57 St - 7 Av_0
+490,Rector St_0,Union St_0
+491,Rector St_0,181 St_0
+492,Rector St_0,Junction Blvd_0
+493,Rector St_0,Hunts Point Av_0
+494,Rector St_0,47-50 Sts - Rockefeller Ctr_0
+495,Rector St_0,Sutter Av - Rutland Rd_0
+496,Rector St_0,5 Av/53 St_0
+497,Rector St_0,Forest Hills - 71 Av_0
+498,Rector St_0,Woodside - 61 St_0
+499,Rector St_0,Grand Central - 42 St_1
+500,Rector St_0,Grand Central - 42 St_0
+501,Rector St_0,7 Av_0
+502,Rector St_0,Queens Plaza_0
+503,Rector St_0,Woodhaven Blvd_1
+504,Rector St_0,59 St_1
+505,Rector St_0,9 St_0
+506,Rector St_0,Chambers St_0
+507,Rector St_0,Chambers St_1
+508,Rector St_0,149 St - Grand Concourse_0
+509,Rector St_0,Nevins St_0
+510,Rector St_0,14 St - Union Sq_0
+511,Rector St_0,59 St_0
+512,Rector St_0,Parsons Blvd_0
+513,Rector St_0,42 St - Bryant Pk_0
+514,Rector St_0,E 180 St_0
+515,Rector St_0,Franklin Av_1
+516,Rector St_0,3 Av - 138 St_0
+517,Rector St_0,New Lots Av_0
+518,Rector St_0,6 Av_0
+519,Rector St_0,168 St - Washington Hts_0
+520,Rector St_0,14 St_2
+521,Rector St_0,14 St_0
+522,Rector St_0,14 St_1
+523,Rector St_0,Jay St - MetroTech_0
+524,Rector St_0,Park Pl_0
+525,Rector St_0,Jamaica - 179 St_0
+526,Rector St_0,72 St_0
+527,Rector St_0,75 St_0
+528,Rector St_0,Lexington Av/63 St_0
+529,Rector St_0,Rockaway Av_0
+530,Rector St_0,135 St_1
+531,Rector St_0,167 St_0
+532,Rector St_0,Church Av_0
+533,Rector St_0,Church Av_1
+534,Rector St_0,Brooklyn Bridge - City Hall_0
+535,Rector St_0,Winthrop St_0
+536,Rector St_0,Junius St_0
+537,Rector St_0,Saratoga Av_0
+538,Rector St_0,168 St_0
+539,Rector St_0,59 St - Columbus Circle_0
+540,Rector St_0,Euclid Av_0
+541,Rector St_0,39 Av_0
+542,Rector St_0,Mets - Willets Point_0
+543,Kings Hwy_0,Queensboro Plaza_0
+544,Kings Hwy_0,Lexington Av/59 St_0
+545,Kings Hwy_0,80 St_0
+546,Kings Hwy_0,57 St - 7 Av_0
+547,Kings Hwy_0,Union St_0
+548,Kings Hwy_0,181 St_0
+549,Kings Hwy_0,Junction Blvd_0
+550,Kings Hwy_0,Hunts Point Av_0
+551,Kings Hwy_0,47-50 Sts - Rockefeller Ctr_0
+552,Kings Hwy_0,Sutter Av - Rutland Rd_0
+553,Kings Hwy_0,5 Av/53 St_0
+554,Kings Hwy_0,Forest Hills - 71 Av_0
+555,Kings Hwy_0,Woodside - 61 St_0
+556,Kings Hwy_0,Grand Central - 42 St_1
+557,Kings Hwy_0,Grand Central - 42 St_0
+558,Kings Hwy_0,7 Av_0
+559,Kings Hwy_0,Queens Plaza_0
+560,Kings Hwy_0,Woodhaven Blvd_1
+561,Kings Hwy_0,59 St_1
+562,Kings Hwy_0,9 St_0
+563,Kings Hwy_0,Chambers St_0
+564,Kings Hwy_0,Chambers St_1
+565,Kings Hwy_0,149 St - Grand Concourse_0
+566,Kings Hwy_0,Nevins St_0
+567,Kings Hwy_0,14 St - Union Sq_0
+568,Kings Hwy_0,59 St_0
+569,Kings Hwy_0,Parsons Blvd_0
+570,Kings Hwy_0,42 St - Bryant Pk_0
+571,Kings Hwy_0,E 180 St_0
+572,Kings Hwy_0,Franklin Av_1
+573,Kings Hwy_0,3 Av - 138 St_0
+574,Kings Hwy_0,New Lots Av_0
+575,Kings Hwy_0,6 Av_0
+576,Kings Hwy_0,168 St - Washington Hts_0
+577,Kings Hwy_0,14 St_2
+578,Kings Hwy_0,14 St_0
+579,Kings Hwy_0,14 St_1
+580,Kings Hwy_0,Jay St - MetroTech_0
+581,Kings Hwy_0,Park Pl_0
+582,Kings Hwy_0,Jamaica - 179 St_0
+583,Kings Hwy_0,72 St_0
+584,Kings Hwy_0,75 St_0
+585,Kings Hwy_0,Lexington Av/63 St_0
+586,Kings Hwy_0,Rockaway Av_0
+587,Kings Hwy_0,135 St_1
+588,Kings Hwy_0,167 St_0
+589,Kings Hwy_0,Church Av_0
+590,Kings Hwy_0,Church Av_1
+591,Kings Hwy_0,Brooklyn Bridge - City Hall_0
+592,Kings Hwy_0,Winthrop St_0
+593,Kings Hwy_0,Junius St_0
+594,Kings Hwy_0,Saratoga Av_0
+595,Kings Hwy_0,168 St_0
+596,Kings Hwy_0,59 St - Columbus Circle_0
+597,Kings Hwy_0,Euclid Av_0
+598,Kings Hwy_0,39 Av_0
+599,Kings Hwy_0,Mets - Willets Point_0
+600,Queensboro Plaza_0,Lexington Av/59 St_0
+601,Queensboro Plaza_0,57 St - 7 Av_0
+602,Queensboro Plaza_0,Union St_0
+603,Queensboro Plaza_0,47-50 Sts - Rockefeller Ctr_0
+604,Queensboro Plaza_0,Sutter Av - Rutland Rd_0
+605,Queensboro Plaza_0,Woodside - 61 St_0
+606,Queensboro Plaza_0,7 Av_0
+607,Queensboro Plaza_0,Queens Plaza_0
+608,Queensboro Plaza_0,Woodhaven Blvd_1
+609,Queensboro Plaza_0,59 St_1
+610,Queensboro Plaza_0,9 St_0
+611,Queensboro Plaza_0,Chambers St_0
+612,Queensboro Plaza_0,Chambers St_1
+613,Queensboro Plaza_0,Nevins St_0
+614,Queensboro Plaza_0,42 St - Bryant Pk_0
+615,Queensboro Plaza_0,New Lots Av_0
+616,Queensboro Plaza_0,6 Av_0
+617,Queensboro Plaza_0,14 St_2
+618,Queensboro Plaza_0,14 St_0
+619,Queensboro Plaza_0,14 St_1
+620,Queensboro Plaza_0,Jay St - MetroTech_0
+621,Queensboro Plaza_0,Park Pl_0
+622,Queensboro Plaza_0,72 St_0
+623,Queensboro Plaza_0,75 St_0
+624,Queensboro Plaza_0,Rockaway Av_0
+625,Queensboro Plaza_0,135 St_1
+626,Queensboro Plaza_0,Church Av_1
+627,Queensboro Plaza_0,Brooklyn Bridge - City Hall_0
+628,Queensboro Plaza_0,Junius St_0
+629,Queensboro Plaza_0,Saratoga Av_0
+630,Queensboro Plaza_0,168 St_0
+631,Lexington Av/59 St_0,80 St_0
+632,Lexington Av/59 St_0,57 St - 7 Av_0
+633,Lexington Av/59 St_0,Union St_0
+634,Lexington Av/59 St_0,181 St_0
+635,Lexington Av/59 St_0,Junction Blvd_0
+636,Lexington Av/59 St_0,Hunts Point Av_0
+637,Lexington Av/59 St_0,47-50 Sts - Rockefeller Ctr_0
+638,Lexington Av/59 St_0,Sutter Av - Rutland Rd_0
+639,Lexington Av/59 St_0,5 Av/53 St_0
+640,Lexington Av/59 St_0,Forest Hills - 71 Av_0
+641,Lexington Av/59 St_0,Woodside - 61 St_0
+642,Lexington Av/59 St_0,Grand Central - 42 St_1
+643,Lexington Av/59 St_0,Grand Central - 42 St_0
+644,Lexington Av/59 St_0,7 Av_0
+645,Lexington Av/59 St_0,Queens Plaza_0
+646,Lexington Av/59 St_0,Woodhaven Blvd_1
+647,Lexington Av/59 St_0,59 St_1
+648,Lexington Av/59 St_0,9 St_0
+649,Lexington Av/59 St_0,Chambers St_0
+650,Lexington Av/59 St_0,Chambers St_1
+651,Lexington Av/59 St_0,149 St - Grand Concourse_0
+652,Lexington Av/59 St_0,Nevins St_0
+653,Lexington Av/59 St_0,14 St - Union Sq_0
+654,Lexington Av/59 St_0,59 St_0
+655,Lexington Av/59 St_0,Parsons Blvd_0
+656,Lexington Av/59 St_0,42 St - Bryant Pk_0
+657,Lexington Av/59 St_0,E 180 St_0
+658,Lexington Av/59 St_0,Franklin Av_1
+659,Lexington Av/59 St_0,3 Av - 138 St_0
+660,Lexington Av/59 St_0,New Lots Av_0
+661,Lexington Av/59 St_0,6 Av_0
+662,Lexington Av/59 St_0,168 St - Washington Hts_0
+663,Lexington Av/59 St_0,14 St_2
+664,Lexington Av/59 St_0,14 St_0
+665,Lexington Av/59 St_0,14 St_1
+666,Lexington Av/59 St_0,Jay St - MetroTech_0
+667,Lexington Av/59 St_0,Park Pl_0
+668,Lexington Av/59 St_0,Jamaica - 179 St_0
+669,Lexington Av/59 St_0,72 St_0
+670,Lexington Av/59 St_0,75 St_0
+671,Lexington Av/59 St_0,Lexington Av/63 St_0
+672,Lexington Av/59 St_0,Rockaway Av_0
+673,Lexington Av/59 St_0,135 St_1
+674,Lexington Av/59 St_0,167 St_0
+675,Lexington Av/59 St_0,Church Av_0
+676,Lexington Av/59 St_0,Church Av_1
+677,Lexington Av/59 St_0,Brooklyn Bridge - City Hall_0
+678,Lexington Av/59 St_0,Winthrop St_0
+679,Lexington Av/59 St_0,Junius St_0
+680,Lexington Av/59 St_0,Saratoga Av_0
+681,Lexington Av/59 St_0,168 St_0
+682,Lexington Av/59 St_0,59 St - Columbus Circle_0
+683,Lexington Av/59 St_0,Euclid Av_0
+684,Lexington Av/59 St_0,39 Av_0
+685,Lexington Av/59 St_0,Mets - Willets Point_0
+686,80 St_0,57 St - 7 Av_0
+687,80 St_0,Union St_0
+688,80 St_0,47-50 Sts - Rockefeller Ctr_0
+689,80 St_0,Sutter Av - Rutland Rd_0
+690,80 St_0,Woodside - 61 St_0
+691,80 St_0,7 Av_0
+692,80 St_0,Queens Plaza_0
+693,80 St_0,Woodhaven Blvd_1
+694,80 St_0,59 St_1
+695,80 St_0,9 St_0
+696,80 St_0,Chambers St_0
+697,80 St_0,Chambers St_1
+698,80 St_0,Nevins St_0
+699,80 St_0,42 St - Bryant Pk_0
+700,80 St_0,New Lots Av_0
+701,80 St_0,6 Av_0
+702,80 St_0,14 St_2
+703,80 St_0,14 St_0
+704,80 St_0,14 St_1
+705,80 St_0,Jay St - MetroTech_0
+706,80 St_0,Park Pl_0
+707,80 St_0,72 St_0
+708,80 St_0,75 St_0
+709,80 St_0,Rockaway Av_0
+710,80 St_0,135 St_1
+711,80 St_0,Church Av_1
+712,80 St_0,Brooklyn Bridge - City Hall_0
+713,80 St_0,Junius St_0
+714,80 St_0,Saratoga Av_0
+715,80 St_0,168 St_0
+716,57 St - 7 Av_0,Union St_0
+717,57 St - 7 Av_0,181 St_0
+718,57 St - 7 Av_0,Junction Blvd_0
+719,57 St - 7 Av_0,Hunts Point Av_0
+720,57 St - 7 Av_0,47-50 Sts - Rockefeller Ctr_0
+721,57 St - 7 Av_0,Sutter Av - Rutland Rd_0
+722,57 St - 7 Av_0,5 Av/53 St_0
+723,57 St - 7 Av_0,Forest Hills - 71 Av_0
+724,57 St - 7 Av_0,Woodside - 61 St_0
+725,57 St - 7 Av_0,Grand Central - 42 St_1
+726,57 St - 7 Av_0,Grand Central - 42 St_0
+727,57 St - 7 Av_0,7 Av_0
+728,57 St - 7 Av_0,Queens Plaza_0
+729,57 St - 7 Av_0,Woodhaven Blvd_1
+730,57 St - 7 Av_0,59 St_1
+731,57 St - 7 Av_0,9 St_0
+732,57 St - 7 Av_0,Chambers St_0
+733,57 St - 7 Av_0,Chambers St_1
+734,57 St - 7 Av_0,149 St - Grand Concourse_0
+735,57 St - 7 Av_0,Nevins St_0
+736,57 St - 7 Av_0,14 St - Union Sq_0
+737,57 St - 7 Av_0,59 St_0
+738,57 St - 7 Av_0,Parsons Blvd_0
+739,57 St - 7 Av_0,42 St - Bryant Pk_0
+740,57 St - 7 Av_0,E 180 St_0
+741,57 St - 7 Av_0,Franklin Av_1
+742,57 St - 7 Av_0,3 Av - 138 St_0
+743,57 St - 7 Av_0,New Lots Av_0
+744,57 St - 7 Av_0,6 Av_0
+745,57 St - 7 Av_0,168 St - Washington Hts_0
+746,57 St - 7 Av_0,14 St_2
+747,57 St - 7 Av_0,14 St_0
+748,57 St - 7 Av_0,14 St_1
+749,57 St - 7 Av_0,Jay St - MetroTech_0
+750,57 St - 7 Av_0,Park Pl_0
+751,57 St - 7 Av_0,Jamaica - 179 St_0
+752,57 St - 7 Av_0,72 St_0
+753,57 St - 7 Av_0,75 St_0
+754,57 St - 7 Av_0,Lexington Av/63 St_0
+755,57 St - 7 Av_0,Rockaway Av_0
+756,57 St - 7 Av_0,135 St_1
+757,57 St - 7 Av_0,167 St_0
+758,57 St - 7 Av_0,Church Av_0
+759,57 St - 7 Av_0,Church Av_1
+760,57 St - 7 Av_0,Brooklyn Bridge - City Hall_0
+761,57 St - 7 Av_0,Winthrop St_0
+762,57 St - 7 Av_0,Junius St_0
+763,57 St - 7 Av_0,Saratoga Av_0
+764,57 St - 7 Av_0,168 St_0
+765,57 St - 7 Av_0,59 St - Columbus Circle_0
+766,57 St - 7 Av_0,Euclid Av_0
+767,57 St - 7 Av_0,39 Av_0
+768,57 St - 7 Av_0,Mets - Willets Point_0
+769,Union St_0,181 St_0
+770,Union St_0,Junction Blvd_0
+771,Union St_0,Hunts Point Av_0
+772,Union St_0,47-50 Sts - Rockefeller Ctr_0
+773,Union St_0,Sutter Av - Rutland Rd_0
+774,Union St_0,5 Av/53 St_0
+775,Union St_0,Forest Hills - 71 Av_0
+776,Union St_0,Woodside - 61 St_0
+777,Union St_0,Grand Central - 42 St_1
+778,Union St_0,Grand Central - 42 St_0
+779,Union St_0,7 Av_0
+780,Union St_0,Queens Plaza_0
+781,Union St_0,Woodhaven Blvd_1
+782,Union St_0,59 St_1
+783,Union St_0,9 St_0
+784,Union St_0,Chambers St_0
+785,Union St_0,Chambers St_1
+786,Union St_0,149 St - Grand Concourse_0
+787,Union St_0,Nevins St_0
+788,Union St_0,14 St - Union Sq_0
+789,Union St_0,59 St_0
+790,Union St_0,Parsons Blvd_0
+791,Union St_0,42 St - Bryant Pk_0
+792,Union St_0,E 180 St_0
+793,Union St_0,Franklin Av_1
+794,Union St_0,3 Av - 138 St_0
+795,Union St_0,New Lots Av_0
+796,Union St_0,6 Av_0
+797,Union St_0,168 St - Washington Hts_0
+798,Union St_0,14 St_2
+799,Union St_0,14 St_0
+800,Union St_0,14 St_1
+801,Union St_0,Jay St - MetroTech_0
+802,Union St_0,Park Pl_0
+803,Union St_0,Jamaica - 179 St_0
+804,Union St_0,72 St_0
+805,Union St_0,75 St_0
+806,Union St_0,Lexington Av/63 St_0
+807,Union St_0,Rockaway Av_0
+808,Union St_0,135 St_1
+809,Union St_0,167 St_0
+810,Union St_0,Church Av_0
+811,Union St_0,Church Av_1
+812,Union St_0,Brooklyn Bridge - City Hall_0
+813,Union St_0,Winthrop St_0
+814,Union St_0,Junius St_0
+815,Union St_0,Saratoga Av_0
+816,Union St_0,168 St_0
+817,Union St_0,59 St - Columbus Circle_0
+818,Union St_0,Euclid Av_0
+819,Union St_0,39 Av_0
+820,Union St_0,Mets - Willets Point_0
+821,181 St_0,47-50 Sts - Rockefeller Ctr_0
+822,181 St_0,Sutter Av - Rutland Rd_0
+823,181 St_0,Woodside - 61 St_0
+824,181 St_0,7 Av_0
+825,181 St_0,Queens Plaza_0
+826,181 St_0,Woodhaven Blvd_1
+827,181 St_0,59 St_1
+828,181 St_0,9 St_0
+829,181 St_0,Chambers St_0
+830,181 St_0,Chambers St_1
+831,181 St_0,Nevins St_0
+832,181 St_0,42 St - Bryant Pk_0
+833,181 St_0,New Lots Av_0
+834,181 St_0,6 Av_0
+835,181 St_0,14 St_2
+836,181 St_0,14 St_0
+837,181 St_0,14 St_1
+838,181 St_0,Jay St - MetroTech_0
+839,181 St_0,Park Pl_0
+840,181 St_0,72 St_0
+841,181 St_0,75 St_0
+842,181 St_0,Rockaway Av_0
+843,181 St_0,135 St_1
+844,181 St_0,Church Av_1
+845,181 St_0,Brooklyn Bridge - City Hall_0
+846,181 St_0,Junius St_0
+847,181 St_0,Saratoga Av_0
+848,181 St_0,168 St_0
+849,Junction Blvd_0,47-50 Sts - Rockefeller Ctr_0
+850,Junction Blvd_0,Sutter Av - Rutland Rd_0
+851,Junction Blvd_0,Woodside - 61 St_0
+852,Junction Blvd_0,7 Av_0
+853,Junction Blvd_0,Queens Plaza_0
+854,Junction Blvd_0,Woodhaven Blvd_1
+855,Junction Blvd_0,59 St_1
+856,Junction Blvd_0,9 St_0
+857,Junction Blvd_0,Chambers St_0
+858,Junction Blvd_0,Chambers St_1
+859,Junction Blvd_0,Nevins St_0
+860,Junction Blvd_0,42 St - Bryant Pk_0
+861,Junction Blvd_0,New Lots Av_0
+862,Junction Blvd_0,6 Av_0
+863,Junction Blvd_0,14 St_2
+864,Junction Blvd_0,14 St_0
+865,Junction Blvd_0,14 St_1
+866,Junction Blvd_0,Jay St - MetroTech_0
+867,Junction Blvd_0,Park Pl_0
+868,Junction Blvd_0,72 St_0
+869,Junction Blvd_0,75 St_0
+870,Junction Blvd_0,Rockaway Av_0
+871,Junction Blvd_0,135 St_1
+872,Junction Blvd_0,Church Av_1
+873,Junction Blvd_0,Brooklyn Bridge - City Hall_0
+874,Junction Blvd_0,Junius St_0
+875,Junction Blvd_0,Saratoga Av_0
+876,Junction Blvd_0,168 St_0
+877,Hunts Point Av_0,47-50 Sts - Rockefeller Ctr_0
+878,Hunts Point Av_0,Sutter Av - Rutland Rd_0
+879,Hunts Point Av_0,Woodside - 61 St_0
+880,Hunts Point Av_0,7 Av_0
+881,Hunts Point Av_0,Queens Plaza_0
+882,Hunts Point Av_0,Woodhaven Blvd_1
+883,Hunts Point Av_0,59 St_1
+884,Hunts Point Av_0,9 St_0
+885,Hunts Point Av_0,Chambers St_0
+886,Hunts Point Av_0,Chambers St_1
+887,Hunts Point Av_0,Nevins St_0
+888,Hunts Point Av_0,42 St - Bryant Pk_0
+889,Hunts Point Av_0,New Lots Av_0
+890,Hunts Point Av_0,6 Av_0
+891,Hunts Point Av_0,14 St_2
+892,Hunts Point Av_0,14 St_0
+893,Hunts Point Av_0,14 St_1
+894,Hunts Point Av_0,Jay St - MetroTech_0
+895,Hunts Point Av_0,Park Pl_0
+896,Hunts Point Av_0,72 St_0
+897,Hunts Point Av_0,75 St_0
+898,Hunts Point Av_0,Rockaway Av_0
+899,Hunts Point Av_0,135 St_1
+900,Hunts Point Av_0,Church Av_1
+901,Hunts Point Av_0,Brooklyn Bridge - City Hall_0
+902,Hunts Point Av_0,Junius St_0
+903,Hunts Point Av_0,Saratoga Av_0
+904,Hunts Point Av_0,168 St_0
+905,47-50 Sts - Rockefeller Ctr_0,Sutter Av - Rutland Rd_0
+906,47-50 Sts - Rockefeller Ctr_0,5 Av/53 St_0
+907,47-50 Sts - Rockefeller Ctr_0,Forest Hills - 71 Av_0
+908,47-50 Sts - Rockefeller Ctr_0,Woodside - 61 St_0
+909,47-50 Sts - Rockefeller Ctr_0,Grand Central - 42 St_1
+910,47-50 Sts - Rockefeller Ctr_0,Grand Central - 42 St_0
+911,47-50 Sts - Rockefeller Ctr_0,7 Av_0
+912,47-50 Sts - Rockefeller Ctr_0,Queens Plaza_0
+913,47-50 Sts - Rockefeller Ctr_0,Woodhaven Blvd_1
+914,47-50 Sts - Rockefeller Ctr_0,59 St_1
+915,47-50 Sts - Rockefeller Ctr_0,9 St_0
+916,47-50 Sts - Rockefeller Ctr_0,Chambers St_0
+917,47-50 Sts - Rockefeller Ctr_0,Chambers St_1
+918,47-50 Sts - Rockefeller Ctr_0,149 St - Grand Concourse_0
+919,47-50 Sts - Rockefeller Ctr_0,Nevins St_0
+920,47-50 Sts - Rockefeller Ctr_0,14 St - Union Sq_0
+921,47-50 Sts - Rockefeller Ctr_0,59 St_0
+922,47-50 Sts - Rockefeller Ctr_0,Parsons Blvd_0
+923,47-50 Sts - Rockefeller Ctr_0,42 St - Bryant Pk_0
+924,47-50 Sts - Rockefeller Ctr_0,E 180 St_0
+925,47-50 Sts - Rockefeller Ctr_0,Franklin Av_1
+926,47-50 Sts - Rockefeller Ctr_0,3 Av - 138 St_0
+927,47-50 Sts - Rockefeller Ctr_0,New Lots Av_0
+928,47-50 Sts - Rockefeller Ctr_0,6 Av_0
+929,47-50 Sts - Rockefeller Ctr_0,168 St - Washington Hts_0
