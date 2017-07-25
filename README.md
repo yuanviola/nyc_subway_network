@@ -5,15 +5,15 @@ use NYC MTA Subway GTFS to build up network
   -- Prepare data for nodes and links.ipynb</br>
   -- network_construction_criticality.ipynb</br>
   -- network_setup</br>
-      -- stop_times_cleaned</br>
-      -- stop_train</br>
-      nodes:</br>
-      -- sub_node	</br>
-      -- master_master_node</br>
-      edges:</br>
-      -- waiting</br>
-      -- duration_7-10am_weekday</br>
-      -- transfer</br>
+        -- stop_times_cleaned</br>
+        -- stop_train</br>
+        nodes:</br>
+        -- sub_node	</br>
+        -- master_master_node</br>
+        edges:</br>
+        -- waiting</br>
+        -- duration_7-10am_weekday</br>
+        -- transfer</br>
      
 2. Duration</br>
   -- whole_network_duration</br>
