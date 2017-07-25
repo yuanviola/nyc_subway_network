@@ -27,12 +27,12 @@ use NYC MTA Subway GTFS to build up network
   -- remove_two_nodes_duration_diff.csv.gz</br>
 
 4. Demand</br>
-  -- demand.csv.gz
-  -- od_demand_distribution_v2.csv
+  -- demand.csv.gz</br>
+  -- od_demand_distribution_v2.csv</br>
 
 5.Criticality computation</br>
-  -- one node criticality calculation.ipynb
-  -- network_runtwo_nodes_removal_duration.ipynb
-  -- delay_multiply_demand_one_node_removal.csv
-  -- delay_multiply_demand_two_nodes_removal.csv
+  -- one node criticality calculation.ipynb</br>
+  -- network_runtwo_nodes_removal_duration.ipynb</br>
+  -- delay_multiply_demand_one_node_removal.csv</br>
+  -- delay_multiply_demand_two_nodes_removal.csv</br>
 
